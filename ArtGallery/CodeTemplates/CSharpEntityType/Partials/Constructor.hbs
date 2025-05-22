@@ -1,0 +1,8 @@
+﻿    /// <summary> Constructor for {{class}} </summary>
+    public {{class}}() {}
+    public {{class}} ({{#each properties}}{{property-type}} {{camelCase property-name}}{{#unless @last}},{{/unless}} {{/each}})
+    {
+{{#each properties}}
+         this.{{property-name}} = {{camelCase property-name}};
+{{/each}}
+    }
