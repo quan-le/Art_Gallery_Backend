@@ -46,7 +46,7 @@ namespace ArtGallery.Controllers
 
         //PUT update Artifact
         [HttpPut("{id}")]
-        public IActionResult UpdatArtifact(Guid id, [FromBody] Artifact updatedArtifact)
+        public IActionResult UpdateArtifact(Guid id, [FromBody] Artifact updatedArtifact)
         {
             if (updatedArtifact == null)
             {

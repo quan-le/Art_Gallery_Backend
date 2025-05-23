@@ -7,11 +7,11 @@ namespace ArtGallery.Controllers
 {
     [ApiController]
     [Route("api/users")]
-    public class userController : ControllerBase
+    public class UserController : ControllerBase
     {
         //Dependency Injection
         private readonly IUserDAO _userDAO;
-        public userController(IUserDAO userDAO)
+        public UserController(IUserDAO userDAO)
         {
             _userDAO = userDAO;
         }
@@ -46,7 +46,7 @@ namespace ArtGallery.Controllers
 
         //PUT update user
         [HttpPut("{id}")]
-        public IActionResult UpdatUser(Guid id, [FromBody] User updatedUser)
+        public IActionResult UpdateUser(Guid id, [FromBody] User updatedUser)
         {
             if (updatedUser == null)
             {

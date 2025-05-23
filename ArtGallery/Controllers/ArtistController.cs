@@ -46,7 +46,7 @@ namespace ArtGallery.Controllers
 
         //PUT update Artist
         [HttpPut("{id}")]
-        public IActionResult UpdatArtist(Guid id, [FromBody] Artist updatedArtist)
+        public IActionResult UpdateArtist(Guid id, [FromBody] Artist updatedArtist)
         {
             if (updatedArtist == null)
             {

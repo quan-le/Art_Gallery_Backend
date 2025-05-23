@@ -3,20 +3,24 @@
   "WorkspaceRootPath": "C:\\Users\\windows\\OneDrive - VietNam National University - HCM INTERNATIONAL UNIVERSITY\\Desktop\\Programming\\C#\\Art_Gallery_Backend\\ArtGallery\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{20F64D49-B43C-4337-83DA-0F9CEEA2F2ED}|ArtGallery.csproj|c:\\users\\windows\\onedrive - vietnam national university - hcm international university\\desktop\\programming\\c#\\art_gallery_backend\\artgallery\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{20F64D49-B43C-4337-83DA-0F9CEEA2F2ED}|ArtGallery.csproj|solutionrelative:controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{20F64D49-B43C-4337-83DA-0F9CEEA2F2ED}|ArtGallery.csproj|c:\\users\\windows\\onedrive - vietnam national university - hcm international university\\desktop\\programming\\c#\\art_gallery_backend\\artgallery\\persistence\\roledao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20F64D49-B43C-4337-83DA-0F9CEEA2F2ED}|ArtGallery.csproj|solutionrelative:persistence\\roledao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{20F64D49-B43C-4337-83DA-0F9CEEA2F2ED}|ArtGallery.csproj|c:\\users\\windows\\onedrive - vietnam national university - hcm international university\\desktop\\programming\\c#\\art_gallery_backend\\artgallery\\controllers\\artistcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{20F64D49-B43C-4337-83DA-0F9CEEA2F2ED}|ArtGallery.csproj|solutionrelative:controllers\\artistcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{20F64D49-B43C-4337-83DA-0F9CEEA2F2ED}|ArtGallery.csproj|c:\\users\\windows\\onedrive - vietnam national university - hcm international university\\desktop\\programming\\c#\\art_gallery_backend\\artgallery\\persistence\\interfacedao\\iroledao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20F64D49-B43C-4337-83DA-0F9CEEA2F2ED}|ArtGallery.csproj|solutionrelative:persistence\\interfacedao\\iroledao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{20F64D49-B43C-4337-83DA-0F9CEEA2F2ED}|ArtGallery.csproj|c:\\users\\windows\\onedrive - vietnam national university - hcm international university\\desktop\\programming\\c#\\art_gallery_backend\\artgallery\\persistence\\userdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{20F64D49-B43C-4337-83DA-0F9CEEA2F2ED}|ArtGallery.csproj|solutionrelative:persistence\\userdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{20F64D49-B43C-4337-83DA-0F9CEEA2F2ED}|ArtGallery.csproj|c:\\users\\windows\\onedrive - vietnam national university - hcm international university\\desktop\\programming\\c#\\art_gallery_backend\\artgallery\\persistence\\tagdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20F64D49-B43C-4337-83DA-0F9CEEA2F2ED}|ArtGallery.csproj|solutionrelative:persistence\\tagdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{20F64D49-B43C-4337-83DA-0F9CEEA2F2ED}|ArtGallery.csproj|c:\\users\\windows\\onedrive - vietnam national university - hcm international university\\desktop\\programming\\c#\\art_gallery_backend\\artgallery\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{20F64D49-B43C-4337-83DA-0F9CEEA2F2ED}|ArtGallery.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20F64D49-B43C-4337-83DA-0F9CEEA2F2ED}|ArtGallery.csproj|c:\\users\\windows\\onedrive - vietnam national university - hcm international university\\desktop\\programming\\c#\\art_gallery_backend\\artgallery\\controllers\\tagcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20F64D49-B43C-4337-83DA-0F9CEEA2F2ED}|ArtGallery.csproj|solutionrelative:controllers\\tagcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,8 +30,21 @@
       "DocumentGroups": [
         {
           "DockedWidth": 259,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 2,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IRoleDAO.cs",
+              "DocumentMoniker": "C:\\Users\\windows\\OneDrive - VietNam National University - HCM INTERNATIONAL UNIVERSITY\\Desktop\\Programming\\C#\\Art_Gallery_Backend\\ArtGallery\\Persistence\\InterfaceDAO\\IRoleDAO.cs",
+              "RelativeDocumentMoniker": "Persistence\\InterfaceDAO\\IRoleDAO.cs",
+              "ToolTip": "C:\\Users\\windows\\OneDrive - VietNam National University - HCM INTERNATIONAL UNIVERSITY\\Desktop\\Programming\\C#\\Art_Gallery_Backend\\ArtGallery\\Persistence\\InterfaceDAO\\IRoleDAO.cs",
+              "RelativeToolTip": "Persistence\\InterfaceDAO\\IRoleDAO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-23T04:39:54.23Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 3,
@@ -36,7 +53,7 @@
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "C:\\Users\\windows\\OneDrive - VietNam National University - HCM INTERNATIONAL UNIVERSITY\\Desktop\\Programming\\C#\\Art_Gallery_Backend\\ArtGallery\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAA2AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-22T03:38:51.994Z",
               "EditorCaption": ""
@@ -44,14 +61,14 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "UserController.cs",
-              "DocumentMoniker": "C:\\Users\\windows\\OneDrive - VietNam National University - HCM INTERNATIONAL UNIVERSITY\\Desktop\\Programming\\C#\\Art_Gallery_Backend\\ArtGallery\\Controllers\\UserController.cs",
-              "RelativeDocumentMoniker": "Controllers\\UserController.cs",
-              "ToolTip": "C:\\Users\\windows\\OneDrive - VietNam National University - HCM INTERNATIONAL UNIVERSITY\\Desktop\\Programming\\C#\\Art_Gallery_Backend\\ArtGallery\\Controllers\\UserController.cs",
-              "RelativeToolTip": "Controllers\\UserController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEgAAAAkAAAAAAAAAA==",
+              "Title": "RoleDAO.cs",
+              "DocumentMoniker": "C:\\Users\\windows\\OneDrive - VietNam National University - HCM INTERNATIONAL UNIVERSITY\\Desktop\\Programming\\C#\\Art_Gallery_Backend\\ArtGallery\\Persistence\\RoleDAO.cs",
+              "RelativeDocumentMoniker": "Persistence\\RoleDAO.cs",
+              "ToolTip": "C:\\Users\\windows\\OneDrive - VietNam National University - HCM INTERNATIONAL UNIVERSITY\\Desktop\\Programming\\C#\\Art_Gallery_Backend\\ArtGallery\\Persistence\\RoleDAO.cs",
+              "RelativeToolTip": "Persistence\\RoleDAO.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAxwAwAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-23T04:25:07.684Z",
+              "WhenOpened": "2025-05-23T04:37:54.797Z",
               "EditorCaption": ""
             }
           ]
@@ -62,28 +79,28 @@
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "ArtistController.cs",
-              "DocumentMoniker": "C:\\Users\\windows\\OneDrive - VietNam National University - HCM INTERNATIONAL UNIVERSITY\\Desktop\\Programming\\C#\\Art_Gallery_Backend\\ArtGallery\\Controllers\\ArtistController.cs",
-              "RelativeDocumentMoniker": "Controllers\\ArtistController.cs",
-              "ToolTip": "C:\\Users\\windows\\OneDrive - VietNam National University - HCM INTERNATIONAL UNIVERSITY\\Desktop\\Programming\\C#\\Art_Gallery_Backend\\ArtGallery\\Controllers\\ArtistController.cs",
-              "RelativeToolTip": "Controllers\\ArtistController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 2,
+              "Title": "TagDAO.cs",
+              "DocumentMoniker": "C:\\Users\\windows\\OneDrive - VietNam National University - HCM INTERNATIONAL UNIVERSITY\\Desktop\\Programming\\C#\\Art_Gallery_Backend\\ArtGallery\\Persistence\\TagDAO.cs",
+              "RelativeDocumentMoniker": "Persistence\\TagDAO.cs",
+              "ToolTip": "C:\\Users\\windows\\OneDrive - VietNam National University - HCM INTERNATIONAL UNIVERSITY\\Desktop\\Programming\\C#\\Art_Gallery_Backend\\ArtGallery\\Persistence\\TagDAO.cs",
+              "RelativeToolTip": "Persistence\\TagDAO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-23T04:25:29.995Z",
+              "WhenOpened": "2025-05-23T04:31:04.829Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "UserDAO.cs",
-              "DocumentMoniker": "C:\\Users\\windows\\OneDrive - VietNam National University - HCM INTERNATIONAL UNIVERSITY\\Desktop\\Programming\\C#\\Art_Gallery_Backend\\ArtGallery\\Persistence\\UserDAO.cs",
-              "RelativeDocumentMoniker": "Persistence\\UserDAO.cs",
-              "ToolTip": "C:\\Users\\windows\\OneDrive - VietNam National University - HCM INTERNATIONAL UNIVERSITY\\Desktop\\Programming\\C#\\Art_Gallery_Backend\\ArtGallery\\Persistence\\UserDAO.cs",
-              "RelativeToolTip": "Persistence\\UserDAO.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAyAAAAAAAAAA==",
+              "DocumentIndex": 4,
+              "Title": "TagController.cs",
+              "DocumentMoniker": "C:\\Users\\windows\\OneDrive - VietNam National University - HCM INTERNATIONAL UNIVERSITY\\Desktop\\Programming\\C#\\Art_Gallery_Backend\\ArtGallery\\Controllers\\TagController.cs",
+              "RelativeDocumentMoniker": "Controllers\\TagController.cs",
+              "ToolTip": "C:\\Users\\windows\\OneDrive - VietNam National University - HCM INTERNATIONAL UNIVERSITY\\Desktop\\Programming\\C#\\Art_Gallery_Backend\\ArtGallery\\Controllers\\TagController.cs",
+              "RelativeToolTip": "Controllers\\TagController.cs",
+              "ViewState": "AgIAADUAAAAAAAAAAAAzwEkAAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-23T04:17:29.832Z",
+              "WhenOpened": "2025-05-23T04:33:59.12Z",
               "EditorCaption": ""
             }
           ]
