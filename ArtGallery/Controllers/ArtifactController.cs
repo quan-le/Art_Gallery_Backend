@@ -1,7 +1,7 @@
-﻿using ArtGallery.Persistence;
-using ArtGallery.Models;
+﻿using ArtGallery.Models;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
+using ArtGallery.Persistence.InterfaceDAO;
 
 namespace ArtGallery.Controllers
 {

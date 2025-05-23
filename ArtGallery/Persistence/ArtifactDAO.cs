@@ -1,4 +1,5 @@
 ﻿using ArtGallery.Models;
+using ArtGallery.Persistence.InterfaceDAO;
 using Microsoft.EntityFrameworkCore;
 namespace ArtGallery.Persistence
 {

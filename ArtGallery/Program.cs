@@ -1,4 +1,5 @@
 using ArtGallery.Persistence;
+using ArtGallery.Persistence.InterfaceDAO;
 using Microsoft.EntityFrameworkCore;
 
 var builder = WebApplication.CreateBuilder(args);

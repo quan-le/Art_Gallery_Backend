@@ -1,12 +1,160 @@
 [
   {
     "ContainingType": "ArtGallery.Controllers.ArtifactController",
-    "Method": "GetAllArtifact",
+    "Method": "GetAllArtist",
     "RelativePath": "api/artifacts",
     "HttpMethod": "GET",
     "IsController": true,
     "Order": 0,
     "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ArtGallery.Controllers.ArtifactController",
+    "Method": "AddArtifact",
+    "RelativePath": "api/artifacts",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "newArtifact",
+        "Type": "ArtGallery.Models.Artifact",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ArtGallery.Controllers.ArtifactController",
+    "Method": "GetArtifact",
+    "RelativePath": "api/artifacts/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Guid",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ArtGallery.Controllers.ArtifactController",
+    "Method": "UpdatArtifact",
+    "RelativePath": "api/artifacts/{id}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Guid",
+        "IsRequired": true
+      },
+      {
+        "Name": "updatedArtifact",
+        "Type": "ArtGallery.Models.Artifact",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ArtGallery.Controllers.ArtifactController",
+    "Method": "DeleteArtifact",
+    "RelativePath": "api/artifacts/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Guid",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ArtGallery.Controllers.ArtistController",
+    "Method": "GetAllArtist",
+    "RelativePath": "api/artists",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ArtGallery.Controllers.ArtistController",
+    "Method": "AddArtist",
+    "RelativePath": "api/artists",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "newArtist",
+        "Type": "ArtGallery.Models.Artist",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ArtGallery.Controllers.ArtistController",
+    "Method": "GetArtist",
+    "RelativePath": "api/artists/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Guid",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ArtGallery.Controllers.ArtistController",
+    "Method": "UpdatArtist",
+    "RelativePath": "api/artists/{id}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Guid",
+        "IsRequired": true
+      },
+      {
+        "Name": "updatedArtist",
+        "Type": "ArtGallery.Models.Artist",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ArtGallery.Controllers.ArtistController",
+    "Method": "DeleteArtist",
+    "RelativePath": "api/artists/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Guid",
+        "IsRequired": true
+      }
+    ],
     "ReturnTypes": []
   }
 ]
