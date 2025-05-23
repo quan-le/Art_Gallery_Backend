@@ -6,6 +6,8 @@ var builder = WebApplication.CreateBuilder(args);
 // Add services to the container.
 builder.Services.AddControllersWithViews();
 builder.Services.AddScoped<IArtifactDAO, ArtifactDAO>();
+builder.Services.AddScoped<IArtistDAO, ArtistDAO>();
+
 //Get connection string from appsettings.json
 var conString = builder.Configuration.GetConnectionString("ArtGalleryDb") ??
      throw new InvalidOperationException("Connection string 'ArtGalleryDb'" +

@@ -18,7 +18,7 @@ namespace ArtGallery.Controllers
 
         // GET All Artifacts
         [HttpGet()]
-        public IActionResult GetAllArtifact()
+        public IActionResult GetAllArtist()
         {
             var artifacts = _artifactDAO.GetArtifacts();
             return Ok(artifacts);
