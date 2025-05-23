@@ -7,23 +7,12 @@
       "RelativeMoniker": "D:0:0:{20F64D49-B43C-4337-83DA-0F9CEEA2F2ED}|ArtGallery.csproj|solutionrelative:persistence\\artifactdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{20F64D49-B43C-4337-83DA-0F9CEEA2F2ED}|ArtGallery.csproj|c:\\users\\windows\\onedrive - vietnam national university - hcm international university\\desktop\\programming\\c#\\art_gallery_backend\\artgallery\\models\\artifact.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{20F64D49-B43C-4337-83DA-0F9CEEA2F2ED}|ArtGallery.csproj|solutionrelative:models\\artifact.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\windows\\OneDrive - VietNam National University - HCM INTERNATIONAL UNIVERSITY\\Desktop\\Programming\\C#\\SIT331_Project\\6.1PCD - Authentication\\robot-controller-api_6.1\\Persistence\\MapEF.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{20F64D49-B43C-4337-83DA-0F9CEEA2F2ED}|ArtGallery.csproj|c:\\users\\windows\\onedrive - vietnam national university - hcm international university\\desktop\\programming\\c#\\art_gallery_backend\\artgallery\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{20F64D49-B43C-4337-83DA-0F9CEEA2F2ED}|ArtGallery.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{20F64D49-B43C-4337-83DA-0F9CEEA2F2ED}|ArtGallery.csproj|c:\\users\\windows\\onedrive - vietnam national university - hcm international university\\desktop\\programming\\c#\\art_gallery_backend\\artgallery\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{20F64D49-B43C-4337-83DA-0F9CEEA2F2ED}|ArtGallery.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{20F64D49-B43C-4337-83DA-0F9CEEA2F2ED}|ArtGallery.csproj|c:\\users\\windows\\onedrive - vietnam national university - hcm international university\\desktop\\programming\\c#\\art_gallery_backend\\artgallery\\persistence\\gallerydbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{20F64D49-B43C-4337-83DA-0F9CEEA2F2ED}|ArtGallery.csproj|solutionrelative:persistence\\gallerydbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{20F64D49-B43C-4337-83DA-0F9CEEA2F2ED}|ArtGallery.csproj|c:\\users\\windows\\onedrive - vietnam national university - hcm international university\\desktop\\programming\\c#\\art_gallery_backend\\artgallery\\controllers\\artifactcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20F64D49-B43C-4337-83DA-0F9CEEA2F2ED}|ArtGallery.csproj|solutionrelative:controllers\\artifactcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -37,65 +26,13 @@
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "ArtifactDAO.cs",
-              "DocumentMoniker": "C:\\Users\\windows\\OneDrive - VietNam National University - HCM INTERNATIONAL UNIVERSITY\\Desktop\\Programming\\C#\\Art_Gallery_Backend\\ArtGallery\\Persistence\\ArtifactDAO.cs",
-              "RelativeDocumentMoniker": "Persistence\\ArtifactDAO.cs",
-              "ToolTip": "C:\\Users\\windows\\OneDrive - VietNam National University - HCM INTERNATIONAL UNIVERSITY\\Desktop\\Programming\\C#\\Art_Gallery_Backend\\ArtGallery\\Persistence\\ArtifactDAO.cs",
-              "RelativeToolTip": "Persistence\\ArtifactDAO.cs",
-              "ViewState": "AgIAAAoAAAAAAAAAAAAAwBkAAABwAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-22T05:02:49.263Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\windows\\OneDrive - VietNam National University - HCM INTERNATIONAL UNIVERSITY\\Desktop\\Programming\\C#\\Art_Gallery_Backend\\ArtGallery\\appsettings.json",
-              "RelativeDocumentMoniker": "appsettings.json",
-              "ToolTip": "C:\\Users\\windows\\OneDrive - VietNam National University - HCM INTERNATIONAL UNIVERSITY\\Desktop\\Programming\\C#\\Art_Gallery_Backend\\ArtGallery\\appsettings.json",
-              "RelativeToolTip": "appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAARAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-05-22T04:36:16.757Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "GalleryDBContext.cs",
-              "DocumentMoniker": "C:\\Users\\windows\\OneDrive - VietNam National University - HCM INTERNATIONAL UNIVERSITY\\Desktop\\Programming\\C#\\Art_Gallery_Backend\\ArtGallery\\Persistence\\GalleryDBContext.cs",
-              "RelativeDocumentMoniker": "Persistence\\GalleryDBContext.cs",
-              "ToolTip": "C:\\Users\\windows\\OneDrive - VietNam National University - HCM INTERNATIONAL UNIVERSITY\\Desktop\\Programming\\C#\\Art_Gallery_Backend\\ArtGallery\\Persistence\\GalleryDBContext.cs",
-              "RelativeToolTip": "Persistence\\GalleryDBContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAApAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-22T04:26:21.25Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Artifact.cs",
-              "DocumentMoniker": "C:\\Users\\windows\\OneDrive - VietNam National University - HCM INTERNATIONAL UNIVERSITY\\Desktop\\Programming\\C#\\Art_Gallery_Backend\\ArtGallery\\Models\\Artifact.cs",
-              "RelativeDocumentMoniker": "Models\\Artifact.cs",
-              "ToolTip": "C:\\Users\\windows\\OneDrive - VietNam National University - HCM INTERNATIONAL UNIVERSITY\\Desktop\\Programming\\C#\\Art_Gallery_Backend\\ArtGallery\\Models\\Artifact.cs",
-              "RelativeToolTip": "Models\\Artifact.cs",
-              "ViewState": "AgIAAA0AAAAAAAAAAAAAAAUAAAAZAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-22T04:02:59.799Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\windows\\OneDrive - VietNam National University - HCM INTERNATIONAL UNIVERSITY\\Desktop\\Programming\\C#\\Art_Gallery_Backend\\ArtGallery\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "C:\\Users\\windows\\OneDrive - VietNam National University - HCM INTERNATIONAL UNIVERSITY\\Desktop\\Programming\\C#\\Art_Gallery_Backend\\ArtGallery\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAUAAAAAAAAAAAAswBoAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAA4AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-22T03:38:51.994Z",
               "EditorCaption": ""
@@ -108,15 +45,28 @@
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "MapEF.cs",
-              "DocumentMoniker": "C:\\Users\\windows\\OneDrive - VietNam National University - HCM INTERNATIONAL UNIVERSITY\\Desktop\\Programming\\C#\\SIT331_Project\\6.1PCD - Authentication\\robot-controller-api_6.1\\Persistence\\MapEF.cs",
-              "RelativeDocumentMoniker": "..\\..\\SIT331_Project\\6.1PCD - Authentication\\robot-controller-api_6.1\\Persistence\\MapEF.cs",
-              "ToolTip": "C:\\Users\\windows\\OneDrive - VietNam National University - HCM INTERNATIONAL UNIVERSITY\\Desktop\\Programming\\C#\\SIT331_Project\\6.1PCD - Authentication\\robot-controller-api_6.1\\Persistence\\MapEF.cs",
-              "RelativeToolTip": "..\\..\\SIT331_Project\\6.1PCD - Authentication\\robot-controller-api_6.1\\Persistence\\MapEF.cs",
-              "ViewState": "AgIAAAsAAAAAAAAAAAAgwCQAAAA5AAAAAAAAAA==",
+              "DocumentIndex": 0,
+              "Title": "ArtifactDAO.cs",
+              "DocumentMoniker": "C:\\Users\\windows\\OneDrive - VietNam National University - HCM INTERNATIONAL UNIVERSITY\\Desktop\\Programming\\C#\\Art_Gallery_Backend\\ArtGallery\\Persistence\\ArtifactDAO.cs",
+              "RelativeDocumentMoniker": "Persistence\\ArtifactDAO.cs",
+              "ToolTip": "C:\\Users\\windows\\OneDrive - VietNam National University - HCM INTERNATIONAL UNIVERSITY\\Desktop\\Programming\\C#\\Art_Gallery_Backend\\ArtGallery\\Persistence\\ArtifactDAO.cs",
+              "RelativeToolTip": "Persistence\\ArtifactDAO.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAswAQAAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-22T05:21:47.204Z",
+              "WhenOpened": "2025-05-22T05:02:49.263Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ArtifactController.cs",
+              "DocumentMoniker": "C:\\Users\\windows\\OneDrive - VietNam National University - HCM INTERNATIONAL UNIVERSITY\\Desktop\\Programming\\C#\\Art_Gallery_Backend\\ArtGallery\\Controllers\\ArtifactController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ArtifactController.cs",
+              "ToolTip": "C:\\Users\\windows\\OneDrive - VietNam National University - HCM INTERNATIONAL UNIVERSITY\\Desktop\\Programming\\C#\\Art_Gallery_Backend\\ArtGallery\\Controllers\\ArtifactController.cs",
+              "RelativeToolTip": "Controllers\\ArtifactController.cs",
+              "ViewState": "AgIAADkAAAAAAAAAAAAqwEoAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-23T02:25:46.266Z",
               "EditorCaption": ""
             }
           ]

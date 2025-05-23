@@ -5,13 +5,14 @@ var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
 builder.Services.AddControllersWithViews();
-
-var app = builder.Build();
-
+builder.Services.AddScoped<IArtifactDAO, ArtifactDAO>();
+//Get connection string from appsettings.json
 var conString = builder.Configuration.GetConnectionString("ArtGalleryDb") ??
      throw new InvalidOperationException("Connection string 'ArtGalleryDb'" +
     " not found.");
 builder.Services.AddDbContext<GalleryDBContext>(options => options.UseSqlServer(conString));
+
+var app = builder.Build();
 
 app.UseHttpsRedirection();
 app.UseRouting();

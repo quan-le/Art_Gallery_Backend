@@ -1,10 +1,6 @@
 {
   "Files": [
     {
-      "Id": "C:\\Users\\windows\\OneDrive - VietNam National University - HCM INTERNATIONAL UNIVERSITY\\Desktop\\Programming\\C#\\Art_Gallery_Backend\\ArtGallery\\obj\\Debug\\net9.0\\scopedcss\\projectbundle\\ArtGallery.bundle.scp.css",
-      "PackagePath": "staticwebassets\\ArtGallery.2rh2dhaufq.bundle.scp.css"
-    },
-    {
       "Id": "C:\\Users\\windows\\OneDrive - VietNam National University - HCM INTERNATIONAL UNIVERSITY\\Desktop\\Programming\\C#\\Art_Gallery_Backend\\ArtGallery\\wwwroot\\css\\site.css",
       "PackagePath": "staticwebassets\\css\\site.css"
     },

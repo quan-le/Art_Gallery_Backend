@@ -2,7 +2,7 @@
 using Microsoft.EntityFrameworkCore;
 namespace ArtGallery.Persistence
 {
-    public class ArtifactDAO<T>
+    public class ArtifactDAO : IArtifactDAO
     {
         private readonly GalleryDBContext _context;
         public ArtifactDAO(GalleryDBContext context)
@@ -17,13 +17,19 @@ namespace ArtGallery.Persistence
         {
             return _context.Artifacts.AsNoTracking().FirstOrDefault(a => a.artifact_id == id);
         }
+        /*
         public Artifact GetArtifactByTitle(string title)
         {
             return _context.Artifacts.AsNoTracking().FirstOrDefault(a => a.title == title);
         }
-        public Artifact GetArtifactFlexible(string attribute, T value)
+        */
+        public Artifact AddArtifact(Artifact newArtifact)
         {
-            return _context.Artifacts.AsNoTracking().FirstOrDefault(a => EF.Property<T>(a, attribute) == value);
+            newArtifact.created_date = DateTime.UtcNow;
+            newArtifact.modified_date = DateTime.UtcNow;
+            _context.Artifacts.Add(newArtifact);
+            _context.SaveChanges();
+            return newArtifact;
         }
         public void UpdateArtifact(Guid id, Artifact updatedArtifact)
         {

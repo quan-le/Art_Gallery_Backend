@@ -1,1 +1,12 @@
-[]
+[
+  {
+    "ContainingType": "ArtGallery.Controllers.ArtifactController",
+    "Method": "GetAllArtifact",
+    "RelativePath": "api/artifacts",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  }
+]

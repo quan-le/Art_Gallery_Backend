@@ -12,11 +12,7 @@ C:\Users\windows\OneDrive - VietNam National University - HCM INTERNATIONAL UNIV
 C:\Users\windows\OneDrive - VietNam National University - HCM INTERNATIONAL UNIVERSITY\Desktop\Programming\C#\Art_Gallery_Backend\ArtGallery\obj\Debug\net9.0\ArtGallery.AssemblyInfo.cs
 C:\Users\windows\OneDrive - VietNam National University - HCM INTERNATIONAL UNIVERSITY\Desktop\Programming\C#\Art_Gallery_Backend\ArtGallery\obj\Debug\net9.0\ArtGallery.csproj.CoreCompileInputs.cache
 C:\Users\windows\OneDrive - VietNam National University - HCM INTERNATIONAL UNIVERSITY\Desktop\Programming\C#\Art_Gallery_Backend\ArtGallery\obj\Debug\net9.0\ArtGallery.MvcApplicationPartsAssemblyInfo.cache
-C:\Users\windows\OneDrive - VietNam National University - HCM INTERNATIONAL UNIVERSITY\Desktop\Programming\C#\Art_Gallery_Backend\ArtGallery\obj\Debug\net9.0\ArtGallery.RazorAssemblyInfo.cache
-C:\Users\windows\OneDrive - VietNam National University - HCM INTERNATIONAL UNIVERSITY\Desktop\Programming\C#\Art_Gallery_Backend\ArtGallery\obj\Debug\net9.0\ArtGallery.RazorAssemblyInfo.cs
-C:\Users\windows\OneDrive - VietNam National University - HCM INTERNATIONAL UNIVERSITY\Desktop\Programming\C#\Art_Gallery_Backend\ArtGallery\obj\Debug\net9.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
 C:\Users\windows\OneDrive - VietNam National University - HCM INTERNATIONAL UNIVERSITY\Desktop\Programming\C#\Art_Gallery_Backend\ArtGallery\obj\Debug\net9.0\scopedcss\bundle\ArtGallery.styles.css
-C:\Users\windows\OneDrive - VietNam National University - HCM INTERNATIONAL UNIVERSITY\Desktop\Programming\C#\Art_Gallery_Backend\ArtGallery\obj\Debug\net9.0\scopedcss\projectbundle\ArtGallery.bundle.scp.css
 C:\Users\windows\OneDrive - VietNam National University - HCM INTERNATIONAL UNIVERSITY\Desktop\Programming\C#\Art_Gallery_Backend\ArtGallery\obj\Debug\net9.0\compressed\qdpa73p2dw-b9sayid5wm.gz
 C:\Users\windows\OneDrive - VietNam National University - HCM INTERNATIONAL UNIVERSITY\Desktop\Programming\C#\Art_Gallery_Backend\ArtGallery\obj\Debug\net9.0\compressed\63lq9n3d2a-61n19gt1b8.gz
 C:\Users\windows\OneDrive - VietNam National University - HCM INTERNATIONAL UNIVERSITY\Desktop\Programming\C#\Art_Gallery_Backend\ArtGallery\obj\Debug\net9.0\compressed\d47iw1q7z5-xtxxf3hu2r.gz
@@ -79,8 +75,6 @@ C:\Users\windows\OneDrive - VietNam National University - HCM INTERNATIONAL UNIV
 C:\Users\windows\OneDrive - VietNam National University - HCM INTERNATIONAL UNIVERSITY\Desktop\Programming\C#\Art_Gallery_Backend\ArtGallery\obj\Debug\net9.0\compressed\fricudt7v9-muycvpuwrr.gz
 C:\Users\windows\OneDrive - VietNam National University - HCM INTERNATIONAL UNIVERSITY\Desktop\Programming\C#\Art_Gallery_Backend\ArtGallery\obj\Debug\net9.0\compressed\z7tbcczubg-87fc7y1x7t.gz
 C:\Users\windows\OneDrive - VietNam National University - HCM INTERNATIONAL UNIVERSITY\Desktop\Programming\C#\Art_Gallery_Backend\ArtGallery\obj\Debug\net9.0\compressed\aube23doei-mlv21k5csn.gz
-C:\Users\windows\OneDrive - VietNam National University - HCM INTERNATIONAL UNIVERSITY\Desktop\Programming\C#\Art_Gallery_Backend\ArtGallery\obj\Debug\net9.0\compressed\dzwe8khycq-2rh2dhaufq.gz
-C:\Users\windows\OneDrive - VietNam National University - HCM INTERNATIONAL UNIVERSITY\Desktop\Programming\C#\Art_Gallery_Backend\ArtGallery\obj\Debug\net9.0\compressed\xsbo6yuxkc-2rh2dhaufq.gz
 C:\Users\windows\OneDrive - VietNam National University - HCM INTERNATIONAL UNIVERSITY\Desktop\Programming\C#\Art_Gallery_Backend\ArtGallery\obj\Debug\net9.0\staticwebassets.build.json
 C:\Users\windows\OneDrive - VietNam National University - HCM INTERNATIONAL UNIVERSITY\Desktop\Programming\C#\Art_Gallery_Backend\ArtGallery\obj\Debug\net9.0\staticwebassets.development.json
 C:\Users\windows\OneDrive - VietNam National University - HCM INTERNATIONAL UNIVERSITY\Desktop\Programming\C#\Art_Gallery_Backend\ArtGallery\obj\Debug\net9.0\staticwebassets.build.endpoints.json
@@ -348,3 +342,5 @@ C:\Users\windows\OneDrive - VietNam National University - HCM INTERNATIONAL UNIV
 C:\Users\windows\OneDrive - VietNam National University - HCM INTERNATIONAL UNIVERSITY\Desktop\Programming\C#\Art_Gallery_Backend\ArtGallery\obj\Debug\net9.0\ArtGallery.csproj.AssemblyReference.cache
 C:\Users\windows\OneDrive - VietNam National University - HCM INTERNATIONAL UNIVERSITY\Desktop\Programming\C#\Art_Gallery_Backend\ArtGallery\obj\Debug\net9.0\ArtGallery.MvcApplicationPartsAssemblyInfo.cs
 C:\Users\windows\OneDrive - VietNam National University - HCM INTERNATIONAL UNIVERSITY\Desktop\Programming\C#\Art_Gallery_Backend\ArtGallery\obj\Debug\net9.0\ArtGallery.csproj.Up2Date
+C:\Users\windows\OneDrive - VietNam National University - HCM INTERNATIONAL UNIVERSITY\Desktop\Programming\C#\Art_Gallery_Backend\ArtGallery\obj\Debug\net9.0\ArtGallery.sourcelink.json
+C:\Users\windows\OneDrive - VietNam National University - HCM INTERNATIONAL UNIVERSITY\Desktop\Programming\C#\Art_Gallery_Backend\ArtGallery\obj\Debug\net9.0\staticwebassets.upToDateCheck.txt
