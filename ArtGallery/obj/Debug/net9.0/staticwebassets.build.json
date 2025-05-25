@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "2GCSevm8NN0IdvO7y0wLtGM4r9BVagzhAgiMcePL+qM=",
+  "Hash": "IamZwNmJ6/vg3XEv7blAUp437aVNQK4O/wEHdTY85Jw=",
   "Source": "ArtGallery",
   "BasePath": "_content/ArtGallery",
   "Mode": "Default",
@@ -332,12 +332,12 @@
       "OriginalItemSpec": "C:\\Users\\windows\\OneDrive - VietNam National University - HCM INTERNATIONAL UNIVERSITY\\Desktop\\Programming\\C#\\Art_Gallery_Backend\\ArtGallery\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
     },
     {
-      "Identity": "C:\\Users\\windows\\OneDrive - VietNam National University - HCM INTERNATIONAL UNIVERSITY\\Desktop\\Programming\\C#\\Art_Gallery_Backend\\ArtGallery\\obj\\Debug\\net9.0\\compressed\\6gvpzkjqft-n2v1xeq61i.gz",
+      "Identity": "C:\\Users\\windows\\OneDrive - VietNam National University - HCM INTERNATIONAL UNIVERSITY\\Desktop\\Programming\\C#\\Art_Gallery_Backend\\ArtGallery\\obj\\Debug\\net9.0\\compressed\\6gvpzkjqft-f10nv2zff2.gz",
       "SourceId": "ArtGallery",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\windows\\OneDrive - VietNam National University - HCM INTERNATIONAL UNIVERSITY\\Desktop\\Programming\\C#\\Art_Gallery_Backend\\ArtGallery\\obj\\Debug\\net9.0\\compressed\\",
       "BasePath": "_content/ArtGallery",
-      "RelativePath": "styles/theme-flattop#[.{fingerprint=n2v1xeq61i}]?.css.gz",
+      "RelativePath": "styles/theme-flattop#[.{fingerprint=f10nv2zff2}]?.css.gz",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Alternative",
@@ -346,8 +346,8 @@
       "RelatedAsset": "C:\\Users\\windows\\OneDrive - VietNam National University - HCM INTERNATIONAL UNIVERSITY\\Desktop\\Programming\\C#\\Art_Gallery_Backend\\ArtGallery\\wwwroot\\styles\\theme-flattop.css",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "jq8efrqlzz",
-      "Integrity": "u77LNaTxd05EwcOgPvNQ5HpbOaniujTRxVlMgwnnRQI=",
+      "Fingerprint": "8wjwzgj5u4",
+      "Integrity": "SCDqx9iHm0Dy3i/pj/SQrbueE0HqbjLa7Ts+12nkOig=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "C:\\Users\\windows\\OneDrive - VietNam National University - HCM INTERNATIONAL UNIVERSITY\\Desktop\\Programming\\C#\\Art_Gallery_Backend\\ArtGallery\\wwwroot\\styles\\theme-flattop.css"
@@ -395,12 +395,12 @@
       "OriginalItemSpec": "C:\\Users\\windows\\OneDrive - VietNam National University - HCM INTERNATIONAL UNIVERSITY\\Desktop\\Programming\\C#\\Art_Gallery_Backend\\ArtGallery\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\windows\\OneDrive - VietNam National University - HCM INTERNATIONAL UNIVERSITY\\Desktop\\Programming\\C#\\Art_Gallery_Backend\\ArtGallery\\obj\\Debug\\net9.0\\compressed\\7lxe981fze-0dt8s28e9b.gz",
+      "Identity": "C:\\Users\\windows\\OneDrive - VietNam National University - HCM INTERNATIONAL UNIVERSITY\\Desktop\\Programming\\C#\\Art_Gallery_Backend\\ArtGallery\\obj\\Debug\\net9.0\\compressed\\7lxe981fze-a7krzxwknb.gz",
       "SourceId": "ArtGallery",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\windows\\OneDrive - VietNam National University - HCM INTERNATIONAL UNIVERSITY\\Desktop\\Programming\\C#\\Art_Gallery_Backend\\ArtGallery\\obj\\Debug\\net9.0\\compressed\\",
       "BasePath": "_content/ArtGallery",
-      "RelativePath": "styles/theme-feeling-blue#[.{fingerprint=0dt8s28e9b}]?.css.gz",
+      "RelativePath": "styles/theme-feeling-blue#[.{fingerprint=a7krzxwknb}]?.css.gz",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Alternative",
@@ -409,8 +409,8 @@
       "RelatedAsset": "C:\\Users\\windows\\OneDrive - VietNam National University - HCM INTERNATIONAL UNIVERSITY\\Desktop\\Programming\\C#\\Art_Gallery_Backend\\ArtGallery\\wwwroot\\styles\\theme-feeling-blue.css",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "y32dmup1yk",
-      "Integrity": "7ilFECp1xQ0DHj7C+9s80IEkxj+6XRsF49JcMDvIilU=",
+      "Fingerprint": "2z42j1j04d",
+      "Integrity": "rkwZfbBv6V8fBMgxf6qC4Gyo2ggiZVvu5iDBXcY+xe4=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "C:\\Users\\windows\\OneDrive - VietNam National University - HCM INTERNATIONAL UNIVERSITY\\Desktop\\Programming\\C#\\Art_Gallery_Backend\\ArtGallery\\wwwroot\\styles\\theme-feeling-blue.css"
@@ -479,12 +479,12 @@
       "OriginalItemSpec": "C:\\Users\\windows\\OneDrive - VietNam National University - HCM INTERNATIONAL UNIVERSITY\\Desktop\\Programming\\C#\\Art_Gallery_Backend\\ArtGallery\\wwwroot\\lib\\jquery-validation\\LICENSE.md"
     },
     {
-      "Identity": "C:\\Users\\windows\\OneDrive - VietNam National University - HCM INTERNATIONAL UNIVERSITY\\Desktop\\Programming\\C#\\Art_Gallery_Backend\\ArtGallery\\obj\\Debug\\net9.0\\compressed\\8zvtjqfzbm-k0kuzhetng.gz",
+      "Identity": "C:\\Users\\windows\\OneDrive - VietNam National University - HCM INTERNATIONAL UNIVERSITY\\Desktop\\Programming\\C#\\Art_Gallery_Backend\\ArtGallery\\obj\\Debug\\net9.0\\compressed\\8zvtjqfzbm-ez0th3efg8.gz",
       "SourceId": "ArtGallery",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\windows\\OneDrive - VietNam National University - HCM INTERNATIONAL UNIVERSITY\\Desktop\\Programming\\C#\\Art_Gallery_Backend\\ArtGallery\\obj\\Debug\\net9.0\\compressed\\",
       "BasePath": "_content/ArtGallery",
-      "RelativePath": "styles/theme-muted#[.{fingerprint=k0kuzhetng}]?.css.gz",
+      "RelativePath": "styles/theme-muted#[.{fingerprint=ez0th3efg8}]?.css.gz",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Alternative",
@@ -493,8 +493,8 @@
       "RelatedAsset": "C:\\Users\\windows\\OneDrive - VietNam National University - HCM INTERNATIONAL UNIVERSITY\\Desktop\\Programming\\C#\\Art_Gallery_Backend\\ArtGallery\\wwwroot\\styles\\theme-muted.css",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "16eaxezj2m",
-      "Integrity": "x/DNivpZfxazxj9YfFpMe/onyPh5Y0oGsSzp1/wrsN8=",
+      "Fingerprint": "nptn1nfdiq",
+      "Integrity": "1Xz7HQcjo+OZktrPzhhXJYXNrDQ0Ap52KOEgaIilBfI=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "C:\\Users\\windows\\OneDrive - VietNam National University - HCM INTERNATIONAL UNIVERSITY\\Desktop\\Programming\\C#\\Art_Gallery_Backend\\ArtGallery\\wwwroot\\styles\\theme-muted.css"
@@ -542,12 +542,12 @@
       "OriginalItemSpec": "C:\\Users\\windows\\OneDrive - VietNam National University - HCM INTERNATIONAL UNIVERSITY\\Desktop\\Programming\\C#\\Art_Gallery_Backend\\ArtGallery\\wwwroot\\lib\\jquery\\LICENSE.txt"
     },
     {
-      "Identity": "C:\\Users\\windows\\OneDrive - VietNam National University - HCM INTERNATIONAL UNIVERSITY\\Desktop\\Programming\\C#\\Art_Gallery_Backend\\ArtGallery\\obj\\Debug\\net9.0\\compressed\\b4b5r90az5-mm5k7ds8a0.gz",
+      "Identity": "C:\\Users\\windows\\OneDrive - VietNam National University - HCM INTERNATIONAL UNIVERSITY\\Desktop\\Programming\\C#\\Art_Gallery_Backend\\ArtGallery\\obj\\Debug\\net9.0\\compressed\\b4b5r90az5-3vsn4f9odj.gz",
       "SourceId": "ArtGallery",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\windows\\OneDrive - VietNam National University - HCM INTERNATIONAL UNIVERSITY\\Desktop\\Programming\\C#\\Art_Gallery_Backend\\ArtGallery\\obj\\Debug\\net9.0\\compressed\\",
       "BasePath": "_content/ArtGallery",
-      "RelativePath": "styles/robot#[.{fingerprint=mm5k7ds8a0}]?.css.gz",
+      "RelativePath": "styles/robot#[.{fingerprint=3vsn4f9odj}]?.css.gz",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Alternative",
@@ -556,8 +556,8 @@
       "RelatedAsset": "C:\\Users\\windows\\OneDrive - VietNam National University - HCM INTERNATIONAL UNIVERSITY\\Desktop\\Programming\\C#\\Art_Gallery_Backend\\ArtGallery\\wwwroot\\styles\\robot.css",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "3muuw8masa",
-      "Integrity": "helSrj+Cisuf8ivFVCQL0n59E3vJWV1Q6WNfo0Q8i88=",
+      "Fingerprint": "ozm79ksp9e",
+      "Integrity": "JOlbh9mziEQeFb3DBk3vM842EGVYyq3L04L3ugXOY1o=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "C:\\Users\\windows\\OneDrive - VietNam National University - HCM INTERNATIONAL UNIVERSITY\\Desktop\\Programming\\C#\\Art_Gallery_Backend\\ArtGallery\\wwwroot\\styles\\robot.css"
@@ -1109,12 +1109,12 @@
       "OriginalItemSpec": "C:\\Users\\windows\\OneDrive - VietNam National University - HCM INTERNATIONAL UNIVERSITY\\Desktop\\Programming\\C#\\Art_Gallery_Backend\\ArtGallery\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
     },
     {
-      "Identity": "C:\\Users\\windows\\OneDrive - VietNam National University - HCM INTERNATIONAL UNIVERSITY\\Desktop\\Programming\\C#\\Art_Gallery_Backend\\ArtGallery\\obj\\Debug\\net9.0\\compressed\\oxqtcxv2o1-voqtbgdh21.gz",
+      "Identity": "C:\\Users\\windows\\OneDrive - VietNam National University - HCM INTERNATIONAL UNIVERSITY\\Desktop\\Programming\\C#\\Art_Gallery_Backend\\ArtGallery\\obj\\Debug\\net9.0\\compressed\\oxqtcxv2o1-uz5576n27v.gz",
       "SourceId": "ArtGallery",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\windows\\OneDrive - VietNam National University - HCM INTERNATIONAL UNIVERSITY\\Desktop\\Programming\\C#\\Art_Gallery_Backend\\ArtGallery\\obj\\Debug\\net9.0\\compressed\\",
       "BasePath": "_content/ArtGallery",
-      "RelativePath": "styles/theme-newspaper#[.{fingerprint=voqtbgdh21}]?.css.gz",
+      "RelativePath": "styles/theme-newspaper#[.{fingerprint=uz5576n27v}]?.css.gz",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Alternative",
@@ -1123,8 +1123,8 @@
       "RelatedAsset": "C:\\Users\\windows\\OneDrive - VietNam National University - HCM INTERNATIONAL UNIVERSITY\\Desktop\\Programming\\C#\\Art_Gallery_Backend\\ArtGallery\\wwwroot\\styles\\theme-newspaper.css",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "oqpvj83qai",
-      "Integrity": "8KjbMMaaNLDMLv9K+BcTZvL3wLLyoLDlc49hx3GqHpo=",
+      "Fingerprint": "ncw1zh49gt",
+      "Integrity": "B8FXu/tpZcBkXwG6PckgVp1uk+UU/vYSRB/eLqDEwwg=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "C:\\Users\\windows\\OneDrive - VietNam National University - HCM INTERNATIONAL UNIVERSITY\\Desktop\\Programming\\C#\\Art_Gallery_Backend\\ArtGallery\\wwwroot\\styles\\theme-newspaper.css"
@@ -1193,12 +1193,12 @@
       "OriginalItemSpec": "C:\\Users\\windows\\OneDrive - VietNam National University - HCM INTERNATIONAL UNIVERSITY\\Desktop\\Programming\\C#\\Art_Gallery_Backend\\ArtGallery\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
     },
     {
-      "Identity": "C:\\Users\\windows\\OneDrive - VietNam National University - HCM INTERNATIONAL UNIVERSITY\\Desktop\\Programming\\C#\\Art_Gallery_Backend\\ArtGallery\\obj\\Debug\\net9.0\\compressed\\pqlnntzmf0-y354m41174.gz",
+      "Identity": "C:\\Users\\windows\\OneDrive - VietNam National University - HCM INTERNATIONAL UNIVERSITY\\Desktop\\Programming\\C#\\Art_Gallery_Backend\\ArtGallery\\obj\\Debug\\net9.0\\compressed\\pqlnntzmf0-s7xkt76wv6.gz",
       "SourceId": "ArtGallery",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\windows\\OneDrive - VietNam National University - HCM INTERNATIONAL UNIVERSITY\\Desktop\\Programming\\C#\\Art_Gallery_Backend\\ArtGallery\\obj\\Debug\\net9.0\\compressed\\",
       "BasePath": "_content/ArtGallery",
-      "RelativePath": "styles/theme-material#[.{fingerprint=y354m41174}]?.css.gz",
+      "RelativePath": "styles/theme-material#[.{fingerprint=s7xkt76wv6}]?.css.gz",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Alternative",
@@ -1207,8 +1207,8 @@
       "RelatedAsset": "C:\\Users\\windows\\OneDrive - VietNam National University - HCM INTERNATIONAL UNIVERSITY\\Desktop\\Programming\\C#\\Art_Gallery_Backend\\ArtGallery\\wwwroot\\styles\\theme-material.css",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "jre6qqxmde",
-      "Integrity": "PyKDLTqk8qUmA+RoSPP4EgXLYVISWUuVq032P3SNfds=",
+      "Fingerprint": "e2tzsni8pf",
+      "Integrity": "5vWhzOHZEMYPHV/7Id2xEf/4bRKaTq4FB/Yg0JQ7K9I=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "C:\\Users\\windows\\OneDrive - VietNam National University - HCM INTERNATIONAL UNIVERSITY\\Desktop\\Programming\\C#\\Art_Gallery_Backend\\ArtGallery\\wwwroot\\styles\\theme-material.css"
@@ -1361,12 +1361,12 @@
       "OriginalItemSpec": "C:\\Users\\windows\\OneDrive - VietNam National University - HCM INTERNATIONAL UNIVERSITY\\Desktop\\Programming\\C#\\Art_Gallery_Backend\\ArtGallery\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
     },
     {
-      "Identity": "C:\\Users\\windows\\OneDrive - VietNam National University - HCM INTERNATIONAL UNIVERSITY\\Desktop\\Programming\\C#\\Art_Gallery_Backend\\ArtGallery\\obj\\Debug\\net9.0\\compressed\\vp0libeafm-ztoq639vv3.gz",
+      "Identity": "C:\\Users\\windows\\OneDrive - VietNam National University - HCM INTERNATIONAL UNIVERSITY\\Desktop\\Programming\\C#\\Art_Gallery_Backend\\ArtGallery\\obj\\Debug\\net9.0\\compressed\\vp0libeafm-zfvib9oy8e.gz",
       "SourceId": "ArtGallery",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\windows\\OneDrive - VietNam National University - HCM INTERNATIONAL UNIVERSITY\\Desktop\\Programming\\C#\\Art_Gallery_Backend\\ArtGallery\\obj\\Debug\\net9.0\\compressed\\",
       "BasePath": "_content/ArtGallery",
-      "RelativePath": "styles/theme-monokai#[.{fingerprint=ztoq639vv3}]?.css.gz",
+      "RelativePath": "styles/theme-monokai#[.{fingerprint=zfvib9oy8e}]?.css.gz",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Alternative",
@@ -1375,8 +1375,8 @@
       "RelatedAsset": "C:\\Users\\windows\\OneDrive - VietNam National University - HCM INTERNATIONAL UNIVERSITY\\Desktop\\Programming\\C#\\Art_Gallery_Backend\\ArtGallery\\wwwroot\\styles\\theme-monokai.css",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "gol5qa4c5p",
-      "Integrity": "AAEXEv+bVkqf/6h5N04H4Mo66LZJsfEL8dr0cfcJn1U=",
+      "Fingerprint": "7172pgnunp",
+      "Integrity": "G3ntiwOvoaAKGWGzyo/oXD5v8gwEzWmmw+Q/epaWWjg=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "C:\\Users\\windows\\OneDrive - VietNam National University - HCM INTERNATIONAL UNIVERSITY\\Desktop\\Programming\\C#\\Art_Gallery_Backend\\ArtGallery\\wwwroot\\styles\\theme-monokai.css"
@@ -1403,12 +1403,12 @@
       "OriginalItemSpec": "C:\\Users\\windows\\OneDrive - VietNam National University - HCM INTERNATIONAL UNIVERSITY\\Desktop\\Programming\\C#\\Art_Gallery_Backend\\ArtGallery\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\windows\\OneDrive - VietNam National University - HCM INTERNATIONAL UNIVERSITY\\Desktop\\Programming\\C#\\Art_Gallery_Backend\\ArtGallery\\obj\\Debug\\net9.0\\compressed\\x4ztgrqfdz-401k1jykyt.gz",
+      "Identity": "C:\\Users\\windows\\OneDrive - VietNam National University - HCM INTERNATIONAL UNIVERSITY\\Desktop\\Programming\\C#\\Art_Gallery_Backend\\ArtGallery\\obj\\Debug\\net9.0\\compressed\\x4ztgrqfdz-99x4j1tvpn.gz",
       "SourceId": "ArtGallery",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\windows\\OneDrive - VietNam National University - HCM INTERNATIONAL UNIVERSITY\\Desktop\\Programming\\C#\\Art_Gallery_Backend\\ArtGallery\\obj\\Debug\\net9.0\\compressed\\",
       "BasePath": "_content/ArtGallery",
-      "RelativePath": "styles/theme-dark-high-constrast#[.{fingerprint=401k1jykyt}]?.css.gz",
+      "RelativePath": "styles/theme-dark-high-constrast#[.{fingerprint=99x4j1tvpn}]?.css.gz",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Alternative",
@@ -1417,8 +1417,8 @@
       "RelatedAsset": "C:\\Users\\windows\\OneDrive - VietNam National University - HCM INTERNATIONAL UNIVERSITY\\Desktop\\Programming\\C#\\Art_Gallery_Backend\\ArtGallery\\wwwroot\\styles\\theme-dark-high-constrast.css",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "vlz20ax88c",
-      "Integrity": "w5gXyILBboFgSUMOkjH2iVKtMAbT3aqmwRlxkKwNFuU=",
+      "Fingerprint": "d6ibnawzcj",
+      "Integrity": "xc+MxTri0ZwPVLpjNVMeVJjWk9fJ7brrcMxxBvqn9ns=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "C:\\Users\\windows\\OneDrive - VietNam National University - HCM INTERNATIONAL UNIVERSITY\\Desktop\\Programming\\C#\\Art_Gallery_Backend\\ArtGallery\\wwwroot\\styles\\theme-dark-high-constrast.css"
@@ -1508,12 +1508,12 @@
       "OriginalItemSpec": "C:\\Users\\windows\\OneDrive - VietNam National University - HCM INTERNATIONAL UNIVERSITY\\Desktop\\Programming\\C#\\Art_Gallery_Backend\\ArtGallery\\wwwroot\\lib\\jquery\\dist\\jquery.slim.min.map"
     },
     {
-      "Identity": "C:\\Users\\windows\\OneDrive - VietNam National University - HCM INTERNATIONAL UNIVERSITY\\Desktop\\Programming\\C#\\Art_Gallery_Backend\\ArtGallery\\obj\\Debug\\net9.0\\compressed\\zl5gszcyo7-ayv4w6a1cl.gz",
+      "Identity": "C:\\Users\\windows\\OneDrive - VietNam National University - HCM INTERNATIONAL UNIVERSITY\\Desktop\\Programming\\C#\\Art_Gallery_Backend\\ArtGallery\\obj\\Debug\\net9.0\\compressed\\zl5gszcyo7-kyvus83aor.gz",
       "SourceId": "ArtGallery",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\windows\\OneDrive - VietNam National University - HCM INTERNATIONAL UNIVERSITY\\Desktop\\Programming\\C#\\Art_Gallery_Backend\\ArtGallery\\obj\\Debug\\net9.0\\compressed\\",
       "BasePath": "_content/ArtGallery",
-      "RelativePath": "styles/theme-outline#[.{fingerprint=ayv4w6a1cl}]?.css.gz",
+      "RelativePath": "styles/theme-outline#[.{fingerprint=kyvus83aor}]?.css.gz",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Alternative",
@@ -1522,8 +1522,8 @@
       "RelatedAsset": "C:\\Users\\windows\\OneDrive - VietNam National University - HCM INTERNATIONAL UNIVERSITY\\Desktop\\Programming\\C#\\Art_Gallery_Backend\\ArtGallery\\wwwroot\\styles\\theme-outline.css",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "hn592hsdvu",
-      "Integrity": "3aqErjxIqflO/80D4TniDQ+vjk3BmLoaBR5SyrRCsTs=",
+      "Fingerprint": "smof4ohzz4",
+      "Integrity": "jCEZPeLo/4u//3nVUfsArVnj+ikIVKMfC/nqebbCYd0=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "C:\\Users\\windows\\OneDrive - VietNam National University - HCM INTERNATIONAL UNIVERSITY\\Desktop\\Programming\\C#\\Art_Gallery_Backend\\ArtGallery\\wwwroot\\styles\\theme-outline.css"
@@ -2887,8 +2887,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "mm5k7ds8a0",
-      "Integrity": "ftT94FJdvgAY4iyAmKQEgSpdY26S147ZSCYoezb3/Wc=",
+      "Fingerprint": "3vsn4f9odj",
+      "Integrity": "36F9k07AxCVQaki3k51AvcV34F0MZ2YJPUFtt7AsQso=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\styles\\robot.css"
@@ -2908,8 +2908,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "401k1jykyt",
-      "Integrity": "FC8FrNoRzxEPW3pQjo7h/dnydKFpHeTzmsUgdz/hDLc=",
+      "Fingerprint": "99x4j1tvpn",
+      "Integrity": "o1fniHteR5X5JsJpART72eQfB3TsTIt25GDW3YX8m2c=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\styles\\theme-dark-high-constrast.css"
@@ -2950,8 +2950,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "0dt8s28e9b",
-      "Integrity": "XNUhdDFWVlHov9rr0ZSC+c+s+pP35niH5XeQirvwW9Q=",
+      "Fingerprint": "a7krzxwknb",
+      "Integrity": "+jmqNVkC5NWfBCf1ADME/x/jPtRX6N9oTpVVCeDepIY=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\styles\\theme-feeling-blue.css"
@@ -2971,8 +2971,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "n2v1xeq61i",
-      "Integrity": "jyzK90srHk4cQdpbnoQpKqUdHgV9jRuoPJ2wsIHXxdw=",
+      "Fingerprint": "f10nv2zff2",
+      "Integrity": "DenjaoccP9za9kmENnXNHh1bDLONECSoU7fqHSfI5ZQ=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\styles\\theme-flattop.css"
@@ -2992,8 +2992,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "y354m41174",
-      "Integrity": "Ile6HQQ7f2WTQ1KHImYEMRAOfiqoz7sRkSFrmtUzqoU=",
+      "Fingerprint": "s7xkt76wv6",
+      "Integrity": "2AH2oqYiNje/ueY4kr5IgoSxBDvo3agVH8/lN+CajaQ=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\styles\\theme-material.css"
@@ -3013,8 +3013,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "ztoq639vv3",
-      "Integrity": "NwL5UeV8H1MzVUuK+8/wXUv7fEpe+/eK3rsGhFtUsuw=",
+      "Fingerprint": "zfvib9oy8e",
+      "Integrity": "rx6VE4C2klUzcsh4SiUX4iSjo7S7EVh2tFnb4esfyhE=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\styles\\theme-monokai.css"
@@ -3034,8 +3034,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "k0kuzhetng",
-      "Integrity": "LDhdA07tVLXe2ZGjW/K63dVAbRJ+n2QvNaE2JdRqZrI=",
+      "Fingerprint": "ez0th3efg8",
+      "Integrity": "xhjfL4iUEGTWLXJNoAU3TC2tqkiD7VRAB50Y9Y5qN8c=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\styles\\theme-muted.css"
@@ -3055,8 +3055,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "voqtbgdh21",
-      "Integrity": "oZgKcHDK+tf0MTvZYqXJK5ZXBgXFaDT0vx/bgLzlXnI=",
+      "Fingerprint": "uz5576n27v",
+      "Integrity": "ZiMPlX6WhC65yHM+VC+hJhZ7sxhENfRKL0yPgqIzY0g=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\styles\\theme-newspaper.css"
@@ -3076,8 +3076,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "ayv4w6a1cl",
-      "Integrity": "wlIMnC2gMZUnchCUenaxM0BfYGvvahfWGzoSOHTsEbc=",
+      "Fingerprint": "kyvus83aor",
+      "Integrity": "TGl4SkYk6LMNMsh6ynkjxbI2z/bU3ln5lpahioMnsFY=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\styles\\theme-outline.css"
@@ -3766,7 +3766,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 27 Apr 2025 07:13:52 GMT"
+          "Value": "Sun, 25 May 2025 23:28:02 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3803,7 +3803,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 27 Apr 2025 07:13:52 GMT"
+          "Value": "Sun, 25 May 2025 23:28:02 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -21788,13 +21788,13 @@
       ]
     },
     {
-      "Route": "styles/robot.css",
-      "AssetFile": "C:\\Users\\windows\\OneDrive - VietNam National University - HCM INTERNATIONAL UNIVERSITY\\Desktop\\Programming\\C#\\Art_Gallery_Backend\\ArtGallery\\obj\\Debug\\net9.0\\compressed\\b4b5r90az5-mm5k7ds8a0.gz",
+      "Route": "styles/robot.3vsn4f9odj.css",
+      "AssetFile": "C:\\Users\\windows\\OneDrive - VietNam National University - HCM INTERNATIONAL UNIVERSITY\\Desktop\\Programming\\C#\\Art_Gallery_Backend\\ArtGallery\\obj\\Debug\\net9.0\\compressed\\b4b5r90az5-3vsn4f9odj.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.002732240437"
+          "Quality": "0.002680965147"
         }
       ],
       "ResponseHeaders": [
@@ -21804,19 +21804,19 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "365"
+          "Value": "372"
         },
         {
           "Name": "ETag",
-          "Value": "\"helSrj+Cisuf8ivFVCQL0n59E3vJWV1Q6WNfo0Q8i88=\""
+          "Value": "\"JOlbh9mziEQeFb3DBk3vM842EGVYyq3L04L3ugXOY1o=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 02 May 2025 12:20:12 GMT"
+          "Value": "Sun, 25 May 2025 23:28:02 GMT"
         },
         {
           "Name": "Cache-Control",
-          "Value": "no-cache"
+          "Value": "max-age=31536000, immutable"
         },
         {
           "Name": "Content-Encoding",
@@ -21832,18 +21832,26 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"ftT94FJdvgAY4iyAmKQEgSpdY26S147ZSCYoezb3/Wc=\""
+          "Value": "W/\"36F9k07AxCVQaki3k51AvcV34F0MZ2YJPUFtt7AsQso=\""
         }
       ],
       "EndpointProperties": [
         {
+          "Name": "fingerprint",
+          "Value": "3vsn4f9odj"
+        },
+        {
+          "Name": "label",
+          "Value": "styles/robot.css"
+        },
+        {
           "Name": "integrity",
-          "Value": "sha256-ftT94FJdvgAY4iyAmKQEgSpdY26S147ZSCYoezb3/Wc="
+          "Value": "sha256-36F9k07AxCVQaki3k51AvcV34F0MZ2YJPUFtt7AsQso="
         }
       ]
     },
     {
-      "Route": "styles/robot.css",
+      "Route": "styles/robot.3vsn4f9odj.css",
       "AssetFile": "C:\\Users\\windows\\OneDrive - VietNam National University - HCM INTERNATIONAL UNIVERSITY\\Desktop\\Programming\\C#\\Art_Gallery_Backend\\ArtGallery\\wwwroot\\styles\\robot.css",
       "Selectors": [],
       "ResponseHeaders": [
@@ -21853,7 +21861,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "691"
+          "Value": "721"
         },
         {
           "Name": "Content-Type",
@@ -21861,121 +21869,21 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"ftT94FJdvgAY4iyAmKQEgSpdY26S147ZSCYoezb3/Wc=\""
+          "Value": "\"36F9k07AxCVQaki3k51AvcV34F0MZ2YJPUFtt7AsQso=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 02 May 2025 12:20:12 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-ftT94FJdvgAY4iyAmKQEgSpdY26S147ZSCYoezb3/Wc="
-        }
-      ]
-    },
-    {
-      "Route": "styles/robot.css.gz",
-      "AssetFile": "C:\\Users\\windows\\OneDrive - VietNam National University - HCM INTERNATIONAL UNIVERSITY\\Desktop\\Programming\\C#\\Art_Gallery_Backend\\ArtGallery\\obj\\Debug\\net9.0\\compressed\\b4b5r90az5-mm5k7ds8a0.gz",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "365"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"helSrj+Cisuf8ivFVCQL0n59E3vJWV1Q6WNfo0Q8i88=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Fri, 02 May 2025 12:20:12 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-helSrj+Cisuf8ivFVCQL0n59E3vJWV1Q6WNfo0Q8i88="
-        }
-      ]
-    },
-    {
-      "Route": "styles/robot.mm5k7ds8a0.css",
-      "AssetFile": "C:\\Users\\windows\\OneDrive - VietNam National University - HCM INTERNATIONAL UNIVERSITY\\Desktop\\Programming\\C#\\Art_Gallery_Backend\\ArtGallery\\obj\\Debug\\net9.0\\compressed\\b4b5r90az5-mm5k7ds8a0.gz",
-      "Selectors": [
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip",
-          "Quality": "0.002732240437"
-        }
-      ],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "365"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"helSrj+Cisuf8ivFVCQL0n59E3vJWV1Q6WNfo0Q8i88=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Fri, 02 May 2025 12:20:12 GMT"
+          "Value": "Sun, 25 May 2025 23:28:02 GMT"
         },
         {
           "Name": "Cache-Control",
           "Value": "max-age=31536000, immutable"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "W/\"ftT94FJdvgAY4iyAmKQEgSpdY26S147ZSCYoezb3/Wc=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "mm5k7ds8a0"
+          "Value": "3vsn4f9odj"
         },
         {
           "Name": "label",
@@ -21983,13 +21891,13 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-ftT94FJdvgAY4iyAmKQEgSpdY26S147ZSCYoezb3/Wc="
+          "Value": "sha256-36F9k07AxCVQaki3k51AvcV34F0MZ2YJPUFtt7AsQso="
         }
       ]
     },
     {
-      "Route": "styles/robot.mm5k7ds8a0.css",
-      "AssetFile": "C:\\Users\\windows\\OneDrive - VietNam National University - HCM INTERNATIONAL UNIVERSITY\\Desktop\\Programming\\C#\\Art_Gallery_Backend\\ArtGallery\\wwwroot\\styles\\robot.css",
+      "Route": "styles/robot.3vsn4f9odj.css.gz",
+      "AssetFile": "C:\\Users\\windows\\OneDrive - VietNam National University - HCM INTERNATIONAL UNIVERSITY\\Desktop\\Programming\\C#\\Art_Gallery_Backend\\ArtGallery\\obj\\Debug\\net9.0\\compressed\\b4b5r90az5-3vsn4f9odj.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -21998,7 +21906,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "691"
+          "Value": "372"
         },
         {
           "Name": "Content-Type",
@@ -22006,56 +21914,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"ftT94FJdvgAY4iyAmKQEgSpdY26S147ZSCYoezb3/Wc=\""
+          "Value": "\"JOlbh9mziEQeFb3DBk3vM842EGVYyq3L04L3ugXOY1o=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 02 May 2025 12:20:12 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "mm5k7ds8a0"
-        },
-        {
-          "Name": "label",
-          "Value": "styles/robot.css"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-ftT94FJdvgAY4iyAmKQEgSpdY26S147ZSCYoezb3/Wc="
-        }
-      ]
-    },
-    {
-      "Route": "styles/robot.mm5k7ds8a0.css.gz",
-      "AssetFile": "C:\\Users\\windows\\OneDrive - VietNam National University - HCM INTERNATIONAL UNIVERSITY\\Desktop\\Programming\\C#\\Art_Gallery_Backend\\ArtGallery\\obj\\Debug\\net9.0\\compressed\\b4b5r90az5-mm5k7ds8a0.gz",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "365"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"helSrj+Cisuf8ivFVCQL0n59E3vJWV1Q6WNfo0Q8i88=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Fri, 02 May 2025 12:20:12 GMT"
+          "Value": "Sun, 25 May 2025 23:28:02 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -22073,7 +21936,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "mm5k7ds8a0"
+          "Value": "3vsn4f9odj"
         },
         {
           "Name": "label",
@@ -22081,18 +21944,18 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-helSrj+Cisuf8ivFVCQL0n59E3vJWV1Q6WNfo0Q8i88="
+          "Value": "sha256-JOlbh9mziEQeFb3DBk3vM842EGVYyq3L04L3ugXOY1o="
         }
       ]
     },
     {
-      "Route": "styles/theme-dark-high-constrast.401k1jykyt.css",
-      "AssetFile": "C:\\Users\\windows\\OneDrive - VietNam National University - HCM INTERNATIONAL UNIVERSITY\\Desktop\\Programming\\C#\\Art_Gallery_Backend\\ArtGallery\\obj\\Debug\\net9.0\\compressed\\x4ztgrqfdz-401k1jykyt.gz",
+      "Route": "styles/robot.css",
+      "AssetFile": "C:\\Users\\windows\\OneDrive - VietNam National University - HCM INTERNATIONAL UNIVERSITY\\Desktop\\Programming\\C#\\Art_Gallery_Backend\\ArtGallery\\obj\\Debug\\net9.0\\compressed\\b4b5r90az5-3vsn4f9odj.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.001550387597"
+          "Quality": "0.002680965147"
         }
       ],
       "ResponseHeaders": [
@@ -22102,15 +21965,152 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "644"
+          "Value": "372"
         },
         {
           "Name": "ETag",
-          "Value": "\"w5gXyILBboFgSUMOkjH2iVKtMAbT3aqmwRlxkKwNFuU=\""
+          "Value": "\"JOlbh9mziEQeFb3DBk3vM842EGVYyq3L04L3ugXOY1o=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 02 May 2025 12:24:03 GMT"
+          "Value": "Sun, 25 May 2025 23:28:02 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"36F9k07AxCVQaki3k51AvcV34F0MZ2YJPUFtt7AsQso=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-36F9k07AxCVQaki3k51AvcV34F0MZ2YJPUFtt7AsQso="
+        }
+      ]
+    },
+    {
+      "Route": "styles/robot.css",
+      "AssetFile": "C:\\Users\\windows\\OneDrive - VietNam National University - HCM INTERNATIONAL UNIVERSITY\\Desktop\\Programming\\C#\\Art_Gallery_Backend\\ArtGallery\\wwwroot\\styles\\robot.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "721"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"36F9k07AxCVQaki3k51AvcV34F0MZ2YJPUFtt7AsQso=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 25 May 2025 23:28:02 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-36F9k07AxCVQaki3k51AvcV34F0MZ2YJPUFtt7AsQso="
+        }
+      ]
+    },
+    {
+      "Route": "styles/robot.css.gz",
+      "AssetFile": "C:\\Users\\windows\\OneDrive - VietNam National University - HCM INTERNATIONAL UNIVERSITY\\Desktop\\Programming\\C#\\Art_Gallery_Backend\\ArtGallery\\obj\\Debug\\net9.0\\compressed\\b4b5r90az5-3vsn4f9odj.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "372"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"JOlbh9mziEQeFb3DBk3vM842EGVYyq3L04L3ugXOY1o=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 25 May 2025 23:28:02 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-JOlbh9mziEQeFb3DBk3vM842EGVYyq3L04L3ugXOY1o="
+        }
+      ]
+    },
+    {
+      "Route": "styles/theme-dark-high-constrast.99x4j1tvpn.css",
+      "AssetFile": "C:\\Users\\windows\\OneDrive - VietNam National University - HCM INTERNATIONAL UNIVERSITY\\Desktop\\Programming\\C#\\Art_Gallery_Backend\\ArtGallery\\obj\\Debug\\net9.0\\compressed\\x4ztgrqfdz-99x4j1tvpn.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.001522070015"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "656"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"xc+MxTri0ZwPVLpjNVMeVJjWk9fJ7brrcMxxBvqn9ns=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 25 May 2025 23:28:02 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -22130,13 +22130,13 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"FC8FrNoRzxEPW3pQjo7h/dnydKFpHeTzmsUgdz/hDLc=\""
+          "Value": "W/\"o1fniHteR5X5JsJpART72eQfB3TsTIt25GDW3YX8m2c=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "401k1jykyt"
+          "Value": "99x4j1tvpn"
         },
         {
           "Name": "label",
@@ -22144,12 +22144,12 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-FC8FrNoRzxEPW3pQjo7h/dnydKFpHeTzmsUgdz/hDLc="
+          "Value": "sha256-o1fniHteR5X5JsJpART72eQfB3TsTIt25GDW3YX8m2c="
         }
       ]
     },
     {
-      "Route": "styles/theme-dark-high-constrast.401k1jykyt.css",
+      "Route": "styles/theme-dark-high-constrast.99x4j1tvpn.css",
       "AssetFile": "C:\\Users\\windows\\OneDrive - VietNam National University - HCM INTERNATIONAL UNIVERSITY\\Desktop\\Programming\\C#\\Art_Gallery_Backend\\ArtGallery\\wwwroot\\styles\\theme-dark-high-constrast.css",
       "Selectors": [],
       "ResponseHeaders": [
@@ -22159,7 +22159,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "2454"
+          "Value": "2578"
         },
         {
           "Name": "Content-Type",
@@ -22167,11 +22167,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"FC8FrNoRzxEPW3pQjo7h/dnydKFpHeTzmsUgdz/hDLc=\""
+          "Value": "\"o1fniHteR5X5JsJpART72eQfB3TsTIt25GDW3YX8m2c=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 02 May 2025 12:24:03 GMT"
+          "Value": "Sun, 25 May 2025 23:28:02 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -22181,7 +22181,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "401k1jykyt"
+          "Value": "99x4j1tvpn"
         },
         {
           "Name": "label",
@@ -22189,13 +22189,13 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-FC8FrNoRzxEPW3pQjo7h/dnydKFpHeTzmsUgdz/hDLc="
+          "Value": "sha256-o1fniHteR5X5JsJpART72eQfB3TsTIt25GDW3YX8m2c="
         }
       ]
     },
     {
-      "Route": "styles/theme-dark-high-constrast.401k1jykyt.css.gz",
-      "AssetFile": "C:\\Users\\windows\\OneDrive - VietNam National University - HCM INTERNATIONAL UNIVERSITY\\Desktop\\Programming\\C#\\Art_Gallery_Backend\\ArtGallery\\obj\\Debug\\net9.0\\compressed\\x4ztgrqfdz-401k1jykyt.gz",
+      "Route": "styles/theme-dark-high-constrast.99x4j1tvpn.css.gz",
+      "AssetFile": "C:\\Users\\windows\\OneDrive - VietNam National University - HCM INTERNATIONAL UNIVERSITY\\Desktop\\Programming\\C#\\Art_Gallery_Backend\\ArtGallery\\obj\\Debug\\net9.0\\compressed\\x4ztgrqfdz-99x4j1tvpn.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -22204,7 +22204,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "644"
+          "Value": "656"
         },
         {
           "Name": "Content-Type",
@@ -22212,11 +22212,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"w5gXyILBboFgSUMOkjH2iVKtMAbT3aqmwRlxkKwNFuU=\""
+          "Value": "\"xc+MxTri0ZwPVLpjNVMeVJjWk9fJ7brrcMxxBvqn9ns=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 02 May 2025 12:24:03 GMT"
+          "Value": "Sun, 25 May 2025 23:28:02 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -22234,7 +22234,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "401k1jykyt"
+          "Value": "99x4j1tvpn"
         },
         {
           "Name": "label",
@@ -22242,18 +22242,18 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-w5gXyILBboFgSUMOkjH2iVKtMAbT3aqmwRlxkKwNFuU="
+          "Value": "sha256-xc+MxTri0ZwPVLpjNVMeVJjWk9fJ7brrcMxxBvqn9ns="
         }
       ]
     },
     {
       "Route": "styles/theme-dark-high-constrast.css",
-      "AssetFile": "C:\\Users\\windows\\OneDrive - VietNam National University - HCM INTERNATIONAL UNIVERSITY\\Desktop\\Programming\\C#\\Art_Gallery_Backend\\ArtGallery\\obj\\Debug\\net9.0\\compressed\\x4ztgrqfdz-401k1jykyt.gz",
+      "AssetFile": "C:\\Users\\windows\\OneDrive - VietNam National University - HCM INTERNATIONAL UNIVERSITY\\Desktop\\Programming\\C#\\Art_Gallery_Backend\\ArtGallery\\obj\\Debug\\net9.0\\compressed\\x4ztgrqfdz-99x4j1tvpn.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.001550387597"
+          "Quality": "0.001522070015"
         }
       ],
       "ResponseHeaders": [
@@ -22263,15 +22263,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "644"
+          "Value": "656"
         },
         {
           "Name": "ETag",
-          "Value": "\"w5gXyILBboFgSUMOkjH2iVKtMAbT3aqmwRlxkKwNFuU=\""
+          "Value": "\"xc+MxTri0ZwPVLpjNVMeVJjWk9fJ7brrcMxxBvqn9ns=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 02 May 2025 12:24:03 GMT"
+          "Value": "Sun, 25 May 2025 23:28:02 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -22291,13 +22291,13 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"FC8FrNoRzxEPW3pQjo7h/dnydKFpHeTzmsUgdz/hDLc=\""
+          "Value": "W/\"o1fniHteR5X5JsJpART72eQfB3TsTIt25GDW3YX8m2c=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-FC8FrNoRzxEPW3pQjo7h/dnydKFpHeTzmsUgdz/hDLc="
+          "Value": "sha256-o1fniHteR5X5JsJpART72eQfB3TsTIt25GDW3YX8m2c="
         }
       ]
     },
@@ -22312,7 +22312,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "2454"
+          "Value": "2578"
         },
         {
           "Name": "Content-Type",
@@ -22320,11 +22320,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"FC8FrNoRzxEPW3pQjo7h/dnydKFpHeTzmsUgdz/hDLc=\""
+          "Value": "\"o1fniHteR5X5JsJpART72eQfB3TsTIt25GDW3YX8m2c=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 02 May 2025 12:24:03 GMT"
+          "Value": "Sun, 25 May 2025 23:28:02 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -22334,13 +22334,13 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-FC8FrNoRzxEPW3pQjo7h/dnydKFpHeTzmsUgdz/hDLc="
+          "Value": "sha256-o1fniHteR5X5JsJpART72eQfB3TsTIt25GDW3YX8m2c="
         }
       ]
     },
     {
       "Route": "styles/theme-dark-high-constrast.css.gz",
-      "AssetFile": "C:\\Users\\windows\\OneDrive - VietNam National University - HCM INTERNATIONAL UNIVERSITY\\Desktop\\Programming\\C#\\Art_Gallery_Backend\\ArtGallery\\obj\\Debug\\net9.0\\compressed\\x4ztgrqfdz-401k1jykyt.gz",
+      "AssetFile": "C:\\Users\\windows\\OneDrive - VietNam National University - HCM INTERNATIONAL UNIVERSITY\\Desktop\\Programming\\C#\\Art_Gallery_Backend\\ArtGallery\\obj\\Debug\\net9.0\\compressed\\x4ztgrqfdz-99x4j1tvpn.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -22349,7 +22349,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "644"
+          "Value": "656"
         },
         {
           "Name": "Content-Type",
@@ -22357,11 +22357,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"w5gXyILBboFgSUMOkjH2iVKtMAbT3aqmwRlxkKwNFuU=\""
+          "Value": "\"xc+MxTri0ZwPVLpjNVMeVJjWk9fJ7brrcMxxBvqn9ns=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 02 May 2025 12:24:03 GMT"
+          "Value": "Sun, 25 May 2025 23:28:02 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -22379,7 +22379,7 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-w5gXyILBboFgSUMOkjH2iVKtMAbT3aqmwRlxkKwNFuU="
+          "Value": "sha256-xc+MxTri0ZwPVLpjNVMeVJjWk9fJ7brrcMxxBvqn9ns="
         }
       ]
     },
@@ -22406,7 +22406,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 02 May 2025 12:22:52 GMT"
+          "Value": "Sun, 25 May 2025 23:28:02 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -22451,7 +22451,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 02 May 2025 12:22:52 GMT"
+          "Value": "Sun, 25 May 2025 23:28:02 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -22466,13 +22466,13 @@
       ]
     },
     {
-      "Route": "styles/theme-feeling-blue.0dt8s28e9b.css",
-      "AssetFile": "C:\\Users\\windows\\OneDrive - VietNam National University - HCM INTERNATIONAL UNIVERSITY\\Desktop\\Programming\\C#\\Art_Gallery_Backend\\ArtGallery\\obj\\Debug\\net9.0\\compressed\\7lxe981fze-0dt8s28e9b.gz",
+      "Route": "styles/theme-feeling-blue.a7krzxwknb.css",
+      "AssetFile": "C:\\Users\\windows\\OneDrive - VietNam National University - HCM INTERNATIONAL UNIVERSITY\\Desktop\\Programming\\C#\\Art_Gallery_Backend\\ArtGallery\\obj\\Debug\\net9.0\\compressed\\7lxe981fze-a7krzxwknb.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.000180440274"
+          "Quality": "0.000179179359"
         }
       ],
       "ResponseHeaders": [
@@ -22482,15 +22482,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "5541"
+          "Value": "5580"
         },
         {
           "Name": "ETag",
-          "Value": "\"7ilFECp1xQ0DHj7C+9s80IEkxj+6XRsF49JcMDvIilU=\""
+          "Value": "\"rkwZfbBv6V8fBMgxf6qC4Gyo2ggiZVvu5iDBXcY+xe4=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 27 Apr 2025 11:20:28 GMT"
+          "Value": "Sun, 25 May 2025 23:28:02 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -22510,13 +22510,13 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"XNUhdDFWVlHov9rr0ZSC+c+s+pP35niH5XeQirvwW9Q=\""
+          "Value": "W/\"+jmqNVkC5NWfBCf1ADME/x/jPtRX6N9oTpVVCeDepIY=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "0dt8s28e9b"
+          "Value": "a7krzxwknb"
         },
         {
           "Name": "label",
@@ -22524,12 +22524,12 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-XNUhdDFWVlHov9rr0ZSC+c+s+pP35niH5XeQirvwW9Q="
+          "Value": "sha256-+jmqNVkC5NWfBCf1ADME/x/jPtRX6N9oTpVVCeDepIY="
         }
       ]
     },
     {
-      "Route": "styles/theme-feeling-blue.0dt8s28e9b.css",
+      "Route": "styles/theme-feeling-blue.a7krzxwknb.css",
       "AssetFile": "C:\\Users\\windows\\OneDrive - VietNam National University - HCM INTERNATIONAL UNIVERSITY\\Desktop\\Programming\\C#\\Art_Gallery_Backend\\ArtGallery\\wwwroot\\styles\\theme-feeling-blue.css",
       "Selectors": [],
       "ResponseHeaders": [
@@ -22539,7 +22539,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "33522"
+          "Value": "35195"
         },
         {
           "Name": "Content-Type",
@@ -22547,11 +22547,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"XNUhdDFWVlHov9rr0ZSC+c+s+pP35niH5XeQirvwW9Q=\""
+          "Value": "\"+jmqNVkC5NWfBCf1ADME/x/jPtRX6N9oTpVVCeDepIY=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 27 Apr 2025 11:20:28 GMT"
+          "Value": "Sun, 25 May 2025 23:28:02 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -22561,7 +22561,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "0dt8s28e9b"
+          "Value": "a7krzxwknb"
         },
         {
           "Name": "label",
@@ -22569,13 +22569,13 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-XNUhdDFWVlHov9rr0ZSC+c+s+pP35niH5XeQirvwW9Q="
+          "Value": "sha256-+jmqNVkC5NWfBCf1ADME/x/jPtRX6N9oTpVVCeDepIY="
         }
       ]
     },
     {
-      "Route": "styles/theme-feeling-blue.0dt8s28e9b.css.gz",
-      "AssetFile": "C:\\Users\\windows\\OneDrive - VietNam National University - HCM INTERNATIONAL UNIVERSITY\\Desktop\\Programming\\C#\\Art_Gallery_Backend\\ArtGallery\\obj\\Debug\\net9.0\\compressed\\7lxe981fze-0dt8s28e9b.gz",
+      "Route": "styles/theme-feeling-blue.a7krzxwknb.css.gz",
+      "AssetFile": "C:\\Users\\windows\\OneDrive - VietNam National University - HCM INTERNATIONAL UNIVERSITY\\Desktop\\Programming\\C#\\Art_Gallery_Backend\\ArtGallery\\obj\\Debug\\net9.0\\compressed\\7lxe981fze-a7krzxwknb.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -22584,7 +22584,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "5541"
+          "Value": "5580"
         },
         {
           "Name": "Content-Type",
@@ -22592,11 +22592,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"7ilFECp1xQ0DHj7C+9s80IEkxj+6XRsF49JcMDvIilU=\""
+          "Value": "\"rkwZfbBv6V8fBMgxf6qC4Gyo2ggiZVvu5iDBXcY+xe4=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 27 Apr 2025 11:20:28 GMT"
+          "Value": "Sun, 25 May 2025 23:28:02 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -22614,7 +22614,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "0dt8s28e9b"
+          "Value": "a7krzxwknb"
         },
         {
           "Name": "label",
@@ -22622,18 +22622,18 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-7ilFECp1xQ0DHj7C+9s80IEkxj+6XRsF49JcMDvIilU="
+          "Value": "sha256-rkwZfbBv6V8fBMgxf6qC4Gyo2ggiZVvu5iDBXcY+xe4="
         }
       ]
     },
     {
       "Route": "styles/theme-feeling-blue.css",
-      "AssetFile": "C:\\Users\\windows\\OneDrive - VietNam National University - HCM INTERNATIONAL UNIVERSITY\\Desktop\\Programming\\C#\\Art_Gallery_Backend\\ArtGallery\\obj\\Debug\\net9.0\\compressed\\7lxe981fze-0dt8s28e9b.gz",
+      "AssetFile": "C:\\Users\\windows\\OneDrive - VietNam National University - HCM INTERNATIONAL UNIVERSITY\\Desktop\\Programming\\C#\\Art_Gallery_Backend\\ArtGallery\\obj\\Debug\\net9.0\\compressed\\7lxe981fze-a7krzxwknb.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.000180440274"
+          "Quality": "0.000179179359"
         }
       ],
       "ResponseHeaders": [
@@ -22643,15 +22643,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "5541"
+          "Value": "5580"
         },
         {
           "Name": "ETag",
-          "Value": "\"7ilFECp1xQ0DHj7C+9s80IEkxj+6XRsF49JcMDvIilU=\""
+          "Value": "\"rkwZfbBv6V8fBMgxf6qC4Gyo2ggiZVvu5iDBXcY+xe4=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 27 Apr 2025 11:20:28 GMT"
+          "Value": "Sun, 25 May 2025 23:28:02 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -22671,13 +22671,13 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"XNUhdDFWVlHov9rr0ZSC+c+s+pP35niH5XeQirvwW9Q=\""
+          "Value": "W/\"+jmqNVkC5NWfBCf1ADME/x/jPtRX6N9oTpVVCeDepIY=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-XNUhdDFWVlHov9rr0ZSC+c+s+pP35niH5XeQirvwW9Q="
+          "Value": "sha256-+jmqNVkC5NWfBCf1ADME/x/jPtRX6N9oTpVVCeDepIY="
         }
       ]
     },
@@ -22692,7 +22692,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "33522"
+          "Value": "35195"
         },
         {
           "Name": "Content-Type",
@@ -22700,11 +22700,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"XNUhdDFWVlHov9rr0ZSC+c+s+pP35niH5XeQirvwW9Q=\""
+          "Value": "\"+jmqNVkC5NWfBCf1ADME/x/jPtRX6N9oTpVVCeDepIY=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 27 Apr 2025 11:20:28 GMT"
+          "Value": "Sun, 25 May 2025 23:28:02 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -22714,13 +22714,13 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-XNUhdDFWVlHov9rr0ZSC+c+s+pP35niH5XeQirvwW9Q="
+          "Value": "sha256-+jmqNVkC5NWfBCf1ADME/x/jPtRX6N9oTpVVCeDepIY="
         }
       ]
     },
     {
       "Route": "styles/theme-feeling-blue.css.gz",
-      "AssetFile": "C:\\Users\\windows\\OneDrive - VietNam National University - HCM INTERNATIONAL UNIVERSITY\\Desktop\\Programming\\C#\\Art_Gallery_Backend\\ArtGallery\\obj\\Debug\\net9.0\\compressed\\7lxe981fze-0dt8s28e9b.gz",
+      "AssetFile": "C:\\Users\\windows\\OneDrive - VietNam National University - HCM INTERNATIONAL UNIVERSITY\\Desktop\\Programming\\C#\\Art_Gallery_Backend\\ArtGallery\\obj\\Debug\\net9.0\\compressed\\7lxe981fze-a7krzxwknb.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -22729,7 +22729,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "5541"
+          "Value": "5580"
         },
         {
           "Name": "Content-Type",
@@ -22737,11 +22737,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"7ilFECp1xQ0DHj7C+9s80IEkxj+6XRsF49JcMDvIilU=\""
+          "Value": "\"rkwZfbBv6V8fBMgxf6qC4Gyo2ggiZVvu5iDBXcY+xe4=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 27 Apr 2025 11:20:28 GMT"
+          "Value": "Sun, 25 May 2025 23:28:02 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -22759,18 +22759,18 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-7ilFECp1xQ0DHj7C+9s80IEkxj+6XRsF49JcMDvIilU="
+          "Value": "sha256-rkwZfbBv6V8fBMgxf6qC4Gyo2ggiZVvu5iDBXcY+xe4="
         }
       ]
     },
     {
       "Route": "styles/theme-flattop.css",
-      "AssetFile": "C:\\Users\\windows\\OneDrive - VietNam National University - HCM INTERNATIONAL UNIVERSITY\\Desktop\\Programming\\C#\\Art_Gallery_Backend\\ArtGallery\\obj\\Debug\\net9.0\\compressed\\6gvpzkjqft-n2v1xeq61i.gz",
+      "AssetFile": "C:\\Users\\windows\\OneDrive - VietNam National University - HCM INTERNATIONAL UNIVERSITY\\Desktop\\Programming\\C#\\Art_Gallery_Backend\\ArtGallery\\obj\\Debug\\net9.0\\compressed\\6gvpzkjqft-f10nv2zff2.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.000180018002"
+          "Quality": "0.000178699071"
         }
       ],
       "ResponseHeaders": [
@@ -22780,15 +22780,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "5554"
+          "Value": "5595"
         },
         {
           "Name": "ETag",
-          "Value": "\"u77LNaTxd05EwcOgPvNQ5HpbOaniujTRxVlMgwnnRQI=\""
+          "Value": "\"SCDqx9iHm0Dy3i/pj/SQrbueE0HqbjLa7Ts+12nkOig=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 27 Apr 2025 07:13:52 GMT"
+          "Value": "Sun, 25 May 2025 23:28:02 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -22808,13 +22808,13 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"jyzK90srHk4cQdpbnoQpKqUdHgV9jRuoPJ2wsIHXxdw=\""
+          "Value": "W/\"DenjaoccP9za9kmENnXNHh1bDLONECSoU7fqHSfI5ZQ=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-jyzK90srHk4cQdpbnoQpKqUdHgV9jRuoPJ2wsIHXxdw="
+          "Value": "sha256-DenjaoccP9za9kmENnXNHh1bDLONECSoU7fqHSfI5ZQ="
         }
       ]
     },
@@ -22829,7 +22829,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "33518"
+          "Value": "35191"
         },
         {
           "Name": "Content-Type",
@@ -22837,11 +22837,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"jyzK90srHk4cQdpbnoQpKqUdHgV9jRuoPJ2wsIHXxdw=\""
+          "Value": "\"DenjaoccP9za9kmENnXNHh1bDLONECSoU7fqHSfI5ZQ=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 27 Apr 2025 07:13:52 GMT"
+          "Value": "Sun, 25 May 2025 23:28:02 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -22851,13 +22851,13 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-jyzK90srHk4cQdpbnoQpKqUdHgV9jRuoPJ2wsIHXxdw="
+          "Value": "sha256-DenjaoccP9za9kmENnXNHh1bDLONECSoU7fqHSfI5ZQ="
         }
       ]
     },
     {
       "Route": "styles/theme-flattop.css.gz",
-      "AssetFile": "C:\\Users\\windows\\OneDrive - VietNam National University - HCM INTERNATIONAL UNIVERSITY\\Desktop\\Programming\\C#\\Art_Gallery_Backend\\ArtGallery\\obj\\Debug\\net9.0\\compressed\\6gvpzkjqft-n2v1xeq61i.gz",
+      "AssetFile": "C:\\Users\\windows\\OneDrive - VietNam National University - HCM INTERNATIONAL UNIVERSITY\\Desktop\\Programming\\C#\\Art_Gallery_Backend\\ArtGallery\\obj\\Debug\\net9.0\\compressed\\6gvpzkjqft-f10nv2zff2.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -22866,7 +22866,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "5554"
+          "Value": "5595"
         },
         {
           "Name": "Content-Type",
@@ -22874,11 +22874,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"u77LNaTxd05EwcOgPvNQ5HpbOaniujTRxVlMgwnnRQI=\""
+          "Value": "\"SCDqx9iHm0Dy3i/pj/SQrbueE0HqbjLa7Ts+12nkOig=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 27 Apr 2025 07:13:52 GMT"
+          "Value": "Sun, 25 May 2025 23:28:02 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -22896,18 +22896,18 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-u77LNaTxd05EwcOgPvNQ5HpbOaniujTRxVlMgwnnRQI="
+          "Value": "sha256-SCDqx9iHm0Dy3i/pj/SQrbueE0HqbjLa7Ts+12nkOig="
         }
       ]
     },
     {
-      "Route": "styles/theme-flattop.n2v1xeq61i.css",
-      "AssetFile": "C:\\Users\\windows\\OneDrive - VietNam National University - HCM INTERNATIONAL UNIVERSITY\\Desktop\\Programming\\C#\\Art_Gallery_Backend\\ArtGallery\\obj\\Debug\\net9.0\\compressed\\6gvpzkjqft-n2v1xeq61i.gz",
+      "Route": "styles/theme-flattop.f10nv2zff2.css",
+      "AssetFile": "C:\\Users\\windows\\OneDrive - VietNam National University - HCM INTERNATIONAL UNIVERSITY\\Desktop\\Programming\\C#\\Art_Gallery_Backend\\ArtGallery\\obj\\Debug\\net9.0\\compressed\\6gvpzkjqft-f10nv2zff2.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.000180018002"
+          "Quality": "0.000178699071"
         }
       ],
       "ResponseHeaders": [
@@ -22917,15 +22917,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "5554"
+          "Value": "5595"
         },
         {
           "Name": "ETag",
-          "Value": "\"u77LNaTxd05EwcOgPvNQ5HpbOaniujTRxVlMgwnnRQI=\""
+          "Value": "\"SCDqx9iHm0Dy3i/pj/SQrbueE0HqbjLa7Ts+12nkOig=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 27 Apr 2025 07:13:52 GMT"
+          "Value": "Sun, 25 May 2025 23:28:02 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -22945,13 +22945,13 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"jyzK90srHk4cQdpbnoQpKqUdHgV9jRuoPJ2wsIHXxdw=\""
+          "Value": "W/\"DenjaoccP9za9kmENnXNHh1bDLONECSoU7fqHSfI5ZQ=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "n2v1xeq61i"
+          "Value": "f10nv2zff2"
         },
         {
           "Name": "label",
@@ -22959,12 +22959,12 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-jyzK90srHk4cQdpbnoQpKqUdHgV9jRuoPJ2wsIHXxdw="
+          "Value": "sha256-DenjaoccP9za9kmENnXNHh1bDLONECSoU7fqHSfI5ZQ="
         }
       ]
     },
     {
-      "Route": "styles/theme-flattop.n2v1xeq61i.css",
+      "Route": "styles/theme-flattop.f10nv2zff2.css",
       "AssetFile": "C:\\Users\\windows\\OneDrive - VietNam National University - HCM INTERNATIONAL UNIVERSITY\\Desktop\\Programming\\C#\\Art_Gallery_Backend\\ArtGallery\\wwwroot\\styles\\theme-flattop.css",
       "Selectors": [],
       "ResponseHeaders": [
@@ -22974,7 +22974,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "33518"
+          "Value": "35191"
         },
         {
           "Name": "Content-Type",
@@ -22982,11 +22982,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"jyzK90srHk4cQdpbnoQpKqUdHgV9jRuoPJ2wsIHXxdw=\""
+          "Value": "\"DenjaoccP9za9kmENnXNHh1bDLONECSoU7fqHSfI5ZQ=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 27 Apr 2025 07:13:52 GMT"
+          "Value": "Sun, 25 May 2025 23:28:02 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -22996,7 +22996,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "n2v1xeq61i"
+          "Value": "f10nv2zff2"
         },
         {
           "Name": "label",
@@ -23004,13 +23004,13 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-jyzK90srHk4cQdpbnoQpKqUdHgV9jRuoPJ2wsIHXxdw="
+          "Value": "sha256-DenjaoccP9za9kmENnXNHh1bDLONECSoU7fqHSfI5ZQ="
         }
       ]
     },
     {
-      "Route": "styles/theme-flattop.n2v1xeq61i.css.gz",
-      "AssetFile": "C:\\Users\\windows\\OneDrive - VietNam National University - HCM INTERNATIONAL UNIVERSITY\\Desktop\\Programming\\C#\\Art_Gallery_Backend\\ArtGallery\\obj\\Debug\\net9.0\\compressed\\6gvpzkjqft-n2v1xeq61i.gz",
+      "Route": "styles/theme-flattop.f10nv2zff2.css.gz",
+      "AssetFile": "C:\\Users\\windows\\OneDrive - VietNam National University - HCM INTERNATIONAL UNIVERSITY\\Desktop\\Programming\\C#\\Art_Gallery_Backend\\ArtGallery\\obj\\Debug\\net9.0\\compressed\\6gvpzkjqft-f10nv2zff2.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -23019,7 +23019,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "5554"
+          "Value": "5595"
         },
         {
           "Name": "Content-Type",
@@ -23027,11 +23027,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"u77LNaTxd05EwcOgPvNQ5HpbOaniujTRxVlMgwnnRQI=\""
+          "Value": "\"SCDqx9iHm0Dy3i/pj/SQrbueE0HqbjLa7Ts+12nkOig=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 27 Apr 2025 07:13:52 GMT"
+          "Value": "Sun, 25 May 2025 23:28:02 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -23049,7 +23049,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "n2v1xeq61i"
+          "Value": "f10nv2zff2"
         },
         {
           "Name": "label",
@@ -23057,18 +23057,18 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-u77LNaTxd05EwcOgPvNQ5HpbOaniujTRxVlMgwnnRQI="
+          "Value": "sha256-SCDqx9iHm0Dy3i/pj/SQrbueE0HqbjLa7Ts+12nkOig="
         }
       ]
     },
     {
       "Route": "styles/theme-material.css",
-      "AssetFile": "C:\\Users\\windows\\OneDrive - VietNam National University - HCM INTERNATIONAL UNIVERSITY\\Desktop\\Programming\\C#\\Art_Gallery_Backend\\ArtGallery\\obj\\Debug\\net9.0\\compressed\\pqlnntzmf0-y354m41174.gz",
+      "AssetFile": "C:\\Users\\windows\\OneDrive - VietNam National University - HCM INTERNATIONAL UNIVERSITY\\Desktop\\Programming\\C#\\Art_Gallery_Backend\\ArtGallery\\obj\\Debug\\net9.0\\compressed\\pqlnntzmf0-s7xkt76wv6.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.000175623463"
+          "Quality": "0.000174246384"
         }
       ],
       "ResponseHeaders": [
@@ -23078,15 +23078,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "5693"
+          "Value": "5738"
         },
         {
           "Name": "ETag",
-          "Value": "\"PyKDLTqk8qUmA+RoSPP4EgXLYVISWUuVq032P3SNfds=\""
+          "Value": "\"5vWhzOHZEMYPHV/7Id2xEf/4bRKaTq4FB/Yg0JQ7K9I=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 27 Apr 2025 07:13:52 GMT"
+          "Value": "Sun, 25 May 2025 23:28:02 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -23106,13 +23106,13 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"Ile6HQQ7f2WTQ1KHImYEMRAOfiqoz7sRkSFrmtUzqoU=\""
+          "Value": "W/\"2AH2oqYiNje/ueY4kr5IgoSxBDvo3agVH8/lN+CajaQ=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-Ile6HQQ7f2WTQ1KHImYEMRAOfiqoz7sRkSFrmtUzqoU="
+          "Value": "sha256-2AH2oqYiNje/ueY4kr5IgoSxBDvo3agVH8/lN+CajaQ="
         }
       ]
     },
@@ -23127,7 +23127,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "34661"
+          "Value": "36381"
         },
         {
           "Name": "Content-Type",
@@ -23135,11 +23135,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"Ile6HQQ7f2WTQ1KHImYEMRAOfiqoz7sRkSFrmtUzqoU=\""
+          "Value": "\"2AH2oqYiNje/ueY4kr5IgoSxBDvo3agVH8/lN+CajaQ=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 27 Apr 2025 07:13:52 GMT"
+          "Value": "Sun, 25 May 2025 23:28:02 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -23149,13 +23149,13 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-Ile6HQQ7f2WTQ1KHImYEMRAOfiqoz7sRkSFrmtUzqoU="
+          "Value": "sha256-2AH2oqYiNje/ueY4kr5IgoSxBDvo3agVH8/lN+CajaQ="
         }
       ]
     },
     {
       "Route": "styles/theme-material.css.gz",
-      "AssetFile": "C:\\Users\\windows\\OneDrive - VietNam National University - HCM INTERNATIONAL UNIVERSITY\\Desktop\\Programming\\C#\\Art_Gallery_Backend\\ArtGallery\\obj\\Debug\\net9.0\\compressed\\pqlnntzmf0-y354m41174.gz",
+      "AssetFile": "C:\\Users\\windows\\OneDrive - VietNam National University - HCM INTERNATIONAL UNIVERSITY\\Desktop\\Programming\\C#\\Art_Gallery_Backend\\ArtGallery\\obj\\Debug\\net9.0\\compressed\\pqlnntzmf0-s7xkt76wv6.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -23164,7 +23164,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "5693"
+          "Value": "5738"
         },
         {
           "Name": "Content-Type",
@@ -23172,11 +23172,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"PyKDLTqk8qUmA+RoSPP4EgXLYVISWUuVq032P3SNfds=\""
+          "Value": "\"5vWhzOHZEMYPHV/7Id2xEf/4bRKaTq4FB/Yg0JQ7K9I=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 27 Apr 2025 07:13:52 GMT"
+          "Value": "Sun, 25 May 2025 23:28:02 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -23194,18 +23194,18 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-PyKDLTqk8qUmA+RoSPP4EgXLYVISWUuVq032P3SNfds="
+          "Value": "sha256-5vWhzOHZEMYPHV/7Id2xEf/4bRKaTq4FB/Yg0JQ7K9I="
         }
       ]
     },
     {
-      "Route": "styles/theme-material.y354m41174.css",
-      "AssetFile": "C:\\Users\\windows\\OneDrive - VietNam National University - HCM INTERNATIONAL UNIVERSITY\\Desktop\\Programming\\C#\\Art_Gallery_Backend\\ArtGallery\\obj\\Debug\\net9.0\\compressed\\pqlnntzmf0-y354m41174.gz",
+      "Route": "styles/theme-material.s7xkt76wv6.css",
+      "AssetFile": "C:\\Users\\windows\\OneDrive - VietNam National University - HCM INTERNATIONAL UNIVERSITY\\Desktop\\Programming\\C#\\Art_Gallery_Backend\\ArtGallery\\obj\\Debug\\net9.0\\compressed\\pqlnntzmf0-s7xkt76wv6.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.000175623463"
+          "Quality": "0.000174246384"
         }
       ],
       "ResponseHeaders": [
@@ -23215,15 +23215,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "5693"
+          "Value": "5738"
         },
         {
           "Name": "ETag",
-          "Value": "\"PyKDLTqk8qUmA+RoSPP4EgXLYVISWUuVq032P3SNfds=\""
+          "Value": "\"5vWhzOHZEMYPHV/7Id2xEf/4bRKaTq4FB/Yg0JQ7K9I=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 27 Apr 2025 07:13:52 GMT"
+          "Value": "Sun, 25 May 2025 23:28:02 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -23243,13 +23243,13 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"Ile6HQQ7f2WTQ1KHImYEMRAOfiqoz7sRkSFrmtUzqoU=\""
+          "Value": "W/\"2AH2oqYiNje/ueY4kr5IgoSxBDvo3agVH8/lN+CajaQ=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "y354m41174"
+          "Value": "s7xkt76wv6"
         },
         {
           "Name": "label",
@@ -23257,12 +23257,12 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-Ile6HQQ7f2WTQ1KHImYEMRAOfiqoz7sRkSFrmtUzqoU="
+          "Value": "sha256-2AH2oqYiNje/ueY4kr5IgoSxBDvo3agVH8/lN+CajaQ="
         }
       ]
     },
     {
-      "Route": "styles/theme-material.y354m41174.css",
+      "Route": "styles/theme-material.s7xkt76wv6.css",
       "AssetFile": "C:\\Users\\windows\\OneDrive - VietNam National University - HCM INTERNATIONAL UNIVERSITY\\Desktop\\Programming\\C#\\Art_Gallery_Backend\\ArtGallery\\wwwroot\\styles\\theme-material.css",
       "Selectors": [],
       "ResponseHeaders": [
@@ -23272,7 +23272,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "34661"
+          "Value": "36381"
         },
         {
           "Name": "Content-Type",
@@ -23280,11 +23280,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"Ile6HQQ7f2WTQ1KHImYEMRAOfiqoz7sRkSFrmtUzqoU=\""
+          "Value": "\"2AH2oqYiNje/ueY4kr5IgoSxBDvo3agVH8/lN+CajaQ=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 27 Apr 2025 07:13:52 GMT"
+          "Value": "Sun, 25 May 2025 23:28:02 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -23294,7 +23294,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "y354m41174"
+          "Value": "s7xkt76wv6"
         },
         {
           "Name": "label",
@@ -23302,13 +23302,13 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-Ile6HQQ7f2WTQ1KHImYEMRAOfiqoz7sRkSFrmtUzqoU="
+          "Value": "sha256-2AH2oqYiNje/ueY4kr5IgoSxBDvo3agVH8/lN+CajaQ="
         }
       ]
     },
     {
-      "Route": "styles/theme-material.y354m41174.css.gz",
-      "AssetFile": "C:\\Users\\windows\\OneDrive - VietNam National University - HCM INTERNATIONAL UNIVERSITY\\Desktop\\Programming\\C#\\Art_Gallery_Backend\\ArtGallery\\obj\\Debug\\net9.0\\compressed\\pqlnntzmf0-y354m41174.gz",
+      "Route": "styles/theme-material.s7xkt76wv6.css.gz",
+      "AssetFile": "C:\\Users\\windows\\OneDrive - VietNam National University - HCM INTERNATIONAL UNIVERSITY\\Desktop\\Programming\\C#\\Art_Gallery_Backend\\ArtGallery\\obj\\Debug\\net9.0\\compressed\\pqlnntzmf0-s7xkt76wv6.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -23317,7 +23317,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "5693"
+          "Value": "5738"
         },
         {
           "Name": "Content-Type",
@@ -23325,11 +23325,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"PyKDLTqk8qUmA+RoSPP4EgXLYVISWUuVq032P3SNfds=\""
+          "Value": "\"5vWhzOHZEMYPHV/7Id2xEf/4bRKaTq4FB/Yg0JQ7K9I=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 27 Apr 2025 07:13:52 GMT"
+          "Value": "Sun, 25 May 2025 23:28:02 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -23347,7 +23347,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "y354m41174"
+          "Value": "s7xkt76wv6"
         },
         {
           "Name": "label",
@@ -23355,18 +23355,18 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-PyKDLTqk8qUmA+RoSPP4EgXLYVISWUuVq032P3SNfds="
+          "Value": "sha256-5vWhzOHZEMYPHV/7Id2xEf/4bRKaTq4FB/Yg0JQ7K9I="
         }
       ]
     },
     {
       "Route": "styles/theme-monokai.css",
-      "AssetFile": "C:\\Users\\windows\\OneDrive - VietNam National University - HCM INTERNATIONAL UNIVERSITY\\Desktop\\Programming\\C#\\Art_Gallery_Backend\\ArtGallery\\obj\\Debug\\net9.0\\compressed\\vp0libeafm-ztoq639vv3.gz",
+      "AssetFile": "C:\\Users\\windows\\OneDrive - VietNam National University - HCM INTERNATIONAL UNIVERSITY\\Desktop\\Programming\\C#\\Art_Gallery_Backend\\ArtGallery\\obj\\Debug\\net9.0\\compressed\\vp0libeafm-zfvib9oy8e.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.000173761946"
+          "Quality": "0.000172265289"
         }
       ],
       "ResponseHeaders": [
@@ -23376,15 +23376,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "5754"
+          "Value": "5804"
         },
         {
           "Name": "ETag",
-          "Value": "\"AAEXEv+bVkqf/6h5N04H4Mo66LZJsfEL8dr0cfcJn1U=\""
+          "Value": "\"G3ntiwOvoaAKGWGzyo/oXD5v8gwEzWmmw+Q/epaWWjg=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 02 May 2025 11:33:10 GMT"
+          "Value": "Sun, 25 May 2025 23:28:02 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -23404,13 +23404,13 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"NwL5UeV8H1MzVUuK+8/wXUv7fEpe+/eK3rsGhFtUsuw=\""
+          "Value": "W/\"rx6VE4C2klUzcsh4SiUX4iSjo7S7EVh2tFnb4esfyhE=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-NwL5UeV8H1MzVUuK+8/wXUv7fEpe+/eK3rsGhFtUsuw="
+          "Value": "sha256-rx6VE4C2klUzcsh4SiUX4iSjo7S7EVh2tFnb4esfyhE="
         }
       ]
     },
@@ -23425,7 +23425,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "36068"
+          "Value": "37861"
         },
         {
           "Name": "Content-Type",
@@ -23433,11 +23433,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"NwL5UeV8H1MzVUuK+8/wXUv7fEpe+/eK3rsGhFtUsuw=\""
+          "Value": "\"rx6VE4C2klUzcsh4SiUX4iSjo7S7EVh2tFnb4esfyhE=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 02 May 2025 11:33:10 GMT"
+          "Value": "Sun, 25 May 2025 23:28:02 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -23447,13 +23447,13 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-NwL5UeV8H1MzVUuK+8/wXUv7fEpe+/eK3rsGhFtUsuw="
+          "Value": "sha256-rx6VE4C2klUzcsh4SiUX4iSjo7S7EVh2tFnb4esfyhE="
         }
       ]
     },
     {
       "Route": "styles/theme-monokai.css.gz",
-      "AssetFile": "C:\\Users\\windows\\OneDrive - VietNam National University - HCM INTERNATIONAL UNIVERSITY\\Desktop\\Programming\\C#\\Art_Gallery_Backend\\ArtGallery\\obj\\Debug\\net9.0\\compressed\\vp0libeafm-ztoq639vv3.gz",
+      "AssetFile": "C:\\Users\\windows\\OneDrive - VietNam National University - HCM INTERNATIONAL UNIVERSITY\\Desktop\\Programming\\C#\\Art_Gallery_Backend\\ArtGallery\\obj\\Debug\\net9.0\\compressed\\vp0libeafm-zfvib9oy8e.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -23462,7 +23462,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "5754"
+          "Value": "5804"
         },
         {
           "Name": "Content-Type",
@@ -23470,11 +23470,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"AAEXEv+bVkqf/6h5N04H4Mo66LZJsfEL8dr0cfcJn1U=\""
+          "Value": "\"G3ntiwOvoaAKGWGzyo/oXD5v8gwEzWmmw+Q/epaWWjg=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 02 May 2025 11:33:10 GMT"
+          "Value": "Sun, 25 May 2025 23:28:02 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -23492,18 +23492,18 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-AAEXEv+bVkqf/6h5N04H4Mo66LZJsfEL8dr0cfcJn1U="
+          "Value": "sha256-G3ntiwOvoaAKGWGzyo/oXD5v8gwEzWmmw+Q/epaWWjg="
         }
       ]
     },
     {
-      "Route": "styles/theme-monokai.ztoq639vv3.css",
-      "AssetFile": "C:\\Users\\windows\\OneDrive - VietNam National University - HCM INTERNATIONAL UNIVERSITY\\Desktop\\Programming\\C#\\Art_Gallery_Backend\\ArtGallery\\obj\\Debug\\net9.0\\compressed\\vp0libeafm-ztoq639vv3.gz",
+      "Route": "styles/theme-monokai.zfvib9oy8e.css",
+      "AssetFile": "C:\\Users\\windows\\OneDrive - VietNam National University - HCM INTERNATIONAL UNIVERSITY\\Desktop\\Programming\\C#\\Art_Gallery_Backend\\ArtGallery\\obj\\Debug\\net9.0\\compressed\\vp0libeafm-zfvib9oy8e.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.000173761946"
+          "Quality": "0.000172265289"
         }
       ],
       "ResponseHeaders": [
@@ -23513,15 +23513,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "5754"
+          "Value": "5804"
         },
         {
           "Name": "ETag",
-          "Value": "\"AAEXEv+bVkqf/6h5N04H4Mo66LZJsfEL8dr0cfcJn1U=\""
+          "Value": "\"G3ntiwOvoaAKGWGzyo/oXD5v8gwEzWmmw+Q/epaWWjg=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 02 May 2025 11:33:10 GMT"
+          "Value": "Sun, 25 May 2025 23:28:02 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -23541,13 +23541,13 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"NwL5UeV8H1MzVUuK+8/wXUv7fEpe+/eK3rsGhFtUsuw=\""
+          "Value": "W/\"rx6VE4C2klUzcsh4SiUX4iSjo7S7EVh2tFnb4esfyhE=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "ztoq639vv3"
+          "Value": "zfvib9oy8e"
         },
         {
           "Name": "label",
@@ -23555,12 +23555,12 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-NwL5UeV8H1MzVUuK+8/wXUv7fEpe+/eK3rsGhFtUsuw="
+          "Value": "sha256-rx6VE4C2klUzcsh4SiUX4iSjo7S7EVh2tFnb4esfyhE="
         }
       ]
     },
     {
-      "Route": "styles/theme-monokai.ztoq639vv3.css",
+      "Route": "styles/theme-monokai.zfvib9oy8e.css",
       "AssetFile": "C:\\Users\\windows\\OneDrive - VietNam National University - HCM INTERNATIONAL UNIVERSITY\\Desktop\\Programming\\C#\\Art_Gallery_Backend\\ArtGallery\\wwwroot\\styles\\theme-monokai.css",
       "Selectors": [],
       "ResponseHeaders": [
@@ -23570,7 +23570,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "36068"
+          "Value": "37861"
         },
         {
           "Name": "Content-Type",
@@ -23578,11 +23578,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"NwL5UeV8H1MzVUuK+8/wXUv7fEpe+/eK3rsGhFtUsuw=\""
+          "Value": "\"rx6VE4C2klUzcsh4SiUX4iSjo7S7EVh2tFnb4esfyhE=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 02 May 2025 11:33:10 GMT"
+          "Value": "Sun, 25 May 2025 23:28:02 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -23592,7 +23592,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "ztoq639vv3"
+          "Value": "zfvib9oy8e"
         },
         {
           "Name": "label",
@@ -23600,13 +23600,13 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-NwL5UeV8H1MzVUuK+8/wXUv7fEpe+/eK3rsGhFtUsuw="
+          "Value": "sha256-rx6VE4C2klUzcsh4SiUX4iSjo7S7EVh2tFnb4esfyhE="
         }
       ]
     },
     {
-      "Route": "styles/theme-monokai.ztoq639vv3.css.gz",
-      "AssetFile": "C:\\Users\\windows\\OneDrive - VietNam National University - HCM INTERNATIONAL UNIVERSITY\\Desktop\\Programming\\C#\\Art_Gallery_Backend\\ArtGallery\\obj\\Debug\\net9.0\\compressed\\vp0libeafm-ztoq639vv3.gz",
+      "Route": "styles/theme-monokai.zfvib9oy8e.css.gz",
+      "AssetFile": "C:\\Users\\windows\\OneDrive - VietNam National University - HCM INTERNATIONAL UNIVERSITY\\Desktop\\Programming\\C#\\Art_Gallery_Backend\\ArtGallery\\obj\\Debug\\net9.0\\compressed\\vp0libeafm-zfvib9oy8e.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -23615,7 +23615,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "5754"
+          "Value": "5804"
         },
         {
           "Name": "Content-Type",
@@ -23623,11 +23623,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"AAEXEv+bVkqf/6h5N04H4Mo66LZJsfEL8dr0cfcJn1U=\""
+          "Value": "\"G3ntiwOvoaAKGWGzyo/oXD5v8gwEzWmmw+Q/epaWWjg=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 02 May 2025 11:33:10 GMT"
+          "Value": "Sun, 25 May 2025 23:28:02 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -23645,7 +23645,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "ztoq639vv3"
+          "Value": "zfvib9oy8e"
         },
         {
           "Name": "label",
@@ -23653,18 +23653,18 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-AAEXEv+bVkqf/6h5N04H4Mo66LZJsfEL8dr0cfcJn1U="
+          "Value": "sha256-G3ntiwOvoaAKGWGzyo/oXD5v8gwEzWmmw+Q/epaWWjg="
         }
       ]
     },
     {
       "Route": "styles/theme-muted.css",
-      "AssetFile": "C:\\Users\\windows\\OneDrive - VietNam National University - HCM INTERNATIONAL UNIVERSITY\\Desktop\\Programming\\C#\\Art_Gallery_Backend\\ArtGallery\\obj\\Debug\\net9.0\\compressed\\8zvtjqfzbm-k0kuzhetng.gz",
+      "AssetFile": "C:\\Users\\windows\\OneDrive - VietNam National University - HCM INTERNATIONAL UNIVERSITY\\Desktop\\Programming\\C#\\Art_Gallery_Backend\\ArtGallery\\obj\\Debug\\net9.0\\compressed\\8zvtjqfzbm-ez0th3efg8.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.000180995475"
+          "Quality": "0.000179629962"
         }
       ],
       "ResponseHeaders": [
@@ -23674,15 +23674,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "5524"
+          "Value": "5566"
         },
         {
           "Name": "ETag",
-          "Value": "\"x/DNivpZfxazxj9YfFpMe/onyPh5Y0oGsSzp1/wrsN8=\""
+          "Value": "\"1Xz7HQcjo+OZktrPzhhXJYXNrDQ0Ap52KOEgaIilBfI=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 27 Apr 2025 07:13:53 GMT"
+          "Value": "Sun, 25 May 2025 23:28:02 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -23702,13 +23702,13 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"LDhdA07tVLXe2ZGjW/K63dVAbRJ+n2QvNaE2JdRqZrI=\""
+          "Value": "W/\"xhjfL4iUEGTWLXJNoAU3TC2tqkiD7VRAB50Y9Y5qN8c=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-LDhdA07tVLXe2ZGjW/K63dVAbRJ+n2QvNaE2JdRqZrI="
+          "Value": "sha256-xhjfL4iUEGTWLXJNoAU3TC2tqkiD7VRAB50Y9Y5qN8c="
         }
       ]
     },
@@ -23723,7 +23723,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "33516"
+          "Value": "35190"
         },
         {
           "Name": "Content-Type",
@@ -23731,11 +23731,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"LDhdA07tVLXe2ZGjW/K63dVAbRJ+n2QvNaE2JdRqZrI=\""
+          "Value": "\"xhjfL4iUEGTWLXJNoAU3TC2tqkiD7VRAB50Y9Y5qN8c=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 27 Apr 2025 07:13:53 GMT"
+          "Value": "Sun, 25 May 2025 23:28:02 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -23745,13 +23745,13 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-LDhdA07tVLXe2ZGjW/K63dVAbRJ+n2QvNaE2JdRqZrI="
+          "Value": "sha256-xhjfL4iUEGTWLXJNoAU3TC2tqkiD7VRAB50Y9Y5qN8c="
         }
       ]
     },
     {
       "Route": "styles/theme-muted.css.gz",
-      "AssetFile": "C:\\Users\\windows\\OneDrive - VietNam National University - HCM INTERNATIONAL UNIVERSITY\\Desktop\\Programming\\C#\\Art_Gallery_Backend\\ArtGallery\\obj\\Debug\\net9.0\\compressed\\8zvtjqfzbm-k0kuzhetng.gz",
+      "AssetFile": "C:\\Users\\windows\\OneDrive - VietNam National University - HCM INTERNATIONAL UNIVERSITY\\Desktop\\Programming\\C#\\Art_Gallery_Backend\\ArtGallery\\obj\\Debug\\net9.0\\compressed\\8zvtjqfzbm-ez0th3efg8.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -23760,7 +23760,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "5524"
+          "Value": "5566"
         },
         {
           "Name": "Content-Type",
@@ -23768,11 +23768,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"x/DNivpZfxazxj9YfFpMe/onyPh5Y0oGsSzp1/wrsN8=\""
+          "Value": "\"1Xz7HQcjo+OZktrPzhhXJYXNrDQ0Ap52KOEgaIilBfI=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 27 Apr 2025 07:13:53 GMT"
+          "Value": "Sun, 25 May 2025 23:28:02 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -23790,18 +23790,18 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-x/DNivpZfxazxj9YfFpMe/onyPh5Y0oGsSzp1/wrsN8="
+          "Value": "sha256-1Xz7HQcjo+OZktrPzhhXJYXNrDQ0Ap52KOEgaIilBfI="
         }
       ]
     },
     {
-      "Route": "styles/theme-muted.k0kuzhetng.css",
-      "AssetFile": "C:\\Users\\windows\\OneDrive - VietNam National University - HCM INTERNATIONAL UNIVERSITY\\Desktop\\Programming\\C#\\Art_Gallery_Backend\\ArtGallery\\obj\\Debug\\net9.0\\compressed\\8zvtjqfzbm-k0kuzhetng.gz",
+      "Route": "styles/theme-muted.ez0th3efg8.css",
+      "AssetFile": "C:\\Users\\windows\\OneDrive - VietNam National University - HCM INTERNATIONAL UNIVERSITY\\Desktop\\Programming\\C#\\Art_Gallery_Backend\\ArtGallery\\obj\\Debug\\net9.0\\compressed\\8zvtjqfzbm-ez0th3efg8.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.000180995475"
+          "Quality": "0.000179629962"
         }
       ],
       "ResponseHeaders": [
@@ -23811,15 +23811,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "5524"
+          "Value": "5566"
         },
         {
           "Name": "ETag",
-          "Value": "\"x/DNivpZfxazxj9YfFpMe/onyPh5Y0oGsSzp1/wrsN8=\""
+          "Value": "\"1Xz7HQcjo+OZktrPzhhXJYXNrDQ0Ap52KOEgaIilBfI=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 27 Apr 2025 07:13:53 GMT"
+          "Value": "Sun, 25 May 2025 23:28:02 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -23839,13 +23839,13 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"LDhdA07tVLXe2ZGjW/K63dVAbRJ+n2QvNaE2JdRqZrI=\""
+          "Value": "W/\"xhjfL4iUEGTWLXJNoAU3TC2tqkiD7VRAB50Y9Y5qN8c=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "k0kuzhetng"
+          "Value": "ez0th3efg8"
         },
         {
           "Name": "label",
@@ -23853,12 +23853,12 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-LDhdA07tVLXe2ZGjW/K63dVAbRJ+n2QvNaE2JdRqZrI="
+          "Value": "sha256-xhjfL4iUEGTWLXJNoAU3TC2tqkiD7VRAB50Y9Y5qN8c="
         }
       ]
     },
     {
-      "Route": "styles/theme-muted.k0kuzhetng.css",
+      "Route": "styles/theme-muted.ez0th3efg8.css",
       "AssetFile": "C:\\Users\\windows\\OneDrive - VietNam National University - HCM INTERNATIONAL UNIVERSITY\\Desktop\\Programming\\C#\\Art_Gallery_Backend\\ArtGallery\\wwwroot\\styles\\theme-muted.css",
       "Selectors": [],
       "ResponseHeaders": [
@@ -23868,7 +23868,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "33516"
+          "Value": "35190"
         },
         {
           "Name": "Content-Type",
@@ -23876,11 +23876,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"LDhdA07tVLXe2ZGjW/K63dVAbRJ+n2QvNaE2JdRqZrI=\""
+          "Value": "\"xhjfL4iUEGTWLXJNoAU3TC2tqkiD7VRAB50Y9Y5qN8c=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 27 Apr 2025 07:13:53 GMT"
+          "Value": "Sun, 25 May 2025 23:28:02 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -23890,7 +23890,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "k0kuzhetng"
+          "Value": "ez0th3efg8"
         },
         {
           "Name": "label",
@@ -23898,13 +23898,13 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-LDhdA07tVLXe2ZGjW/K63dVAbRJ+n2QvNaE2JdRqZrI="
+          "Value": "sha256-xhjfL4iUEGTWLXJNoAU3TC2tqkiD7VRAB50Y9Y5qN8c="
         }
       ]
     },
     {
-      "Route": "styles/theme-muted.k0kuzhetng.css.gz",
-      "AssetFile": "C:\\Users\\windows\\OneDrive - VietNam National University - HCM INTERNATIONAL UNIVERSITY\\Desktop\\Programming\\C#\\Art_Gallery_Backend\\ArtGallery\\obj\\Debug\\net9.0\\compressed\\8zvtjqfzbm-k0kuzhetng.gz",
+      "Route": "styles/theme-muted.ez0th3efg8.css.gz",
+      "AssetFile": "C:\\Users\\windows\\OneDrive - VietNam National University - HCM INTERNATIONAL UNIVERSITY\\Desktop\\Programming\\C#\\Art_Gallery_Backend\\ArtGallery\\obj\\Debug\\net9.0\\compressed\\8zvtjqfzbm-ez0th3efg8.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -23913,7 +23913,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "5524"
+          "Value": "5566"
         },
         {
           "Name": "Content-Type",
@@ -23921,11 +23921,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"x/DNivpZfxazxj9YfFpMe/onyPh5Y0oGsSzp1/wrsN8=\""
+          "Value": "\"1Xz7HQcjo+OZktrPzhhXJYXNrDQ0Ap52KOEgaIilBfI=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 27 Apr 2025 07:13:53 GMT"
+          "Value": "Sun, 25 May 2025 23:28:02 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -23943,7 +23943,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "k0kuzhetng"
+          "Value": "ez0th3efg8"
         },
         {
           "Name": "label",
@@ -23951,18 +23951,18 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-x/DNivpZfxazxj9YfFpMe/onyPh5Y0oGsSzp1/wrsN8="
+          "Value": "sha256-1Xz7HQcjo+OZktrPzhhXJYXNrDQ0Ap52KOEgaIilBfI="
         }
       ]
     },
     {
       "Route": "styles/theme-newspaper.css",
-      "AssetFile": "C:\\Users\\windows\\OneDrive - VietNam National University - HCM INTERNATIONAL UNIVERSITY\\Desktop\\Programming\\C#\\Art_Gallery_Backend\\ArtGallery\\obj\\Debug\\net9.0\\compressed\\oxqtcxv2o1-voqtbgdh21.gz",
+      "AssetFile": "C:\\Users\\windows\\OneDrive - VietNam National University - HCM INTERNATIONAL UNIVERSITY\\Desktop\\Programming\\C#\\Art_Gallery_Backend\\ArtGallery\\obj\\Debug\\net9.0\\compressed\\oxqtcxv2o1-uz5576n27v.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.000181620051"
+          "Quality": "0.000180245133"
         }
       ],
       "ResponseHeaders": [
@@ -23972,15 +23972,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "5505"
+          "Value": "5547"
         },
         {
           "Name": "ETag",
-          "Value": "\"8KjbMMaaNLDMLv9K+BcTZvL3wLLyoLDlc49hx3GqHpo=\""
+          "Value": "\"B8FXu/tpZcBkXwG6PckgVp1uk+UU/vYSRB/eLqDEwwg=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 27 Apr 2025 07:13:53 GMT"
+          "Value": "Sun, 25 May 2025 23:28:02 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -24000,13 +24000,13 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"oZgKcHDK+tf0MTvZYqXJK5ZXBgXFaDT0vx/bgLzlXnI=\""
+          "Value": "W/\"ZiMPlX6WhC65yHM+VC+hJhZ7sxhENfRKL0yPgqIzY0g=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-oZgKcHDK+tf0MTvZYqXJK5ZXBgXFaDT0vx/bgLzlXnI="
+          "Value": "sha256-ZiMPlX6WhC65yHM+VC+hJhZ7sxhENfRKL0yPgqIzY0g="
         }
       ]
     },
@@ -24021,7 +24021,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "33497"
+          "Value": "35169"
         },
         {
           "Name": "Content-Type",
@@ -24029,11 +24029,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"oZgKcHDK+tf0MTvZYqXJK5ZXBgXFaDT0vx/bgLzlXnI=\""
+          "Value": "\"ZiMPlX6WhC65yHM+VC+hJhZ7sxhENfRKL0yPgqIzY0g=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 27 Apr 2025 07:13:53 GMT"
+          "Value": "Sun, 25 May 2025 23:28:02 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -24043,13 +24043,13 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-oZgKcHDK+tf0MTvZYqXJK5ZXBgXFaDT0vx/bgLzlXnI="
+          "Value": "sha256-ZiMPlX6WhC65yHM+VC+hJhZ7sxhENfRKL0yPgqIzY0g="
         }
       ]
     },
     {
       "Route": "styles/theme-newspaper.css.gz",
-      "AssetFile": "C:\\Users\\windows\\OneDrive - VietNam National University - HCM INTERNATIONAL UNIVERSITY\\Desktop\\Programming\\C#\\Art_Gallery_Backend\\ArtGallery\\obj\\Debug\\net9.0\\compressed\\oxqtcxv2o1-voqtbgdh21.gz",
+      "AssetFile": "C:\\Users\\windows\\OneDrive - VietNam National University - HCM INTERNATIONAL UNIVERSITY\\Desktop\\Programming\\C#\\Art_Gallery_Backend\\ArtGallery\\obj\\Debug\\net9.0\\compressed\\oxqtcxv2o1-uz5576n27v.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -24058,7 +24058,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "5505"
+          "Value": "5547"
         },
         {
           "Name": "Content-Type",
@@ -24066,11 +24066,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"8KjbMMaaNLDMLv9K+BcTZvL3wLLyoLDlc49hx3GqHpo=\""
+          "Value": "\"B8FXu/tpZcBkXwG6PckgVp1uk+UU/vYSRB/eLqDEwwg=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 27 Apr 2025 07:13:53 GMT"
+          "Value": "Sun, 25 May 2025 23:28:02 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -24088,18 +24088,18 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-8KjbMMaaNLDMLv9K+BcTZvL3wLLyoLDlc49hx3GqHpo="
+          "Value": "sha256-B8FXu/tpZcBkXwG6PckgVp1uk+UU/vYSRB/eLqDEwwg="
         }
       ]
     },
     {
-      "Route": "styles/theme-newspaper.voqtbgdh21.css",
-      "AssetFile": "C:\\Users\\windows\\OneDrive - VietNam National University - HCM INTERNATIONAL UNIVERSITY\\Desktop\\Programming\\C#\\Art_Gallery_Backend\\ArtGallery\\obj\\Debug\\net9.0\\compressed\\oxqtcxv2o1-voqtbgdh21.gz",
+      "Route": "styles/theme-newspaper.uz5576n27v.css",
+      "AssetFile": "C:\\Users\\windows\\OneDrive - VietNam National University - HCM INTERNATIONAL UNIVERSITY\\Desktop\\Programming\\C#\\Art_Gallery_Backend\\ArtGallery\\obj\\Debug\\net9.0\\compressed\\oxqtcxv2o1-uz5576n27v.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.000181620051"
+          "Quality": "0.000180245133"
         }
       ],
       "ResponseHeaders": [
@@ -24109,15 +24109,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "5505"
+          "Value": "5547"
         },
         {
           "Name": "ETag",
-          "Value": "\"8KjbMMaaNLDMLv9K+BcTZvL3wLLyoLDlc49hx3GqHpo=\""
+          "Value": "\"B8FXu/tpZcBkXwG6PckgVp1uk+UU/vYSRB/eLqDEwwg=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 27 Apr 2025 07:13:53 GMT"
+          "Value": "Sun, 25 May 2025 23:28:02 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -24137,13 +24137,13 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"oZgKcHDK+tf0MTvZYqXJK5ZXBgXFaDT0vx/bgLzlXnI=\""
+          "Value": "W/\"ZiMPlX6WhC65yHM+VC+hJhZ7sxhENfRKL0yPgqIzY0g=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "voqtbgdh21"
+          "Value": "uz5576n27v"
         },
         {
           "Name": "label",
@@ -24151,12 +24151,12 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-oZgKcHDK+tf0MTvZYqXJK5ZXBgXFaDT0vx/bgLzlXnI="
+          "Value": "sha256-ZiMPlX6WhC65yHM+VC+hJhZ7sxhENfRKL0yPgqIzY0g="
         }
       ]
     },
     {
-      "Route": "styles/theme-newspaper.voqtbgdh21.css",
+      "Route": "styles/theme-newspaper.uz5576n27v.css",
       "AssetFile": "C:\\Users\\windows\\OneDrive - VietNam National University - HCM INTERNATIONAL UNIVERSITY\\Desktop\\Programming\\C#\\Art_Gallery_Backend\\ArtGallery\\wwwroot\\styles\\theme-newspaper.css",
       "Selectors": [],
       "ResponseHeaders": [
@@ -24166,7 +24166,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "33497"
+          "Value": "35169"
         },
         {
           "Name": "Content-Type",
@@ -24174,11 +24174,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"oZgKcHDK+tf0MTvZYqXJK5ZXBgXFaDT0vx/bgLzlXnI=\""
+          "Value": "\"ZiMPlX6WhC65yHM+VC+hJhZ7sxhENfRKL0yPgqIzY0g=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 27 Apr 2025 07:13:53 GMT"
+          "Value": "Sun, 25 May 2025 23:28:02 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -24188,7 +24188,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "voqtbgdh21"
+          "Value": "uz5576n27v"
         },
         {
           "Name": "label",
@@ -24196,13 +24196,13 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-oZgKcHDK+tf0MTvZYqXJK5ZXBgXFaDT0vx/bgLzlXnI="
+          "Value": "sha256-ZiMPlX6WhC65yHM+VC+hJhZ7sxhENfRKL0yPgqIzY0g="
         }
       ]
     },
     {
-      "Route": "styles/theme-newspaper.voqtbgdh21.css.gz",
-      "AssetFile": "C:\\Users\\windows\\OneDrive - VietNam National University - HCM INTERNATIONAL UNIVERSITY\\Desktop\\Programming\\C#\\Art_Gallery_Backend\\ArtGallery\\obj\\Debug\\net9.0\\compressed\\oxqtcxv2o1-voqtbgdh21.gz",
+      "Route": "styles/theme-newspaper.uz5576n27v.css.gz",
+      "AssetFile": "C:\\Users\\windows\\OneDrive - VietNam National University - HCM INTERNATIONAL UNIVERSITY\\Desktop\\Programming\\C#\\Art_Gallery_Backend\\ArtGallery\\obj\\Debug\\net9.0\\compressed\\oxqtcxv2o1-uz5576n27v.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -24211,7 +24211,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "5505"
+          "Value": "5547"
         },
         {
           "Name": "Content-Type",
@@ -24219,11 +24219,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"8KjbMMaaNLDMLv9K+BcTZvL3wLLyoLDlc49hx3GqHpo=\""
+          "Value": "\"B8FXu/tpZcBkXwG6PckgVp1uk+UU/vYSRB/eLqDEwwg=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 27 Apr 2025 07:13:53 GMT"
+          "Value": "Sun, 25 May 2025 23:28:02 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -24241,7 +24241,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "voqtbgdh21"
+          "Value": "uz5576n27v"
         },
         {
           "Name": "label",
@@ -24249,18 +24249,18 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-8KjbMMaaNLDMLv9K+BcTZvL3wLLyoLDlc49hx3GqHpo="
+          "Value": "sha256-B8FXu/tpZcBkXwG6PckgVp1uk+UU/vYSRB/eLqDEwwg="
         }
       ]
     },
     {
-      "Route": "styles/theme-outline.ayv4w6a1cl.css",
-      "AssetFile": "C:\\Users\\windows\\OneDrive - VietNam National University - HCM INTERNATIONAL UNIVERSITY\\Desktop\\Programming\\C#\\Art_Gallery_Backend\\ArtGallery\\obj\\Debug\\net9.0\\compressed\\zl5gszcyo7-ayv4w6a1cl.gz",
+      "Route": "styles/theme-outline.css",
+      "AssetFile": "C:\\Users\\windows\\OneDrive - VietNam National University - HCM INTERNATIONAL UNIVERSITY\\Desktop\\Programming\\C#\\Art_Gallery_Backend\\ArtGallery\\obj\\Debug\\net9.0\\compressed\\zl5gszcyo7-kyvus83aor.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.000182781941"
+          "Quality": "0.000181389443"
         }
       ],
       "ResponseHeaders": [
@@ -24270,19 +24270,19 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "5470"
+          "Value": "5512"
         },
         {
           "Name": "ETag",
-          "Value": "\"3aqErjxIqflO/80D4TniDQ+vjk3BmLoaBR5SyrRCsTs=\""
+          "Value": "\"jCEZPeLo/4u//3nVUfsArVnj+ikIVKMfC/nqebbCYd0=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 27 Apr 2025 07:13:52 GMT"
+          "Value": "Sun, 25 May 2025 23:28:02 GMT"
         },
         {
           "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
+          "Value": "no-cache"
         },
         {
           "Name": "Content-Encoding",
@@ -24298,26 +24298,18 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"wlIMnC2gMZUnchCUenaxM0BfYGvvahfWGzoSOHTsEbc=\""
+          "Value": "W/\"TGl4SkYk6LMNMsh6ynkjxbI2z/bU3ln5lpahioMnsFY=\""
         }
       ],
       "EndpointProperties": [
         {
-          "Name": "fingerprint",
-          "Value": "ayv4w6a1cl"
-        },
-        {
-          "Name": "label",
-          "Value": "styles/theme-outline.css"
-        },
-        {
           "Name": "integrity",
-          "Value": "sha256-wlIMnC2gMZUnchCUenaxM0BfYGvvahfWGzoSOHTsEbc="
+          "Value": "sha256-TGl4SkYk6LMNMsh6ynkjxbI2z/bU3ln5lpahioMnsFY="
         }
       ]
     },
     {
-      "Route": "styles/theme-outline.ayv4w6a1cl.css",
+      "Route": "styles/theme-outline.css",
       "AssetFile": "C:\\Users\\windows\\OneDrive - VietNam National University - HCM INTERNATIONAL UNIVERSITY\\Desktop\\Programming\\C#\\Art_Gallery_Backend\\ArtGallery\\wwwroot\\styles\\theme-outline.css",
       "Selectors": [],
       "ResponseHeaders": [
@@ -24327,7 +24319,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "33161"
+          "Value": "34814"
         },
         {
           "Name": "Content-Type",
@@ -24335,11 +24327,156 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"wlIMnC2gMZUnchCUenaxM0BfYGvvahfWGzoSOHTsEbc=\""
+          "Value": "\"TGl4SkYk6LMNMsh6ynkjxbI2z/bU3ln5lpahioMnsFY=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 27 Apr 2025 07:13:52 GMT"
+          "Value": "Sun, 25 May 2025 23:28:02 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-TGl4SkYk6LMNMsh6ynkjxbI2z/bU3ln5lpahioMnsFY="
+        }
+      ]
+    },
+    {
+      "Route": "styles/theme-outline.css.gz",
+      "AssetFile": "C:\\Users\\windows\\OneDrive - VietNam National University - HCM INTERNATIONAL UNIVERSITY\\Desktop\\Programming\\C#\\Art_Gallery_Backend\\ArtGallery\\obj\\Debug\\net9.0\\compressed\\zl5gszcyo7-kyvus83aor.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "5512"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"jCEZPeLo/4u//3nVUfsArVnj+ikIVKMfC/nqebbCYd0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 25 May 2025 23:28:02 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-jCEZPeLo/4u//3nVUfsArVnj+ikIVKMfC/nqebbCYd0="
+        }
+      ]
+    },
+    {
+      "Route": "styles/theme-outline.kyvus83aor.css",
+      "AssetFile": "C:\\Users\\windows\\OneDrive - VietNam National University - HCM INTERNATIONAL UNIVERSITY\\Desktop\\Programming\\C#\\Art_Gallery_Backend\\ArtGallery\\obj\\Debug\\net9.0\\compressed\\zl5gszcyo7-kyvus83aor.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000181389443"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "5512"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"jCEZPeLo/4u//3nVUfsArVnj+ikIVKMfC/nqebbCYd0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 25 May 2025 23:28:02 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"TGl4SkYk6LMNMsh6ynkjxbI2z/bU3ln5lpahioMnsFY=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "kyvus83aor"
+        },
+        {
+          "Name": "label",
+          "Value": "styles/theme-outline.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-TGl4SkYk6LMNMsh6ynkjxbI2z/bU3ln5lpahioMnsFY="
+        }
+      ]
+    },
+    {
+      "Route": "styles/theme-outline.kyvus83aor.css",
+      "AssetFile": "C:\\Users\\windows\\OneDrive - VietNam National University - HCM INTERNATIONAL UNIVERSITY\\Desktop\\Programming\\C#\\Art_Gallery_Backend\\ArtGallery\\wwwroot\\styles\\theme-outline.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "34814"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"TGl4SkYk6LMNMsh6ynkjxbI2z/bU3ln5lpahioMnsFY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 25 May 2025 23:28:02 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -24349,7 +24486,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "ayv4w6a1cl"
+          "Value": "kyvus83aor"
         },
         {
           "Name": "label",
@@ -24357,13 +24494,13 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-wlIMnC2gMZUnchCUenaxM0BfYGvvahfWGzoSOHTsEbc="
+          "Value": "sha256-TGl4SkYk6LMNMsh6ynkjxbI2z/bU3ln5lpahioMnsFY="
         }
       ]
     },
     {
-      "Route": "styles/theme-outline.ayv4w6a1cl.css.gz",
-      "AssetFile": "C:\\Users\\windows\\OneDrive - VietNam National University - HCM INTERNATIONAL UNIVERSITY\\Desktop\\Programming\\C#\\Art_Gallery_Backend\\ArtGallery\\obj\\Debug\\net9.0\\compressed\\zl5gszcyo7-ayv4w6a1cl.gz",
+      "Route": "styles/theme-outline.kyvus83aor.css.gz",
+      "AssetFile": "C:\\Users\\windows\\OneDrive - VietNam National University - HCM INTERNATIONAL UNIVERSITY\\Desktop\\Programming\\C#\\Art_Gallery_Backend\\ArtGallery\\obj\\Debug\\net9.0\\compressed\\zl5gszcyo7-kyvus83aor.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -24372,7 +24509,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "5470"
+          "Value": "5512"
         },
         {
           "Name": "Content-Type",
@@ -24380,11 +24517,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"3aqErjxIqflO/80D4TniDQ+vjk3BmLoaBR5SyrRCsTs=\""
+          "Value": "\"jCEZPeLo/4u//3nVUfsArVnj+ikIVKMfC/nqebbCYd0=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 27 Apr 2025 07:13:52 GMT"
+          "Value": "Sun, 25 May 2025 23:28:02 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -24402,7 +24539,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "ayv4w6a1cl"
+          "Value": "kyvus83aor"
         },
         {
           "Name": "label",
@@ -24410,144 +24547,7 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-3aqErjxIqflO/80D4TniDQ+vjk3BmLoaBR5SyrRCsTs="
-        }
-      ]
-    },
-    {
-      "Route": "styles/theme-outline.css",
-      "AssetFile": "C:\\Users\\windows\\OneDrive - VietNam National University - HCM INTERNATIONAL UNIVERSITY\\Desktop\\Programming\\C#\\Art_Gallery_Backend\\ArtGallery\\obj\\Debug\\net9.0\\compressed\\zl5gszcyo7-ayv4w6a1cl.gz",
-      "Selectors": [
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip",
-          "Quality": "0.000182781941"
-        }
-      ],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "5470"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"3aqErjxIqflO/80D4TniDQ+vjk3BmLoaBR5SyrRCsTs=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Sun, 27 Apr 2025 07:13:52 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "W/\"wlIMnC2gMZUnchCUenaxM0BfYGvvahfWGzoSOHTsEbc=\""
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-wlIMnC2gMZUnchCUenaxM0BfYGvvahfWGzoSOHTsEbc="
-        }
-      ]
-    },
-    {
-      "Route": "styles/theme-outline.css",
-      "AssetFile": "C:\\Users\\windows\\OneDrive - VietNam National University - HCM INTERNATIONAL UNIVERSITY\\Desktop\\Programming\\C#\\Art_Gallery_Backend\\ArtGallery\\wwwroot\\styles\\theme-outline.css",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "33161"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"wlIMnC2gMZUnchCUenaxM0BfYGvvahfWGzoSOHTsEbc=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Sun, 27 Apr 2025 07:13:52 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-wlIMnC2gMZUnchCUenaxM0BfYGvvahfWGzoSOHTsEbc="
-        }
-      ]
-    },
-    {
-      "Route": "styles/theme-outline.css.gz",
-      "AssetFile": "C:\\Users\\windows\\OneDrive - VietNam National University - HCM INTERNATIONAL UNIVERSITY\\Desktop\\Programming\\C#\\Art_Gallery_Backend\\ArtGallery\\obj\\Debug\\net9.0\\compressed\\zl5gszcyo7-ayv4w6a1cl.gz",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "5470"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"3aqErjxIqflO/80D4TniDQ+vjk3BmLoaBR5SyrRCsTs=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Sun, 27 Apr 2025 07:13:52 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-3aqErjxIqflO/80D4TniDQ+vjk3BmLoaBR5SyrRCsTs="
+          "Value": "sha256-jCEZPeLo/4u//3nVUfsArVnj+ikIVKMfC/nqebbCYd0="
         }
       ]
     },
@@ -24576,7 +24576,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 27 Apr 2025 07:13:51 GMT"
+          "Value": "Sun, 25 May 2025 23:28:02 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -24629,7 +24629,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 27 Apr 2025 07:13:51 GMT"
+          "Value": "Sun, 25 May 2025 23:28:02 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -24666,7 +24666,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 27 Apr 2025 07:13:51 GMT"
+          "Value": "Sun, 25 May 2025 23:28:02 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -24713,7 +24713,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 27 Apr 2025 07:13:51 GMT"
+          "Value": "Sun, 25 May 2025 23:28:02 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -24774,7 +24774,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 27 Apr 2025 07:13:51 GMT"
+          "Value": "Sun, 25 May 2025 23:28:02 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -24819,7 +24819,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 27 Apr 2025 07:13:51 GMT"
+          "Value": "Sun, 25 May 2025 23:28:02 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -24872,7 +24872,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 27 Apr 2025 07:13:51 GMT"
+          "Value": "Sun, 25 May 2025 23:28:02 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -24917,7 +24917,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 27 Apr 2025 07:13:51 GMT"
+          "Value": "Sun, 25 May 2025 23:28:02 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -24954,7 +24954,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 27 Apr 2025 07:13:52 GMT"
+          "Value": "Sun, 25 May 2025 23:28:02 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -24999,7 +24999,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 27 Apr 2025 07:13:52 GMT"
+          "Value": "Sun, 25 May 2025 23:28:02 GMT"
         },
         {
           "Name": "Cache-Control",

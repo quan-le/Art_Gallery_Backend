@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\windows\\OneDrive - VietNam National University - HCM INTERNATIONAL UNIVERSITY\\Desktop\\Programming\\C#\\Art_Gallery_Backend\\ArtGallery\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{20F64D49-B43C-4337-83DA-0F9CEEA2F2ED}|ArtGallery.csproj|c:\\users\\windows\\onedrive - vietnam national university - hcm international university\\desktop\\programming\\c#\\art_gallery_backend\\artgallery\\swaggerextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{20F64D49-B43C-4337-83DA-0F9CEEA2F2ED}|ArtGallery.csproj|solutionrelative:swaggerextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{20F64D49-B43C-4337-83DA-0F9CEEA2F2ED}|ArtGallery.csproj|c:\\users\\windows\\onedrive - vietnam national university - hcm international university\\desktop\\programming\\c#\\art_gallery_backend\\artgallery\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{20F64D49-B43C-4337-83DA-0F9CEEA2F2ED}|ArtGallery.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20F64D49-B43C-4337-83DA-0F9CEEA2F2ED}|ArtGallery.csproj|c:\\users\\windows\\onedrive - vietnam national university - hcm international university\\desktop\\programming\\c#\\art_gallery_backend\\artgallery\\swaggerextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20F64D49-B43C-4337-83DA-0F9CEEA2F2ED}|ArtGallery.csproj|solutionrelative:swaggerextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{20F64D49-B43C-4337-83DA-0F9CEEA2F2ED}|ArtGallery.csproj|c:\\users\\windows\\onedrive - vietnam national university - hcm international university\\desktop\\programming\\c#\\art_gallery_backend\\artgallery\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
@@ -26,7 +26,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 259,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
@@ -38,12 +38,11 @@
               "RelativeToolTip": "appsettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAABcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-05-25T07:07:43.464Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-25T07:07:43.464Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "SwaggerExtensions.cs",
               "DocumentMoniker": "C:\\Users\\windows\\OneDrive - VietNam National University - HCM INTERNATIONAL UNIVERSITY\\Desktop\\Programming\\C#\\Art_Gallery_Backend\\ArtGallery\\SwaggerExtensions.cs",
               "RelativeDocumentMoniker": "SwaggerExtensions.cs",
@@ -56,13 +55,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\windows\\OneDrive - VietNam National University - HCM INTERNATIONAL UNIVERSITY\\Desktop\\Programming\\C#\\Art_Gallery_Backend\\ArtGallery\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "C:\\Users\\windows\\OneDrive - VietNam National University - HCM INTERNATIONAL UNIVERSITY\\Desktop\\Programming\\C#\\Art_Gallery_Backend\\ArtGallery\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAiwFMAAAAGAAAAAAAAAA==",
+              "ViewState": "AgIAADwAAAAAAAAAAAAywEgAAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-22T03:38:51.994Z",
               "EditorCaption": ""
@@ -77,8 +76,7 @@
               "RelativeToolTip": "Controllers\\RoleController.cs",
               "ViewState": "AgIAAEAAAAAAAAAAAAAcwAwAAAArAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-23T04:42:43.45Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-23T04:42:43.45Z"
             }
           ]
         }

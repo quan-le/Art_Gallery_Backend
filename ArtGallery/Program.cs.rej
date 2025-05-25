@@ -1,0 +1,26 @@
+diff a/ArtGallery/Program.cs b/ArtGallery/Program.cs	(rejected hunks)
+@@ -65,5 +65,24 @@
+ 
+ app.MapControllers();
+ 
++app.UseStaticFiles();
++
++//---enable Swagger
++app.UseSwagger();
++//app.UseSwaggerUI();
++app.UseSwaggerUI(setup =>
++{
++    setup.InjectStylesheet("/styles/theme-dark-high-constrast.css");
++    /*
++    setup.OAuthClientId(builder.Configuration["Auth0:SwaggerClientId"]);
++    setup.OAuthClientSecret(builder.Configuration["Auth0:SwaggerClientSecret"]);
++    setup.OAuthUsePkce();
++    setup.OAuthAdditionalQueryStringParams(new Dictionary<string, string>
++    {
++        { "audience", $"{builder.Configuration["Auth0:Audience"]}" }
++    });
++    */
++});
++
+ app.Run();
+ 
