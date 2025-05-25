@@ -1,0 +1,31 @@
+﻿.swagger-ui .topbar a img {
+    display: none;
+}
+
+/* Insert the custom logo*/
+.swagger-ui .topbar a::before {
+    content: "";
+    display: inline-block;
+    width: 200px; 
+    height: 50px; 
+    background: url('/images/deakin-logo.png') no-repeat center;
+    background-position: center left;
+    background-size: contain;
+    vertical-align: middle;
+}
+
+#swagger-ui > section > div.topbar > div > div > a > svg {
+    display: none;
+}
+
+#swagger-ui > section > div > div > div a> svg{
+    display:none;
+}
+
+.swagger-ui .topbar .download-url-wrapper .select-label select {
+    border-color: #EF1C25;
+}
+
+.swagger-ui .info .title small:last-child {
+    background-color: #EF1C25 !important;
+}

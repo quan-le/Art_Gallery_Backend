@@ -7,6 +7,8 @@ using Microsoft.AspNetCore.Authorization;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.IdentityModel.Tokens;
+using Microsoft.OpenApi.Models;
+using System.Reflection;
 using System.Security.Claims;
 
 var builder = WebApplication.CreateBuilder(args);
@@ -15,7 +17,6 @@ var builder = WebApplication.CreateBuilder(args);
 builder.Services.AddControllersWithViews();
 
 // Add Authorization services
-
 builder.Services.AddAuthentication(options =>
 {
     options.DefaultAuthenticateScheme = JwtBearerDefaults.AuthenticationScheme;
@@ -37,8 +38,10 @@ builder.Services.AddAuthorization(options =>
     options.AddPolicy("User", policy => policy.RequireClaim("permissions", "read"));
 
 });
-//builder.Services.AddSingleton<IAuthorizationHandler, HasScopeHandler>();
 
+//---Add Swagger Services
+builder.Services.AddOpenApi();
+builder.Services.AddSwaggerService();
 //Dependency Injection
 builder.Services.AddScoped<IArtifactDAO, ArtifactDAO>();
 builder.Services.AddScoped<IArtistDAO, ArtistDAO>();
@@ -61,6 +64,25 @@ app.UseAuthorization();
 app.MapStaticAssets();
 
 app.MapControllers();
+
+app.UseStaticFiles();
+
+//---enable Swagger
+app.UseSwagger();
+//app.UseSwaggerUI();
+app.UseSwaggerUI(setup =>
+{
+    setup.InjectStylesheet("/styles/theme-dark-high-constrast.css");
+    /*
+    setup.OAuthClientId(builder.Configuration["Auth0:SwaggerClientId"]);
+    setup.OAuthClientSecret(builder.Configuration["Auth0:SwaggerClientSecret"]);
+    setup.OAuthUsePkce();
+    setup.OAuthAdditionalQueryStringParams(new Dictionary<string, string>
+    {
+        { "audience", $"{builder.Configuration["Auth0:Audience"]}" }
+    });
+    */
+});
 
 app.Run();
 

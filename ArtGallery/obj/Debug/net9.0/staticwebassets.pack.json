@@ -9,6 +9,10 @@
       "PackagePath": "staticwebassets\\favicon.ico"
     },
     {
+      "Id": "C:\\Users\\windows\\OneDrive - VietNam National University - HCM INTERNATIONAL UNIVERSITY\\Desktop\\Programming\\C#\\Art_Gallery_Backend\\ArtGallery\\wwwroot\\images\\deakin-logo.png",
+      "PackagePath": "staticwebassets\\images\\deakin-logo.png"
+    },
+    {
       "Id": "C:\\Users\\windows\\OneDrive - VietNam National University - HCM INTERNATIONAL UNIVERSITY\\Desktop\\Programming\\C#\\Art_Gallery_Backend\\ArtGallery\\wwwroot\\js\\site.js",
       "PackagePath": "staticwebassets\\js\\site.js"
     },
@@ -251,6 +255,58 @@
     {
       "Id": "C:\\Users\\windows\\OneDrive - VietNam National University - HCM INTERNATIONAL UNIVERSITY\\Desktop\\Programming\\C#\\Art_Gallery_Backend\\ArtGallery\\wwwroot\\lib\\jquery\\dist\\jquery.slim.min.map",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.slim.min.map"
+    },
+    {
+      "Id": "C:\\Users\\windows\\OneDrive - VietNam National University - HCM INTERNATIONAL UNIVERSITY\\Desktop\\Programming\\C#\\Art_Gallery_Backend\\ArtGallery\\wwwroot\\styles\\robot.css",
+      "PackagePath": "staticwebassets\\styles\\robot.css"
+    },
+    {
+      "Id": "C:\\Users\\windows\\OneDrive - VietNam National University - HCM INTERNATIONAL UNIVERSITY\\Desktop\\Programming\\C#\\Art_Gallery_Backend\\ArtGallery\\wwwroot\\styles\\theme-dark-high-constrast.css",
+      "PackagePath": "staticwebassets\\styles\\theme-dark-high-constrast.css"
+    },
+    {
+      "Id": "C:\\Users\\windows\\OneDrive - VietNam National University - HCM INTERNATIONAL UNIVERSITY\\Desktop\\Programming\\C#\\Art_Gallery_Backend\\ArtGallery\\wwwroot\\styles\\theme-dark-high-constrast.zip",
+      "PackagePath": "staticwebassets\\styles\\theme-dark-high-constrast.zip"
+    },
+    {
+      "Id": "C:\\Users\\windows\\OneDrive - VietNam National University - HCM INTERNATIONAL UNIVERSITY\\Desktop\\Programming\\C#\\Art_Gallery_Backend\\ArtGallery\\wwwroot\\styles\\theme-feeling-blue.css",
+      "PackagePath": "staticwebassets\\styles\\theme-feeling-blue.css"
+    },
+    {
+      "Id": "C:\\Users\\windows\\OneDrive - VietNam National University - HCM INTERNATIONAL UNIVERSITY\\Desktop\\Programming\\C#\\Art_Gallery_Backend\\ArtGallery\\wwwroot\\styles\\theme-flattop.css",
+      "PackagePath": "staticwebassets\\styles\\theme-flattop.css"
+    },
+    {
+      "Id": "C:\\Users\\windows\\OneDrive - VietNam National University - HCM INTERNATIONAL UNIVERSITY\\Desktop\\Programming\\C#\\Art_Gallery_Backend\\ArtGallery\\wwwroot\\styles\\theme-material.css",
+      "PackagePath": "staticwebassets\\styles\\theme-material.css"
+    },
+    {
+      "Id": "C:\\Users\\windows\\OneDrive - VietNam National University - HCM INTERNATIONAL UNIVERSITY\\Desktop\\Programming\\C#\\Art_Gallery_Backend\\ArtGallery\\wwwroot\\styles\\theme-monokai.css",
+      "PackagePath": "staticwebassets\\styles\\theme-monokai.css"
+    },
+    {
+      "Id": "C:\\Users\\windows\\OneDrive - VietNam National University - HCM INTERNATIONAL UNIVERSITY\\Desktop\\Programming\\C#\\Art_Gallery_Backend\\ArtGallery\\wwwroot\\styles\\theme-muted.css",
+      "PackagePath": "staticwebassets\\styles\\theme-muted.css"
+    },
+    {
+      "Id": "C:\\Users\\windows\\OneDrive - VietNam National University - HCM INTERNATIONAL UNIVERSITY\\Desktop\\Programming\\C#\\Art_Gallery_Backend\\ArtGallery\\wwwroot\\styles\\theme-newspaper.css",
+      "PackagePath": "staticwebassets\\styles\\theme-newspaper.css"
+    },
+    {
+      "Id": "C:\\Users\\windows\\OneDrive - VietNam National University - HCM INTERNATIONAL UNIVERSITY\\Desktop\\Programming\\C#\\Art_Gallery_Backend\\ArtGallery\\wwwroot\\styles\\theme-outline.css",
+      "PackagePath": "staticwebassets\\styles\\theme-outline.css"
+    },
+    {
+      "Id": "C:\\Users\\windows\\OneDrive - VietNam National University - HCM INTERNATIONAL UNIVERSITY\\Desktop\\Programming\\C#\\Art_Gallery_Backend\\ArtGallery\\wwwroot\\swagger\\favicon-16x16.png",
+      "PackagePath": "staticwebassets\\swagger\\favicon-16x16.png"
+    },
+    {
+      "Id": "C:\\Users\\windows\\OneDrive - VietNam National University - HCM INTERNATIONAL UNIVERSITY\\Desktop\\Programming\\C#\\Art_Gallery_Backend\\ArtGallery\\wwwroot\\swagger\\favicon-32x32.png",
+      "PackagePath": "staticwebassets\\swagger\\favicon-32x32.png"
+    },
+    {
+      "Id": "C:\\Users\\windows\\OneDrive - VietNam National University - HCM INTERNATIONAL UNIVERSITY\\Desktop\\Programming\\C#\\Art_Gallery_Backend\\ArtGallery\\wwwroot\\swagger\\favicon.ico",
+      "PackagePath": "staticwebassets\\swagger\\favicon.ico"
     },
     {
       "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.ArtGallery.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",

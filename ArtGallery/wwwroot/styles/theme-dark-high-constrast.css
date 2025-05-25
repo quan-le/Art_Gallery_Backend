@@ -1,0 +1,124 @@
+@charset "UTF-8";
+@import url("robot.css");
+
+body, .swagger-ui {
+    background-color: #000000;
+    color: #FFFFFF;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.swagger-ui .topbar {
+    background-color: #121212;
+}
+
+.swagger-ui .topbar a,
+.swagger-ui .topbar .download-url-button {
+    color: #00FFFF;
+    font-weight: bold;
+}
+
+.swagger-ui .topbar input[type=text] {
+    background-color: #1A1A1A;
+    border: 1px solid #00FFFF;
+    color: #FFFFFF;
+}
+
+.swagger-ui .opblock {
+    background-color: #0F0F0F;
+    border: 1px solid #555555;
+}
+
+.swagger-ui .opblock.opblock-get .opblock-summary-method {
+    background-color: #00FF00;
+    color: #000000;
+}
+
+.swagger-ui .opblock.opblock-post .opblock-summary-method {
+    background-color: #ADFF2F;
+    color: #000000;
+}
+
+.swagger-ui .opblock.opblock-put .opblock-summary-method {
+    background-color: #FFFF00;
+    color: #000000;
+}
+
+.swagger-ui .opblock.opblock-delete .opblock-summary-method {
+    background-color: #FF0033;
+    color: #FFFFFF;
+}
+
+.swagger-ui .opblock.opblock-patch .opblock-summary-method {
+    background-color: #FFA500;
+    color: #000000;
+}
+
+.swagger-ui .opblock.opblock-options .opblock-summary-method {
+    background-color: #00BFFF;
+    color: #000000;
+}
+
+/* Text */
+.swagger-ui h1,
+.swagger-ui h2,
+.swagger-ui h3,
+.swagger-ui h4,
+.swagger-ui h5,
+.swagger-ui h6,
+.swagger-ui p,
+.swagger-ui span,
+.swagger-ui .parameter__name,
+.swagger-ui .opblock .opblock-summary-description,
+.swagger-ui .opblock-description-wrapper p,
+.swagger-ui .parameter__in,
+.swagger-ui .response-col_status,
+.swagger-ui label,
+.swagger-ui .tab li,
+.swagger-ui table thead tr td,
+.swagger-ui table thead tr th {
+    color: #FFFFFF;
+    font-weight: 600;
+}
+
+/* Buttons */
+.swagger-ui .btn {
+    background-color: #1A1A1A;
+    color: #FFFFFF;
+    border: 2px solid #00FFFF;
+    font-weight: bold;
+}
+
+.swagger-ui .btn:hover {
+    background-color: #00FFFF;
+    color: #000000;
+}
+
+.swagger-ui .btn.execute {
+    background-color: #00FF00;
+    color: #000000;
+}
+
+/* Code Blocks and Inputs */
+.swagger-ui pre, .swagger-ui code, .swagger-ui textarea {
+    background-color: #0F0F0F;
+    color: #FFFFFF;
+    border: 1px solid #555555;
+    font-weight: 600;
+}
+
+/* Scrollbars */
+::-webkit-scrollbar {
+    width: 8px;
+}
+
+::-webkit-scrollbar-track {
+    background: #000000;
+}
+
+::-webkit-scrollbar-thumb {
+    background: #888888;
+}
+
+::-webkit-scrollbar-thumb:hover {
+    background: #BBBBBB;
+}

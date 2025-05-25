@@ -349,3 +349,14 @@ C:\Users\windows\OneDrive - VietNam National University - HCM INTERNATIONAL UNIV
 C:\Users\windows\OneDrive - VietNam National University - HCM INTERNATIONAL UNIVERSITY\Desktop\Programming\C#\Art_Gallery_Backend\ArtGallery\bin\Debug\net9.0\Auth0.AuthenticationApi.dll
 C:\Users\windows\OneDrive - VietNam National University - HCM INTERNATIONAL UNIVERSITY\Desktop\Programming\C#\Art_Gallery_Backend\ArtGallery\bin\Debug\net9.0\Auth0.Core.dll
 C:\Users\windows\OneDrive - VietNam National University - HCM INTERNATIONAL UNIVERSITY\Desktop\Programming\C#\Art_Gallery_Backend\ArtGallery\bin\Debug\net9.0\Microsoft.AspNetCore.Authentication.OpenIdConnect.dll
+C:\Users\windows\OneDrive - VietNam National University - HCM INTERNATIONAL UNIVERSITY\Desktop\Programming\C#\Art_Gallery_Backend\ArtGallery\obj\Debug\net9.0\compressed\b4b5r90az5-mm5k7ds8a0.gz
+C:\Users\windows\OneDrive - VietNam National University - HCM INTERNATIONAL UNIVERSITY\Desktop\Programming\C#\Art_Gallery_Backend\ArtGallery\obj\Debug\net9.0\compressed\x4ztgrqfdz-401k1jykyt.gz
+C:\Users\windows\OneDrive - VietNam National University - HCM INTERNATIONAL UNIVERSITY\Desktop\Programming\C#\Art_Gallery_Backend\ArtGallery\obj\Debug\net9.0\compressed\7lxe981fze-0dt8s28e9b.gz
+C:\Users\windows\OneDrive - VietNam National University - HCM INTERNATIONAL UNIVERSITY\Desktop\Programming\C#\Art_Gallery_Backend\ArtGallery\obj\Debug\net9.0\compressed\6gvpzkjqft-n2v1xeq61i.gz
+C:\Users\windows\OneDrive - VietNam National University - HCM INTERNATIONAL UNIVERSITY\Desktop\Programming\C#\Art_Gallery_Backend\ArtGallery\obj\Debug\net9.0\compressed\pqlnntzmf0-y354m41174.gz
+C:\Users\windows\OneDrive - VietNam National University - HCM INTERNATIONAL UNIVERSITY\Desktop\Programming\C#\Art_Gallery_Backend\ArtGallery\obj\Debug\net9.0\compressed\vp0libeafm-ztoq639vv3.gz
+C:\Users\windows\OneDrive - VietNam National University - HCM INTERNATIONAL UNIVERSITY\Desktop\Programming\C#\Art_Gallery_Backend\ArtGallery\obj\Debug\net9.0\compressed\8zvtjqfzbm-k0kuzhetng.gz
+C:\Users\windows\OneDrive - VietNam National University - HCM INTERNATIONAL UNIVERSITY\Desktop\Programming\C#\Art_Gallery_Backend\ArtGallery\obj\Debug\net9.0\compressed\oxqtcxv2o1-voqtbgdh21.gz
+C:\Users\windows\OneDrive - VietNam National University - HCM INTERNATIONAL UNIVERSITY\Desktop\Programming\C#\Art_Gallery_Backend\ArtGallery\obj\Debug\net9.0\compressed\zl5gszcyo7-ayv4w6a1cl.gz
+C:\Users\windows\OneDrive - VietNam National University - HCM INTERNATIONAL UNIVERSITY\Desktop\Programming\C#\Art_Gallery_Backend\ArtGallery\obj\Debug\net9.0\compressed\riay56iqwq-koyquwyjkb.gz
+C:\Users\windows\OneDrive - VietNam National University - HCM INTERNATIONAL UNIVERSITY\Desktop\Programming\C#\Art_Gallery_Backend\ArtGallery\bin\Debug\net9.0\Microsoft.AspNetCore.OpenApi.dll
