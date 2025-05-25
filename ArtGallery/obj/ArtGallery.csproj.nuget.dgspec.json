@@ -51,6 +51,14 @@
         "net9.0": {
           "targetAlias": "net9.0",
           "dependencies": {
+            "Auth0.AspNetCore.Authentication": {
+              "target": "Package",
+              "version": "[1.4.1, )"
+            },
+            "Auth0.AuthenticationApi": {
+              "target": "Package",
+              "version": "[7.36.0, )"
+            },
             "EntityFrameworkCore.Scaffolding.Handlebars": {
               "target": "Package",
               "version": "[9.0.0, )"
@@ -58,6 +66,10 @@
             "Handlebars.Net.Helpers": {
               "target": "Package",
               "version": "[2.5.0, )"
+            },
+            "Microsoft.AspNetCore.Authentication.JwtBearer": {
+              "target": "Package",
+              "version": "[9.0.5, )"
             },
             "Microsoft.EntityFrameworkCore": {
               "target": "Package",

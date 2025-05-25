@@ -2,11 +2,14 @@
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 using ArtGallery.Persistence.InterfaceDAO;
+using Microsoft.AspNetCore.Authorization;
 
 namespace ArtGallery.Controllers
 {
     [ApiController]
     [Route("api/artifacts")]
+    //[Authorize(Policy = "Admin")]
+    [Authorize(Policy = "Admin")]
     public class ArtifactController : ControllerBase
     {
         //Dependency Injection

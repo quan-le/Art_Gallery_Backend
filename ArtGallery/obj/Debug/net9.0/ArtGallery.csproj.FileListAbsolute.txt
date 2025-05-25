@@ -344,3 +344,8 @@ C:\Users\windows\OneDrive - VietNam National University - HCM INTERNATIONAL UNIV
 C:\Users\windows\OneDrive - VietNam National University - HCM INTERNATIONAL UNIVERSITY\Desktop\Programming\C#\Art_Gallery_Backend\ArtGallery\obj\Debug\net9.0\ArtGallery.csproj.Up2Date
 C:\Users\windows\OneDrive - VietNam National University - HCM INTERNATIONAL UNIVERSITY\Desktop\Programming\C#\Art_Gallery_Backend\ArtGallery\obj\Debug\net9.0\ArtGallery.sourcelink.json
 C:\Users\windows\OneDrive - VietNam National University - HCM INTERNATIONAL UNIVERSITY\Desktop\Programming\C#\Art_Gallery_Backend\ArtGallery\obj\Debug\net9.0\staticwebassets.upToDateCheck.txt
+C:\Users\windows\OneDrive - VietNam National University - HCM INTERNATIONAL UNIVERSITY\Desktop\Programming\C#\Art_Gallery_Backend\ArtGallery\bin\Debug\net9.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\windows\OneDrive - VietNam National University - HCM INTERNATIONAL UNIVERSITY\Desktop\Programming\C#\Art_Gallery_Backend\ArtGallery\bin\Debug\net9.0\Auth0.AspNetCore.Authentication.dll
+C:\Users\windows\OneDrive - VietNam National University - HCM INTERNATIONAL UNIVERSITY\Desktop\Programming\C#\Art_Gallery_Backend\ArtGallery\bin\Debug\net9.0\Auth0.AuthenticationApi.dll
+C:\Users\windows\OneDrive - VietNam National University - HCM INTERNATIONAL UNIVERSITY\Desktop\Programming\C#\Art_Gallery_Backend\ArtGallery\bin\Debug\net9.0\Auth0.Core.dll
+C:\Users\windows\OneDrive - VietNam National University - HCM INTERNATIONAL UNIVERSITY\Desktop\Programming\C#\Art_Gallery_Backend\ArtGallery\bin\Debug\net9.0\Microsoft.AspNetCore.Authentication.OpenIdConnect.dll
