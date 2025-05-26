@@ -2399,6 +2399,22 @@
           "lib/netstandard2.0/NuGet.Versioning.dll": {}
         }
       },
+      "Scalar.AspNetCore/2.4.3": {
+        "type": "package",
+        "compile": {
+          "lib/net9.0/Scalar.AspNetCore.dll": {
+            "related": ".xml"
+          }
+        },
+        "runtime": {
+          "lib/net9.0/Scalar.AspNetCore.dll": {
+            "related": ".xml"
+          }
+        },
+        "frameworkReferences": [
+          "Microsoft.AspNetCore.App"
+        ]
+      },
       "Stef.Validation/0.1.1": {
         "type": "package",
         "compile": {
@@ -7087,6 +7103,23 @@
         "nuget.versioning.nuspec"
       ]
     },
+    "Scalar.AspNetCore/2.4.3": {
+      "sha512": "aeJet4TGbrNjmEl4le92nfo3PAMFMiZBPizKSD2zwClR8nOSxHGhf5AToVU7adoMgRcPppAEt9bJQpTdNRMhbA==",
+      "type": "package",
+      "path": "scalar.aspnetcore/2.4.3",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "README.md",
+        "icon.png",
+        "lib/net8.0/Scalar.AspNetCore.dll",
+        "lib/net8.0/Scalar.AspNetCore.xml",
+        "lib/net9.0/Scalar.AspNetCore.dll",
+        "lib/net9.0/Scalar.AspNetCore.xml",
+        "scalar.aspnetcore.2.4.3.nupkg.sha512",
+        "scalar.aspnetcore.nuspec"
+      ]
+    },
     "Stef.Validation/0.1.1": {
       "sha512": "Qecz9CHwt32dAU7MYWINU6QCRZ1B0/anPxzyEJGos9osyMhjrv6C+OZIl3Wl3kLtllu9cGaptTD6nOhW1rMlZw==",
       "type": "package",
@@ -8447,6 +8480,7 @@
       "Microsoft.EntityFrameworkCore.SqlServer >= 9.0.5",
       "Microsoft.EntityFrameworkCore.Tools >= 9.0.5",
       "Microsoft.VisualStudio.Web.CodeGeneration.Design >= 9.0.0",
+      "Scalar.AspNetCore >= 2.4.3",
       "Swashbuckle.AspNetCore >= 8.1.1"
     ]
   },
@@ -8548,6 +8582,10 @@
           "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
             "target": "Package",
             "version": "[9.0.0, )"
+          },
+          "Scalar.AspNetCore": {
+            "target": "Package",
+            "version": "[2.4.3, )"
           },
           "Swashbuckle.AspNetCore": {
             "target": "Package",

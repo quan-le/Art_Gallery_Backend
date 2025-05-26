@@ -1,4 +1,5 @@
 using Microsoft.OpenApi.Models;
+using Scalar.AspNetCore;
 
 public static class SwaggerExtensions
 {
@@ -20,7 +21,7 @@ public static class SwaggerExtensions
             //var xmlFilename = $"{Assembly.GetExecutingAssembly().GetName().Name}.xml";
             //options.IncludeXmlComments(Path.Combine(AppContext.BaseDirectory, xmlFilename));
 
-            /*
+            
             //--Oauth2 Authentication 
             // Configure OAuth2 security scheme
             var oauth2Scheme = new OpenApiSecurityScheme
@@ -62,7 +63,8 @@ public static class SwaggerExtensions
                     new[] { "read", "write" }
                 }
             });
-            */
+            
+            /*
             //-------Bearer Authentication
             var securitySchema = new OpenApiSecurityScheme
             {
@@ -84,6 +86,7 @@ public static class SwaggerExtensions
                   {
                   { securitySchema, new[] { "Bearer" } }
                   });
+            */
         });
         return services;
     }

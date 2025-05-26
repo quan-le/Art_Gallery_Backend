@@ -360,3 +360,4 @@ C:\Users\windows\OneDrive - VietNam National University - HCM INTERNATIONAL UNIV
 C:\Users\windows\OneDrive - VietNam National University - HCM INTERNATIONAL UNIVERSITY\Desktop\Programming\C#\Art_Gallery_Backend\ArtGallery\obj\Debug\net9.0\compressed\8zvtjqfzbm-ez0th3efg8.gz
 C:\Users\windows\OneDrive - VietNam National University - HCM INTERNATIONAL UNIVERSITY\Desktop\Programming\C#\Art_Gallery_Backend\ArtGallery\obj\Debug\net9.0\compressed\oxqtcxv2o1-uz5576n27v.gz
 C:\Users\windows\OneDrive - VietNam National University - HCM INTERNATIONAL UNIVERSITY\Desktop\Programming\C#\Art_Gallery_Backend\ArtGallery\obj\Debug\net9.0\compressed\zl5gszcyo7-kyvus83aor.gz
+C:\Users\windows\OneDrive - VietNam National University - HCM INTERNATIONAL UNIVERSITY\Desktop\Programming\C#\Art_Gallery_Backend\ArtGallery\bin\Debug\net9.0\Scalar.AspNetCore.dll

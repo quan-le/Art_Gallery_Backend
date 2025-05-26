@@ -10,6 +10,7 @@ using Microsoft.IdentityModel.Tokens;
 using Microsoft.OpenApi.Models;
 using System.Reflection;
 using System.Security.Claims;
+using Scalar.AspNetCore;
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -40,12 +41,12 @@ builder.Services.AddAuthorization(options =>
 });
 
 //---Add Swagger Services
-builder.Services.AddOpenApi();
 builder.Services.AddSwaggerService();
 //Dependency Injection
 builder.Services.AddScoped<IArtifactDAO, ArtifactDAO>();
 builder.Services.AddScoped<IArtistDAO, ArtistDAO>();
 builder.Services.AddScoped<IUserDAO, UserDAO>();
+builder.Services.AddScoped<ITagDAO, TagDAO>();
 
 //Get connection string from appsettings.json
 var conString = builder.Configuration.GetConnectionString("ArtGalleryDb") ??
@@ -62,18 +63,52 @@ app.UseAuthentication();
 app.UseAuthorization();
 
 app.MapStaticAssets();
-
 app.MapControllers();
 
 app.UseStaticFiles();
 
 //---enable Swagger
 app.UseSwagger();
-//app.UseSwaggerUI();
+app.UseSwagger(options =>
+{
+    options.RouteTemplate = "/openapi/{documentName}.json";
+});
+
+
+app.MapScalarApiReference(options =>
+{
+    options.Title = "Art Gallery API";
+    options.DarkMode = true;
+    options.ShowSidebar = true;
+    options.Theme = ScalarTheme.BluePlanet;
+    options.DefaultHttpClient = new(ScalarTarget.CSharp, ScalarClient.HttpClient);
+    //Prefill Authentication(Actual authentication implementation is done with swagger)
+    options.Authentication = new ScalarAuthenticationOptions();
+    options.AddPreferredSecuritySchemes("OAuth2", "BearerAuth");
+    options.AddOAuth2Authentication("OAuth2", scheme =>
+    {
+        scheme.Flows = new ScalarFlows
+        {
+            AuthorizationCode = new AuthorizationCodeFlow
+            {
+                ClientId = builder.Configuration["Auth0:SwaggerClientId"],
+                ClientSecret = $"{builder.Configuration["Auth0:SwaggerClientSecret"]}",
+                AuthorizationUrl = $"https://{builder.Configuration["Auth0:Domain"]}/authorize?audience={builder.Configuration["Auth0:Audience"]}",
+                TokenUrl = $"https://{builder.Configuration["Auth0:Domain"]}/oauth/token",
+                //RedirectUri = $"https://localhost:7291/scalar"
+                
+            }
+        };
+        scheme.DefaultScopes = [ "read", "write" ];
+        scheme.Description = "OAuth2 Authentication by Auth0 for Art Gallery API";
+    });
+    options.WithPersistentAuthentication();
+});
+
 app.UseSwaggerUI(setup =>
 {
     setup.InjectStylesheet("/styles/theme-dark-high-constrast.css");
-    /*
+    
     setup.OAuthClientId(builder.Configuration["Auth0:SwaggerClientId"]);
     setup.OAuthClientSecret(builder.Configuration["Auth0:SwaggerClientSecret"]);
     setup.OAuthUsePkce();
@@ -81,7 +116,7 @@ app.UseSwaggerUI(setup =>
     {
         { "audience", $"{builder.Configuration["Auth0:Audience"]}" }
     });
-    */
+    
 });
 
 app.Run();
