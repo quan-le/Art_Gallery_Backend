@@ -11,11 +11,18 @@ using Microsoft.OpenApi.Models;
 using System.Reflection;
 using System.Security.Claims;
 using Scalar.AspNetCore;
+using ArtGallery.Models;
 
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
-builder.Services.AddControllersWithViews();
+builder.Services.AddControllersWithViews()
+    .AddJsonOptions(options =>
+    {
+        options.JsonSerializerOptions.ReferenceHandler = System.Text.Json.Serialization.ReferenceHandler.IgnoreCycles;
+        options.JsonSerializerOptions.DefaultIgnoreCondition =
+            System.Text.Json.Serialization.JsonIgnoreCondition.WhenWritingNull;
+    });
 
 // Add Authorization services
 builder.Services.AddAuthentication(options =>
@@ -42,11 +49,14 @@ builder.Services.AddAuthorization(options =>
 
 //---Add Swagger Services
 builder.Services.AddSwaggerService();
-//Dependency Injection
+//Dependency Injection of Model
 builder.Services.AddScoped<IArtifactDAO, ArtifactDAO>();
 builder.Services.AddScoped<IArtistDAO, ArtistDAO>();
-builder.Services.AddScoped<IUserDAO, UserDAO>();
+//builder.Services.AddScoped<IUserDAO, UserDAO>();
 builder.Services.AddScoped<ITagDAO, TagDAO>();
+
+//Dependency Injecction of AutoMapper
+builder.Services.AddAutoMapper(typeof(AutoMapperProfile));
 
 //Get connection string from appsettings.json
 var conString = builder.Configuration.GetConnectionString("ArtGalleryDb") ??

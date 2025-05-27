@@ -59,6 +59,10 @@
               "target": "Package",
               "version": "[7.36.0, )"
             },
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[14.0.0, )"
+            },
             "EntityFrameworkCore.Scaffolding.Handlebars": {
               "target": "Package",
               "version": "[9.0.0, )"

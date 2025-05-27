@@ -1,14 +1,17 @@
 ﻿using ArtGallery.Models;
 using ArtGallery.Persistence.InterfaceDAO;
+using AutoMapper;
 using Microsoft.EntityFrameworkCore;
 namespace ArtGallery.Persistence
 {
     public class ArtifactDAO : IArtifactDAO
     {
         private readonly GalleryDBContext _context;
-        public ArtifactDAO(GalleryDBContext context)
+        private readonly IMapper _mapper;
+        public ArtifactDAO(GalleryDBContext context, IMapper mapper)
         {
             _context = context;
+            _mapper = mapper;
         }
         public List<Artifact> GetArtifacts()
         {
@@ -24,19 +27,59 @@ namespace ArtGallery.Persistence
             return _context.Artifacts.AsNoTracking().FirstOrDefault(a => a.title == title);
         }
         */
-        public Artifact AddArtifact(Artifact newArtifact)
+        //Perform mapping from ArtifactDTO to Artifact with its FK
+        public Artifact MapArtifactDTOToArtifact(ArtifactDTO artifactDTO)
         {
+            var artifact = _mapper.Map<Artifact>(artifactDTO);
+            if(artifactDTO.artists != null)
+            {
+                foreach (Guid? artistId in artifactDTO.artists)
+                {
+                    var artist = _context.Artists.Find(artistId);
+                    if (artist != null)
+                    {
+                        if (artifact.artists == null)
+                        {
+                            artifact.artists = new List<Artist>();
+                        }
+                        artifact.artists.Add(artist);
+                    }
+                }
+                
+            }
+            if (artifactDTO.tags != null)
+            {
+                foreach(Guid? tagId in artifactDTO.tags)
+                {
+                    var tag = _context.Tags.Find(tagId);
+                    if (tag != null)
+                    {
+                        if (artifact.tags == null)
+                        {
+                            artifact.tags = new List<Tag>();
+                        }
+                        artifact.tags.Add(tag);
+                    }
+                }
+            }
+            return artifact;
+        }
+        public Artifact AddArtifact(ArtifactDTO newArtifactDTO)
+        {
+            Artifact newArtifact = MapArtifactDTOToArtifact(newArtifactDTO);
             newArtifact.created_date = DateTime.UtcNow;
             newArtifact.modified_date = DateTime.UtcNow;
             _context.Artifacts.Add(newArtifact);
             _context.SaveChanges();
             return newArtifact;
         }
-        public void UpdateArtifact(Guid id, Artifact updatedArtifact)
+        public void UpdateArtifact(Guid id, ArtifactDTO updatedArtifactDTO)
         {
+            Artifact updatedArtifact = MapArtifactDTOToArtifact(updatedArtifactDTO);
             var existing = _context.Artifacts.Find(id);
             if (existing != null)
             {
+                
                 //existing.artifact_id = updatedArtifact.artifact_id;
                 existing.title = updatedArtifact.title;
                 existing.description = updatedArtifact.description;
@@ -51,6 +94,8 @@ namespace ArtGallery.Persistence
                 existing.latitude = updatedArtifact.latitude;
                 existing.image_url = updatedArtifact.image_url;
                 existing.modified_date = DateTime.UtcNow;
+                existing.artists = updatedArtifact.artists;
+                existing.tags = updatedArtifact.tags;
                 _context.SaveChanges();
             }
         }

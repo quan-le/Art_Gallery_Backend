@@ -34,7 +34,7 @@ namespace ArtGallery.Controllers
 
         // POST add new Tag
         [HttpPost()]
-        public IActionResult AddTag([FromBody] Tag newTag)
+        public IActionResult AddTag([FromBody] TagDTO newTag)
         {
             if (newTag == null)
             {
@@ -46,7 +46,7 @@ namespace ArtGallery.Controllers
 
         //PUT update Tag
         [HttpPut("{id}")]
-        public IActionResult UpdateTag(Guid id, [FromBody] Tag updatedTag)
+        public IActionResult UpdateTag(Guid id, [FromBody] TagDTO updatedTag)
         {
             if (updatedTag == null)
             {

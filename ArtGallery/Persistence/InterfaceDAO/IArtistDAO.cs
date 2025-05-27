@@ -4,10 +4,10 @@ namespace ArtGallery.Persistence.InterfaceDAO
 {
     public interface IArtistDAO
     {
-        Artist AddArtist(Artist newArtist);
+        Artist AddArtist(ArtistDTO newArtistDTO);
         void DeleteArtist(Guid id);
         Artist GetArtistById(Guid id);
         List<Artist> GetArtists();
-        void UpdateArtist(Guid id, Artist updatedArtist);
+        void UpdateArtist(Guid id, ArtistDTO updatedArtistDTO);
     }
 }

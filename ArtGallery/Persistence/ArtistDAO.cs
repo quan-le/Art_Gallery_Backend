@@ -1,15 +1,19 @@
 ﻿using ArtGallery.Models;
 using ArtGallery.Persistence.InterfaceDAO;
+using AutoMapper;
 using Microsoft.EntityFrameworkCore;
+using Microsoft.Identity.Client;
 namespace ArtGallery.Persistence
 {
     public class ArtistDAO : IArtistDAO
 
     {
         private readonly GalleryDBContext _context;
-        public ArtistDAO(GalleryDBContext context)
+        private readonly IMapper _mapper;
+        public ArtistDAO(GalleryDBContext context, IMapper mapper)
         {
             _context = context;
+            _mapper = mapper;
         }
         public List<Artist> GetArtists()
         {
@@ -19,17 +23,39 @@ namespace ArtGallery.Persistence
         {
             return _context.Artists.AsNoTracking().FirstOrDefault(a => a.artist_id == id);
         }
-
-        public Artist AddArtist(Artist newArtist)
+        //Mapping ArtistDTO to Artist with its FK
+        public Artist MapArtistDTOToArtist(ArtistDTO artistDTO)
         {
-            newArtist.created_date = DateTime.UtcNow;
-            newArtist.modified_date = DateTime.UtcNow;
-            _context.Artists.Add(newArtist);
-            _context.SaveChanges();
-            return newArtist;
+            var artist = _mapper.Map<Artist>(artistDTO);
+            if (artistDTO.artifacts != null)
+            {
+                foreach (Guid? artifactId in artistDTO.artifacts)
+                {
+                    var artifact = _context.Artifacts.Find(artifactId);
+                    if (artifact != null)
+                    {
+                        if (artist.artifacts == null)
+                        {
+                            artist.artifacts = new List<Artifact>();
+                        }
+                        artist.artifacts.Add(artifact);
+                    }
+                }
+            }
+            return artist;
         }
-        public void UpdateArtist(Guid id, Artist updatedArtist)
+        public Artist AddArtist(ArtistDTO newArtist)
         {
+            Artist artist = MapArtistDTOToArtist(newArtist);
+            artist.created_date = DateTime.UtcNow;
+            artist.modified_date = DateTime.UtcNow;
+            _context.Artists.Add(artist);
+            _context.SaveChanges();
+            return artist;
+        }
+        public void UpdateArtist(Guid id, ArtistDTO updatedArtistDTO)
+        {
+            Artist updatedArtist = MapArtistDTOToArtist(updatedArtistDTO);
             var existing = _context.Artists.Find(id);
             if (existing != null)
             {
@@ -41,6 +67,7 @@ namespace ArtGallery.Persistence
                 existing.nationality = updatedArtist.nationality;
                 existing.modified_date = DateTime.UtcNow;
                 existing.biography = updatedArtist.biography;
+                existing.artifacts = updatedArtist.artifacts;
                 _context.SaveChanges();
             }
         }

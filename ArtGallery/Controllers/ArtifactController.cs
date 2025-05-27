@@ -37,21 +37,21 @@ namespace ArtGallery.Controllers
 
         // POST add new Artifact
         [HttpPost()]
-        public IActionResult AddArtifact([FromBody] Artifact newArtifact)
+        public IActionResult AddArtifact([FromBody] ArtifactDTO newArtifactDTO)
         {
-            if (newArtifact == null)
+            if (newArtifactDTO == null)
             {
                 return BadRequest("Artifact cannot be null");
             }
-            var createdArtifact = _artifactDAO.AddArtifact(newArtifact);
+            var createdArtifact = _artifactDAO.AddArtifact(newArtifactDTO);
             return CreatedAtAction(nameof(GetArtifact), new { id = createdArtifact.artifact_id }, createdArtifact);
         }
 
         //PUT update Artifact
         [HttpPut("{id}")]
-        public IActionResult UpdateArtifact(Guid id, [FromBody] Artifact updatedArtifact)
+        public IActionResult UpdateArtifact(Guid id, [FromBody] ArtifactDTO updatedArtifactDTO)
         {
-            if (updatedArtifact == null)
+            if (updatedArtifactDTO == null)
             {
                 return BadRequest("Artifact cannot be null");
             }
@@ -60,7 +60,7 @@ namespace ArtGallery.Controllers
             {
                 return NotFound("Artifact with this ID do not exist");
             }
-            _artifactDAO.UpdateArtifact(id, updatedArtifact);
+            _artifactDAO.UpdateArtifact(id, updatedArtifactDTO);
             return NoContent();
         }
 

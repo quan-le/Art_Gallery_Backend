@@ -18,8 +18,8 @@
     "Order": 0,
     "Parameters": [
       {
-        "Name": "newArtifact",
-        "Type": "ArtGallery.Models.Artifact",
+        "Name": "newArtifactDTO",
+        "Type": "ArtGallery.Models.ArtifactDTO",
         "IsRequired": true
       }
     ],
@@ -55,8 +55,8 @@
         "IsRequired": true
       },
       {
-        "Name": "updatedArtifact",
-        "Type": "ArtGallery.Models.Artifact",
+        "Name": "updatedArtifactDTO",
+        "Type": "ArtGallery.Models.ArtifactDTO",
         "IsRequired": true
       }
     ],
@@ -97,8 +97,8 @@
     "Order": 0,
     "Parameters": [
       {
-        "Name": "newArtist",
-        "Type": "ArtGallery.Models.Artist",
+        "Name": "newArtistDTO",
+        "Type": "ArtGallery.Models.ArtistDTO",
         "IsRequired": true
       }
     ],
@@ -134,8 +134,8 @@
         "IsRequired": true
       },
       {
-        "Name": "updatedArtist",
-        "Type": "ArtGallery.Models.Artist",
+        "Name": "updatedArtistDTO",
+        "Type": "ArtGallery.Models.ArtistDTO",
         "IsRequired": true
       }
     ],
@@ -177,7 +177,7 @@
     "Parameters": [
       {
         "Name": "newTag",
-        "Type": "ArtGallery.Models.Tag",
+        "Type": "ArtGallery.Models.TagDTO",
         "IsRequired": true
       }
     ],
@@ -214,7 +214,7 @@
       },
       {
         "Name": "updatedTag",
-        "Type": "ArtGallery.Models.Tag",
+        "Type": "ArtGallery.Models.TagDTO",
         "IsRequired": true
       }
     ],

@@ -4,10 +4,10 @@ namespace ArtGallery.Persistence.InterfaceDAO
 {
     public interface ITagDAO
     {
-        Tag AddTag(Tag newTag);
+        Tag AddTag(TagDTO newTag);
         void DeleteTag(Guid id);
         Tag GetTagById(Guid id);
         List<Tag> GetTags();
-        void UpdateTag(Guid id, Tag updatedTag);
+        void UpdateTag(Guid id, TagDTO updatedTag);
     }
 }

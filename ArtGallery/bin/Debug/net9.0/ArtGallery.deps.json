@@ -10,6 +10,7 @@
         "dependencies": {
           "Auth0.AspNetCore.Authentication": "1.4.1",
           "Auth0.AuthenticationApi": "7.36.0",
+          "AutoMapper": "14.0.0",
           "EntityFrameworkCore.Scaffolding.Handlebars": "9.0.0",
           "Handlebars.Net.Helpers": "2.5.0",
           "Microsoft.AspNetCore.Authentication.JwtBearer": "9.0.5",
@@ -59,6 +60,17 @@
           "lib/netstandard2.0/Auth0.Core.dll": {
             "assemblyVersion": "7.36.0.0",
             "fileVersion": "7.36.0.0"
+          }
+        }
+      },
+      "AutoMapper/14.0.0": {
+        "dependencies": {
+          "Microsoft.Extensions.Options": "9.0.5"
+        },
+        "runtime": {
+          "lib/net8.0/AutoMapper.dll": {
+            "assemblyVersion": "14.0.0.0",
+            "fileVersion": "14.0.0.0"
           }
         }
       },
@@ -2278,6 +2290,13 @@
       "sha512": "sha512-yiwHajWUuA/mUsYAU64GNbCDLHpjt1tjKZjI3iBZ83yJtrBCb4mL/EuCo713OIird871y6HSQQo+2ZVSRgw6HQ==",
       "path": "auth0.core/7.36.0",
       "hashPath": "auth0.core.7.36.0.nupkg.sha512"
+    },
+    "AutoMapper/14.0.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-OC+1neAPM4oCCqQj3g2GJ2shziNNhOkxmNB9cVS8jtx4JbgmRzLcUOxB9Tsz6cVPHugdkHgCaCrTjjSI0Z5sCQ==",
+      "path": "automapper/14.0.0",
+      "hashPath": "automapper.14.0.0.nupkg.sha512"
     },
     "Azure.Core/1.38.0": {
       "type": "package",

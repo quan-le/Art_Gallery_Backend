@@ -34,21 +34,21 @@ namespace ArtGallery.Controllers
 
         // POST add new Artist
         [HttpPost()]
-        public IActionResult AddArtist([FromBody] Artist newArtist)
+        public IActionResult AddArtist([FromBody] ArtistDTO newArtistDTO)
         {
-            if (newArtist == null)
+            if (newArtistDTO == null)
             {
                 return BadRequest("Artist cannot be null");
             }
-            var createdArtist = _artistDAO.AddArtist(newArtist);
+            var createdArtist = _artistDAO.AddArtist(newArtistDTO);
             return CreatedAtAction(nameof(GetArtist), new { id = createdArtist.artist_id }, createdArtist);
         }
 
         //PUT update Artist
         [HttpPut("{id}")]
-        public IActionResult UpdateArtist(Guid id, [FromBody] Artist updatedArtist)
+        public IActionResult UpdateArtist(Guid id, [FromBody] ArtistDTO updatedArtistDTO)
         {
-            if (updatedArtist == null)
+            if (updatedArtistDTO == null)
             {
                 return BadRequest("Artist cannot be null");
             }
@@ -57,7 +57,7 @@ namespace ArtGallery.Controllers
             {
                 return NotFound("Artist with this ID do not exist");
             }
-            _artistDAO.UpdateArtist(id, updatedArtist);
+            _artistDAO.UpdateArtist(id, updatedArtistDTO);
             return NoContent();
         }
 

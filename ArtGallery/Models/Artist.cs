@@ -7,7 +7,7 @@ namespace ArtGallery.Models
     {
     /// <summary> Constructor for Artist </summary>
     public Artist() {}
-    public Artist (Guid artist_id, string? first_name, string? last_name, string? gender, DateOnly? birth_date, string? nationality, DateTime? created_date, DateTime? modified_date, string? biography )
+    public Artist (Guid artist_id, string? first_name, string? last_name, string? gender, DateOnly? birth_date, string? nationality, DateTime? created_date, DateTime? modified_date, string? biography, ICollection<Artifact> artifacts = null)
     {
          this.artist_id = artist_id;
          this.first_name = first_name;
@@ -18,7 +18,8 @@ namespace ArtGallery.Models
          this.created_date = created_date;
          this.modified_date = modified_date;
          this.biography = biography;
-    }
+         this.artifacts = artifacts;
+        }
         public Guid? artist_id { get; set; }
 
         public string? first_name { get; set; }

@@ -44,6 +44,8 @@ namespace ArtGallery.Models
             this.image_url = image_url;
             this.created_date = created_date;
             this.modified_date = modified_date;
+            this.artists = FKArtistObj;
+            this.tags = FKTagObj;
         }
         public Guid? artifact_id { get; set; }
 
