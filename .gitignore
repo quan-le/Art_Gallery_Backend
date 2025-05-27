@@ -1,5 +1,5 @@
 *.vsidx
-ArtGallery/appsettings.json
+Art_Gallery/appsettings.json
 ArtGallery/.vs/ArtGallery/CopilotIndices/
 Art_Gallery/.vs/
 Art_Gallery/bin/Debug/net9.0/appsettings.Development.json
