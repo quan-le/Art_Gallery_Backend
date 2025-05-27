@@ -1,3 +1,13 @@
 *.vsidx
 ArtGallery/appsettings.json
 ArtGallery/.vs/ArtGallery/CopilotIndices/
+Art_Gallery/.vs/
+Art_Gallery/bin/Debug/net9.0/appsettings.Development.json
+Art_Gallery/bin/Debug/
+Art_Gallery/obj/
+Art_Gallery/wwwroot/lib/bootstrap/
+Art_Gallery/wwwroot/lib/
+Art_Gallery/wwwroot/js/site.js
+Art_Gallery/wwwroot/styles/theme-outline.css
+Art_Gallery/wwwroot/styles/theme-monokai.css
+Art_Gallery/wwwroot/
