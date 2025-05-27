@@ -19,7 +19,7 @@ namespace ArtGallery.Models
          this.modified_date = modified_date;
          this.biography = biography;
     }
-        public Guid artist_id { get; set; }
+        public Guid? artist_id { get; set; }
 
         public string? first_name { get; set; }
 
@@ -37,6 +37,6 @@ namespace ArtGallery.Models
 
         public string? biography { get; set; }
 
-        public virtual ICollection<Artifact> artifacts { get; set; }
+        public virtual ICollection<Artifact>? artifacts { get; set; }
     }
 }

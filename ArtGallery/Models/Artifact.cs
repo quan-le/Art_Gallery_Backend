@@ -7,6 +7,7 @@ namespace ArtGallery.Models
     {
     /// <summary> Constructor for Artifact </summary>
     public Artifact() {}
+        /*
     public Artifact (Guid artifact_id, string title, string? description, DateOnly? date_start, DateOnly? date_end, string? date_display, string? material, string? dimension, string? place_of_origin, string? location, double? longitude, double? latitude, string? image_url, DateTime? created_date, DateTime? modified_date )
     {
          this.artifact_id = artifact_id;
@@ -25,7 +26,26 @@ namespace ArtGallery.Models
          this.created_date = created_date;
          this.modified_date = modified_date;
     }
-        public Guid artifact_id { get; set; }
+        */
+        public Artifact(Guid artifact_id, string title, string? description, DateOnly? date_start, DateOnly? date_end, string? date_display, string? material, string? dimension, string? place_of_origin, string? location, double? longitude, double? latitude, string? image_url, DateTime? created_date, DateTime? modified_date, ICollection<Artist> FKArtistObj = null, ICollection<Tag> FKTagObj = null)
+        {
+            this.artifact_id = artifact_id;
+            this.title = title;
+            this.description = description;
+            this.date_start = date_start;
+            this.date_end = date_end;
+            this.date_display = date_display;
+            this.material = material;
+            this.dimension = dimension;
+            this.place_of_origin = place_of_origin;
+            this.location = location;
+            this.longitude = longitude;
+            this.latitude = latitude;
+            this.image_url = image_url;
+            this.created_date = created_date;
+            this.modified_date = modified_date;
+        }
+        public Guid? artifact_id { get; set; }
 
         public string title { get; set; } = null!;
 
@@ -55,7 +75,7 @@ namespace ArtGallery.Models
 
         public DateTime? modified_date { get; set; }
 
-        public virtual ICollection<Artist> artists { get; set; }
-        public virtual ICollection<Tag> tags { get; set; }
+        public virtual ICollection<Artist>? artists { get; set; }
+        public virtual ICollection<Tag>? tags { get; set; }
     }
 }

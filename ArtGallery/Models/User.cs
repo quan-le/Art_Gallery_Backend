@@ -1,8 +1,12 @@
-﻿using System;
+﻿using Microsoft.AspNetCore.Mvc;
+using System;
 using System.Collections.Generic;
 
 namespace ArtGallery.Models
 {
+    //This is for development purposes only, it is not exposed in the API.
+
+    [ApiExplorerSettings(IgnoreApi = true)]
     public class User
     {
     /// <summary> Constructor for User </summary>

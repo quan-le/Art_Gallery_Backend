@@ -1,5 +1,8 @@
 using Microsoft.OpenApi.Models;
 using Scalar.AspNetCore;
+using Swashbuckle.AspNetCore.SwaggerGen;
+using Microsoft.Extensions.DependencyInjection;
+using Swashbuckle.AspNetCore.SwaggerGen;
 
 public static class SwaggerExtensions
 {
@@ -90,4 +93,5 @@ public static class SwaggerExtensions
         });
         return services;
     }
+
 }

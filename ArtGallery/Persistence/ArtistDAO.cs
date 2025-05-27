@@ -33,7 +33,7 @@ namespace ArtGallery.Persistence
             var existing = _context.Artists.Find(id);
             if (existing != null)
             {
-                existing.artist_id = updatedArtist.artist_id;
+                //existing.artist_id = updatedArtist.artist_id;
                 existing.first_name = updatedArtist.first_name;
                 existing.last_name = updatedArtist.last_name;
                 existing.gender = updatedArtist.gender;

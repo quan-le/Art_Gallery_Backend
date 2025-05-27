@@ -13,12 +13,12 @@ namespace ArtGallery.Models
          this.tag_name = tag_name;
          this.tag_description = tag_description;
     }
-        public Guid tag_id { get; set; }
+        public Guid? tag_id { get; set; }
 
         public string tag_name { get; set; } = null!;
 
         public string? tag_description { get; set; }
 
-        public virtual ICollection<Artifact> artifacts { get; set; }
+        public virtual ICollection<Artifact>? artifacts { get; set; }
     }
 }

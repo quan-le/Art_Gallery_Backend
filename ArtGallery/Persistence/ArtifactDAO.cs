@@ -37,7 +37,7 @@ namespace ArtGallery.Persistence
             var existing = _context.Artifacts.Find(id);
             if (existing != null)
             {
-                existing.artifact_id = updatedArtifact.artifact_id;
+                //existing.artifact_id = updatedArtifact.artifact_id;
                 existing.title = updatedArtifact.title;
                 existing.description = updatedArtifact.description;
                 existing.date_start = updatedArtifact.date_start;

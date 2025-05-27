@@ -2,11 +2,15 @@
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 using ArtGallery.Persistence.InterfaceDAO;
+using Scalar.AspNetCore;
 
 namespace ArtGallery.Controllers
 {
     [ApiController]
     [Route("api/roles")]
+    //This is for development purposes only, it is not exposed in the API.
+    [ApiExplorerSettings(IgnoreApi = true)]
+    [ExcludeFromApiReference]
     public class RoleController : ControllerBase
     {
         //Dependency Injection

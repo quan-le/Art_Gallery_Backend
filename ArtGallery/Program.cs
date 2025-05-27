@@ -102,8 +102,8 @@ app.MapScalarApiReference(options =>
         scheme.DefaultScopes = [ "read", "write" ];
         scheme.Description = "OAuth2 Authentication by Auth0 for Art Gallery API";
     });
-    options.WithPersistentAuthentication();
-});
+    //options.WithPersistentAuthentication();
+}).AllowAnonymous();
 
 app.UseSwaggerUI(setup =>
 {
@@ -118,6 +118,5 @@ app.UseSwaggerUI(setup =>
     });
     
 });
-
 app.Run();
 

@@ -31,7 +31,7 @@ namespace ArtGallery.Persistence
             var existing = _context.Tags.Find(id);
             if (existing != null)
             {
-                existing.tag_id = updatedTag.tag_id;
+                //existing.tag_id = updatedTag.tag_id;
                 existing.tag_name = updatedTag.tag_name;
                 existing.tag_description = updatedTag.tag_description;
                 existing.artifacts = updatedTag.artifacts;
