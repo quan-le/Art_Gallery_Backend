@@ -94,3 +94,4 @@ dotnet ef dbcontext scaffold "SQL_Connection_String" Microsoft.EntityFrameworkCo
 ---
 
 ## Database Schema
+![Screenshot 2025-05-28 224620](https://github.com/user-attachments/assets/93e3c4e7-a170-4739-9487-17260cf84ca1)
