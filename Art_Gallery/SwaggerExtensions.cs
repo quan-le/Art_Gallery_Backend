@@ -3,6 +3,7 @@ using Scalar.AspNetCore;
 using Swashbuckle.AspNetCore.SwaggerGen;
 using Microsoft.Extensions.DependencyInjection;
 using Swashbuckle.AspNetCore.SwaggerGen;
+using System.Reflection;
 
 public static class SwaggerExtensions
 {
@@ -21,8 +22,8 @@ public static class SwaggerExtensions
                     Email = "s225051626@deakin.edu.au"
                 },
             });
-            //var xmlFilename = $"{Assembly.GetExecutingAssembly().GetName().Name}.xml";
-            //options.IncludeXmlComments(Path.Combine(AppContext.BaseDirectory, xmlFilename));
+            var xmlFilename = $"{Assembly.GetExecutingAssembly().GetName().Name}.xml";
+            options.IncludeXmlComments(Path.Combine(AppContext.BaseDirectory, xmlFilename));
 
             
             //--Oauth2 Authentication 

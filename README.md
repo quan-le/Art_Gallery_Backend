@@ -72,4 +72,25 @@ git clone https://github.com/yourusername/art-gallery-backend.git
 cd art-gallery-backend
 # Scaffolding EF Core and Handlebar Template:
 dotnet ef dbcontext scaffold "SQL_Connection_String" Microsoft.EntityFrameworkCore.SqlServer --output-dir Models --context-dir Data --context GalleryDBContext --use-database-names --no-onconfiguring --data-annotations -f
+```
 
+---
+
+## Configuration
+```bash
+{
+  "ConnectionStrings": {
+    "ArtGalleryDb": "SQL_)Connection_String;"
+  },
+  "Auth0": {
+    "Domain": "Your Auth0 Domain",
+    "Audience": "Your Auth0 Audience",
+    "SwaggerClientId": "YOUR_CLIENT_ID",
+    "SwaggerClientSecret": "YOUR_CLIENT_SECRET"
+  }
+}
+```
+
+---
+
+## Database Schema

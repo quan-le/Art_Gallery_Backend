@@ -42,7 +42,7 @@ builder.Services.AddAuthentication(options =>
     });
 builder.Services.AddAuthorization(options =>
 {
-    options.AddPolicy("Admin", policy => policy.RequireClaim("permissions", "write"));
+    options.AddPolicy("Admin", policy => policy.RequireClaim("permissions", "write", "read"));
     options.AddPolicy("User", policy => policy.RequireClaim("permissions", "read"));
 
 });
@@ -78,7 +78,7 @@ app.MapControllers();
 app.UseStaticFiles();
 
 //---enable Swagger
-app.UseSwagger();
+app.UseSwagger();                                       
 app.UseSwagger(options =>
 {
     options.RouteTemplate = "/openapi/{documentName}.json";
@@ -128,5 +128,6 @@ app.UseSwaggerUI(setup =>
     });
     
 });
+
 app.Run();
 
