@@ -28,9 +28,9 @@ A .NET 7 Web API backend for an Art Gallery application, providing CRUD operatio
 
 ## Technologies & Tools
 
-- **.NET 7** ASP.NET Core Web API  
+- **.NET 9** ASP.NET Core Web API  
 - **C#**  
-- **Entity Framework Core 7.0**  
+- **Entity Framework Core 9.0**  
 - **SQL Server**  
 - **Auth0** (OAuth2 + JWT Bearer)  
 - **AutoMapper**  
