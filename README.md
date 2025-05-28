@@ -11,15 +11,6 @@
 5. [Setup & Installation](#setup--installation)  
 6. [Configuration](#configuration)  
 7. [Database Schema](#database-schema)  
-8. [Data Models & DTOs](#data-models--dtos)  
-9. [Mapping & AutoMapper Profiles](#mapping--automapper-profiles)  
-10. [Authentication & Authorization](#authentication--authorization)  
-11. [API Endpoints](#api-endpoints)  
-12. [Error Handling & Validation](#error-handling--validation)  
-13. [Swagger & API Documentation](#swagger--api-documentation)  
-14. [Testing](#testing)  
-15. [Deployment](#deployment)  
-16. [License & Contact](#license--contact)  
 
 ---
 
