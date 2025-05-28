@@ -1,6 +1,6 @@
 # Art Gallery Backend Service
 
-![.NET](https://img.shields.io/badge/.NET-7-blue) ![EF Core](https://img.shields.io/badge/EF%20Core-7.0-blue) ![Auth0](https://img.shields.io/badge/Auth0-JWT-orange) ![AutoMapper](https://img.shields.io/badge/AutoMapper-12.0-lightgrey)
+![.NET](https://img.shields.io/badge/.NET-9-blue) ![EF Core](https://img.shields.io/badge/EF%20Core-9.0-blue) ![Auth0](https://img.shields.io/badge/Auth0-JWT-orange) ![AutoMapper](https://img.shields.io/badge/AutoMapper-12.0-lightgrey)
 
 ## Table of Contents
 
