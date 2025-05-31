@@ -60,7 +60,7 @@ A .NET 7 Web API backend for an Art Gallery application, providing CRUD operatio
 
 ```bash
 git clone https://github.com/yourusername/art-gallery-backend.git
-cd art-gallery-backend
+run the SQL query
 # Scaffolding EF Core and Handlebar Template:
 dotnet ef dbcontext scaffold "SQL_Connection_String" Microsoft.EntityFrameworkCore.SqlServer --output-dir Models --context-dir Data --context GalleryDBContext --use-database-names --no-onconfiguring --data-annotations -f
 ```
