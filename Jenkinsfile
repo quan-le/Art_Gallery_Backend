@@ -42,32 +42,29 @@ pipeline {
             steps {
                 echo "Running API in temporary Docker container"
 
-                sh """
-                docker rm -f ${API_CONTAINER} 2>/dev/null || true
-                """
+                // Remove any previous container
+                sh "docker rm -f artgallery-api 2>/dev/null || true"
 
-                sh """
-                PORT=$API_PORT
-                CONTAINER=$API_CONTAINER
-                IMAGE=$API_IMAGE
-
-                docker run -d -p $PORT:8080 --name $CONTAINER $IMAGE
-                """
-
+                // Run container using the baked-in appsettings.json
+                sh "docker run -d -p ${API_PORT}:8080 --name ${API_CONTAINER} ${API_IMAGE}"
+                
+                // Wait for the API to initialize
                 echo "Waiting 30 seconds for API to initialize..."
-                echo "You can now check the API manually at http://localhost:${API_PORT}"
                 sh "sleep 30"
 
-                echo "Running integration tests against API"
-                sh "curl -f http://localhost:${API_PORT}/health || exit 1"
+                echo "You can now check the API manually at http://localhost:5000"
 
+                // Run a basic health check
+                echo "Running integration tests against API"
+                sh "curl -f http://localhost:5000/health || exit 1"
+
+                // Optional: stop and remove the container after tests
                 /*
-                echo "Stop and remove temporary container"
-                sh "docker rm -f ${API_CONTAINER}"
+                echo "Stopping and removing temporary container"
+                sh "docker rm -f artgallery-api"
                 */
             }
         }
-
 
         // ======================
         stage('Code Quality') {
