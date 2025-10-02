@@ -47,7 +47,7 @@ pipeline {
 
                 // Run container using the baked-in appsettings.json
                 sh "docker run -d -p ${API_PORT}:8080 --name ${API_CONTAINER} ${API_IMAGE}"
-                
+
                 // Wait for the API to initialize
                 echo "Waiting 30 seconds for API to initialize..."
                 sh "sleep 30"
@@ -56,7 +56,7 @@ pipeline {
 
                 // Run a basic health check
                 echo "Running integration tests against API"
-                sh "curl -f http://localhost:5000/health || exit 1"
+                sh "curl -f http://localhost:5000/scalar || exit 1"
 
                 // Optional: stop and remove the container after tests
                 /*
