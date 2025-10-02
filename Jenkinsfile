@@ -21,7 +21,18 @@ pipeline {
                 script {
                     echo "Building Docker image for the API"
                     sh "docker build -t ${API_IMAGE} -f Art_Gallery/Dockerfile Art_Gallery"
+                    /*
+                    echo "Publishing dotnet artifacts"
+                    dir('Art_Gallery') {
+                        sh 'dotnet restore'
+                        sh "dotnet build --configuration ${BUILD_CONFIG}"
+                        sh "dotnet publish -c ${BUILD_CONFIG} -o publish"
+                    }
+
+                    // Archive artifacts
+                    archiveArtifacts artifacts: 'Art_Gallery/publish/**', fingerprint: true
                     
+                    */
                 }
             }
         }
@@ -30,7 +41,10 @@ pipeline {
         stage('Test') {
             steps {
                 echo "Running API in temporary Docker container"
-                    sh "docker run -d -p ${API_PORT}:8080 --name ${API_CONTAINER} ${API_IMAGE}"
+                sh """
+                docker rm -f ${API_CONTAINER} 2>/dev/null || true
+                docker run -d -p ${API_PORT}:8080 --name ${API_CONTAINER} ${API_IMAGE}
+                """
 
                     echo "Running integration tests against API"
                     // Example: health check or Postman/Newman
