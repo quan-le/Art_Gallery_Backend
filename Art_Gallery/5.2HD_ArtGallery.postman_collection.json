@@ -1,11 +1,11 @@
 {
 	"info": {
-		"_postman_id": "c76e6580-3c2f-4a4a-b12b-96cafb844f77",
-		"name": "5.2HD ArtGallery",
+		"_postman_id": "cd1d7e2b-ca8b-4ec1-98a8-fb13e8869c12",
+		"name": "5.2HD ArtGallery Copy",
 		"description": "# 🚀 Get started here\n\nThis template guides you through CRUD operations (GET, POST, PUT, DELETE), variables, and tests.\n\n## 🔖 **How to use this template**\n\n#### **Step 1: Send requests**\n\nRESTful APIs allow you to perform CRUD operations using the POST, GET, PUT, and DELETE HTTP methods.\n\nThis collection contains each of these [request](https://learning.postman.com/docs/sending-requests/requests/) types. Open each request and click \"Send\" to see what happens.\n\n#### **Step 2: View responses**\n\nObserve the response tab for status code (200 OK), response time, and size.\n\n#### **Step 3: Send new Body data**\n\nUpdate or add new data in \"Body\" in the POST request. Typically, Body data is also used in PUT request.\n\n```\n{\n    \"name\": \"Add your name in the body\"\n}\n\n ```\n\n#### **Step 4: Update the variable**\n\nVariables enable you to store and reuse values in Postman. We have created a [variable](https://learning.postman.com/docs/sending-requests/variables/) called `base_url` with the sample request [https://postman-api-learner.glitch.me](https://postman-api-learner.glitch.me). Replace it with your API endpoint to customize this collection.\n\n#### **Step 5: Add tests in the \"Scripts\" tab**\n\nAdding tests to your requests can help you confirm that your API is working as expected. You can write test scripts in JavaScript and view the output in the \"Test Results\" tab.\n\n<img src=\"https://content.pstmn.io/fa30ea0a-373d-4545-a668-e7b283cca343/aW1hZ2UucG5n\" alt=\"\" height=\"1530\" width=\"2162\">\n\n## 💪 Pro tips\n\n- Use folders to group related requests and organize the collection.\n    \n- Add more [scripts](https://learning.postman.com/docs/writing-scripts/intro-to-scripts/) to verify if the API works as expected and execute workflows.\n    \n\n## 💡Related templates\n\n[API testing basics](https://go.postman.co/redirect/workspace?type=personal&collectionTemplateId=e9a37a28-055b-49cd-8c7e-97494a21eb54&sourceTemplateId=ddb19591-3097-41cf-82af-c84273e56719)  \n[API documentation](https://go.postman.co/redirect/workspace?type=personal&collectionTemplateId=e9c28f47-1253-44af-a2f3-20dce4da1f18&sourceTemplateId=ddb19591-3097-41cf-82af-c84273e56719)  \n[Authorization methods](https://go.postman.co/redirect/workspace?type=personal&collectionTemplateId=31a9a6ed-4cdf-4ced-984c-d12c9aec1c27&sourceTemplateId=ddb19591-3097-41cf-82af-c84273e56719)",
 		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
 		"_exporter_id": "43308051",
-		"_collection_link": "https://universal-station-132913.postman.co/workspace/Team-Workspace~3e41e886-9f0a-4de8-8a66-c73d6b540005/collection/43308051-c76e6580-3c2f-4a4a-b12b-96cafb844f77?action=share&source=collection_link&creator=43308051"
+		"_collection_link": "https://universal-station-132913.postman.co/workspace/Team-Workspace~3e41e886-9f0a-4de8-8a66-c73d6b540005/collection/43308051-cd1d7e2b-ca8b-4ec1-98a8-fb13e8869c12?action=share&source=collection_link&creator=43308051"
 	},
 	"item": [
 		{
@@ -24,7 +24,8 @@
 									""
 								],
 								"type": "text/javascript",
-								"packages": {}
+								"packages": {},
+								"requests": {}
 							}
 						},
 						{
@@ -34,7 +35,8 @@
 									""
 								],
 								"type": "text/javascript",
-								"packages": {}
+								"packages": {},
+								"requests": {}
 							}
 						}
 					],
@@ -42,12 +44,12 @@
 						"method": "GET",
 						"header": [],
 						"url": {
-							"raw": "https://localhost:7291/api/artifacts",
+							"raw": "https://localhost:{{port}}/api/artifacts",
 							"protocol": "https",
 							"host": [
 								"localhost"
 							],
-							"port": "7291",
+							"port": "{{port}}",
 							"path": [
 								"api",
 								"artifacts"
@@ -69,7 +71,8 @@
 									"});"
 								],
 								"type": "text/javascript",
-								"packages": {}
+								"packages": {},
+								"requests": {}
 							}
 						},
 						{
@@ -79,7 +82,8 @@
 									""
 								],
 								"type": "text/javascript",
-								"packages": {}
+								"packages": {},
+								"requests": {}
 							}
 						}
 					],
@@ -87,12 +91,12 @@
 						"method": "GET",
 						"header": [],
 						"url": {
-							"raw": "https://localhost:7291/api/artifacts/f6809a24-84a3-42cb-b6ac-2342f574918f",
+							"raw": "https://localhost:{{port}}/api/artifacts/f6809a24-84a3-42cb-b6ac-2342f574918f",
 							"protocol": "https",
 							"host": [
 								"localhost"
 							],
-							"port": "7291",
+							"port": "{{port}}",
 							"path": [
 								"api",
 								"artifacts",
@@ -116,7 +120,8 @@
 									""
 								],
 								"type": "text/javascript",
-								"packages": {}
+								"packages": {},
+								"requests": {}
 							}
 						},
 						{
@@ -126,7 +131,8 @@
 									""
 								],
 								"type": "text/javascript",
-								"packages": {}
+								"packages": {},
+								"requests": {}
 							}
 						}
 					],
@@ -143,12 +149,12 @@
 							}
 						},
 						"url": {
-							"raw": "https://localhost:7291/api/artifacts",
+							"raw": "https://localhost:{{port}}/api/artifacts",
 							"protocol": "https",
 							"host": [
 								"localhost"
 							],
-							"port": "7291",
+							"port": "{{port}}",
 							"path": [
 								"api",
 								"artifacts"
@@ -170,7 +176,8 @@
 									"});"
 								],
 								"type": "text/javascript",
-								"packages": {}
+								"packages": {},
+								"requests": {}
 							}
 						},
 						{
@@ -180,7 +187,8 @@
 									""
 								],
 								"type": "text/javascript",
-								"packages": {}
+								"packages": {},
+								"requests": {}
 							}
 						}
 					],
@@ -197,12 +205,12 @@
 							}
 						},
 						"url": {
-							"raw": "https://localhost:7291/api/artifacts/04be8986-8321-4fe3-b3ff-d1c7d887244f",
+							"raw": "https://localhost:{{port}}/api/artifacts/04be8986-8321-4fe3-b3ff-d1c7d887244f",
 							"protocol": "https",
 							"host": [
 								"localhost"
 							],
-							"port": "7291",
+							"port": "{{port}}",
 							"path": [
 								"api",
 								"artifacts",
@@ -225,7 +233,8 @@
 									"});"
 								],
 								"type": "text/javascript",
-								"packages": {}
+								"packages": {},
+								"requests": {}
 							}
 						},
 						{
@@ -235,7 +244,8 @@
 									""
 								],
 								"type": "text/javascript",
-								"packages": {}
+								"packages": {},
+								"requests": {}
 							}
 						}
 					],
@@ -255,12 +265,12 @@
 							}
 						},
 						"url": {
-							"raw": "https://localhost:7291/api/artifacts/88328128-a171-4d90-bd65-de9b38b718f5",
+							"raw": "https://localhost:{{port}}/api/artifacts/88328128-a171-4d90-bd65-de9b38b718f5",
 							"protocol": "https",
 							"host": [
 								"localhost"
 							],
-							"port": "7291",
+							"port": "{{port}}",
 							"path": [
 								"api",
 								"artifacts",
@@ -288,7 +298,8 @@
 									"});"
 								],
 								"type": "text/javascript",
-								"packages": {}
+								"packages": {},
+								"requests": {}
 							}
 						},
 						{
@@ -298,7 +309,8 @@
 									""
 								],
 								"type": "text/javascript",
-								"packages": {}
+								"packages": {},
+								"requests": {}
 							}
 						}
 					],
@@ -306,12 +318,12 @@
 						"method": "GET",
 						"header": [],
 						"url": {
-							"raw": "https://localhost:7291/api/artists",
+							"raw": "https://localhost:{{port}}/api/artists",
 							"protocol": "https",
 							"host": [
 								"localhost"
 							],
-							"port": "7291",
+							"port": "{{port}}",
 							"path": [
 								"api",
 								"artists"
@@ -333,7 +345,8 @@
 									"});"
 								],
 								"type": "text/javascript",
-								"packages": {}
+								"packages": {},
+								"requests": {}
 							}
 						},
 						{
@@ -343,7 +356,8 @@
 									""
 								],
 								"type": "text/javascript",
-								"packages": {}
+								"packages": {},
+								"requests": {}
 							}
 						}
 					],
@@ -351,12 +365,12 @@
 						"method": "GET",
 						"header": [],
 						"url": {
-							"raw": "https://localhost:7291/api/artists/fd7e79bf-ee80-490d-be79-f5405935dd9c",
+							"raw": "https://localhost:{{port}}/api/artists/fd7e79bf-ee80-490d-be79-f5405935dd9c",
 							"protocol": "https",
 							"host": [
 								"localhost"
 							],
-							"port": "7291",
+							"port": "{{port}}",
 							"path": [
 								"api",
 								"artists",
@@ -379,7 +393,8 @@
 									"});"
 								],
 								"type": "text/javascript",
-								"packages": {}
+								"packages": {},
+								"requests": {}
 							}
 						},
 						{
@@ -389,7 +404,8 @@
 									""
 								],
 								"type": "text/javascript",
-								"packages": {}
+								"packages": {},
+								"requests": {}
 							}
 						}
 					],
@@ -406,12 +422,12 @@
 							}
 						},
 						"url": {
-							"raw": "https://localhost:7291/api/artists",
+							"raw": "https://localhost:{{port}}/api/artists",
 							"protocol": "https",
 							"host": [
 								"localhost"
 							],
-							"port": "7291",
+							"port": "{{port}}",
 							"path": [
 								"api",
 								"artists"
@@ -433,7 +449,8 @@
 									"});"
 								],
 								"type": "text/javascript",
-								"packages": {}
+								"packages": {},
+								"requests": {}
 							}
 						},
 						{
@@ -443,7 +460,8 @@
 									""
 								],
 								"type": "text/javascript",
-								"packages": {}
+								"packages": {},
+								"requests": {}
 							}
 						}
 					],
@@ -460,12 +478,12 @@
 							}
 						},
 						"url": {
-							"raw": "https://localhost:7291/api/artists/4e0ff904-6d68-40ce-a9e3-34330fe44563",
+							"raw": "https://localhost:{{port}}/api/artists/4e0ff904-6d68-40ce-a9e3-34330fe44563",
 							"protocol": "https",
 							"host": [
 								"localhost"
 							],
-							"port": "7291",
+							"port": "{{port}}",
 							"path": [
 								"api",
 								"artists",
@@ -488,7 +506,8 @@
 									"});"
 								],
 								"type": "text/javascript",
-								"packages": {}
+								"packages": {},
+								"requests": {}
 							}
 						},
 						{
@@ -498,7 +517,8 @@
 									""
 								],
 								"type": "text/javascript",
-								"packages": {}
+								"packages": {},
+								"requests": {}
 							}
 						}
 					],
@@ -515,12 +535,12 @@
 							}
 						},
 						"url": {
-							"raw": "https://localhost:7291/api/artists/7541700c-e501-474a-b18e-f42e6d5f72fe",
+							"raw": "https://localhost:{{port}}/api/artists/7541700c-e501-474a-b18e-f42e6d5f72fe",
 							"protocol": "https",
 							"host": [
 								"localhost"
 							],
-							"port": "7291",
+							"port": "{{port}}",
 							"path": [
 								"api",
 								"artists",
@@ -548,7 +568,8 @@
 									"});"
 								],
 								"type": "text/javascript",
-								"packages": {}
+								"packages": {},
+								"requests": {}
 							}
 						},
 						{
@@ -558,7 +579,8 @@
 									""
 								],
 								"type": "text/javascript",
-								"packages": {}
+								"packages": {},
+								"requests": {}
 							}
 						}
 					],
@@ -566,12 +588,12 @@
 						"method": "GET",
 						"header": [],
 						"url": {
-							"raw": "https://localhost:7291/api/tags",
+							"raw": "https://localhost:{{port}}/api/tags",
 							"protocol": "https",
 							"host": [
 								"localhost"
 							],
-							"port": "7291",
+							"port": "{{port}}",
 							"path": [
 								"api",
 								"tags"
@@ -593,7 +615,8 @@
 									"});"
 								],
 								"type": "text/javascript",
-								"packages": {}
+								"packages": {},
+								"requests": {}
 							}
 						},
 						{
@@ -603,7 +626,8 @@
 									""
 								],
 								"type": "text/javascript",
-								"packages": {}
+								"packages": {},
+								"requests": {}
 							}
 						}
 					],
@@ -611,12 +635,12 @@
 						"method": "GET",
 						"header": [],
 						"url": {
-							"raw": "https://localhost:7291/api/tags/0f6fa17a-d38a-4918-a332-35a1d60a48be",
+							"raw": "https://localhost:{{port}}/api/tags/0f6fa17a-d38a-4918-a332-35a1d60a48be",
 							"protocol": "https",
 							"host": [
 								"localhost"
 							],
-							"port": "7291",
+							"port": "{{port}}",
 							"path": [
 								"api",
 								"tags",
@@ -639,7 +663,8 @@
 									"});"
 								],
 								"type": "text/javascript",
-								"packages": {}
+								"packages": {},
+								"requests": {}
 							}
 						},
 						{
@@ -649,7 +674,8 @@
 									""
 								],
 								"type": "text/javascript",
-								"packages": {}
+								"packages": {},
+								"requests": {}
 							}
 						}
 					],
@@ -666,12 +692,12 @@
 							}
 						},
 						"url": {
-							"raw": "https://localhost:7291/api/tags",
+							"raw": "https://localhost:{{port}}/api/tags",
 							"protocol": "https",
 							"host": [
 								"localhost"
 							],
-							"port": "7291",
+							"port": "{{port}}",
 							"path": [
 								"api",
 								"tags"
@@ -693,7 +719,8 @@
 									"});"
 								],
 								"type": "text/javascript",
-								"packages": {}
+								"packages": {},
+								"requests": {}
 							}
 						},
 						{
@@ -703,7 +730,8 @@
 									""
 								],
 								"type": "text/javascript",
-								"packages": {}
+								"packages": {},
+								"requests": {}
 							}
 						}
 					],
@@ -720,12 +748,12 @@
 							}
 						},
 						"url": {
-							"raw": "https://localhost:7291/api/tags/193e04ca-8848-4b9d-920d-8404daa8c455",
+							"raw": "https://localhost:{{port}}/api/tags/193e04ca-8848-4b9d-920d-8404daa8c455",
 							"protocol": "https",
 							"host": [
 								"localhost"
 							],
-							"port": "7291",
+							"port": "{{port}}",
 							"path": [
 								"api",
 								"tags",
@@ -748,7 +776,8 @@
 									"});"
 								],
 								"type": "text/javascript",
-								"packages": {}
+								"packages": {},
+								"requests": {}
 							}
 						},
 						{
@@ -758,7 +787,8 @@
 									""
 								],
 								"type": "text/javascript",
-								"packages": {}
+								"packages": {},
+								"requests": {}
 							}
 						}
 					],
@@ -775,12 +805,12 @@
 							}
 						},
 						"url": {
-							"raw": "https://localhost:7291/api/tags/35c3f59d-ca01-48d8-a927-f28d2b48979d",
+							"raw": "https://localhost:{{port}}/api/tags/35c3f59d-ca01-48d8-a927-f28d2b48979d",
 							"protocol": "https",
 							"host": [
 								"localhost"
 							],
-							"port": "7291",
+							"port": "{{port}}",
 							"path": [
 								"api",
 								"tags",
