@@ -51,13 +51,14 @@ pipeline {
                 // Wait for the API to initialize
                 echo "Waiting 30 seconds for API to initialize..."
                 sh "sleep 30"
-
                 echo "You can now check the API manually at http://localhost:5000"
 
-                // Run a basic health check
-                echo "Running integration tests against API"
-                sh "curl -f http://localhost:5000/scalar || exit 1"
+                // Run newman test
+                echo "Running Postman collection tests..."
+                sh "newman run '5.2HD ArtGallery.postman_collection.json' -e '5.2HD ArtGallery.postman_environment.json' --reporters cli,html --reporter-html-export 'postman-report.html'"
 
+                // Optional: display the HTML report path in console
+                echo "Postman test report generated: postman-report.html"
                 // Optional: stop and remove the container after tests
                 /*
                 echo "Stopping and removing temporary container"
