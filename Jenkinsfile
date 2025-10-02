@@ -55,7 +55,6 @@ pipeline {
 
                 docker run -d -p $PORT:8080 \
                     --name $CONTAINER \
-                    -v ${WORKSPACE}/appsettings.json:/app/appsettings.json:ro \
                     $IMAGE
                 """
 
