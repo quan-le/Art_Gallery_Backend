@@ -8,6 +8,7 @@ WORKDIR /src
 
 # Copy project files
 COPY *.csproj ./
+COPY appsettings.json /app/appsettings.json
 RUN dotnet restore
 
 # Copy the rest of the source code
