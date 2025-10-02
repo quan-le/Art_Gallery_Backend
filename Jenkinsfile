@@ -41,21 +41,29 @@ pipeline {
         stage('Test') {
             steps {
                 echo "Running API in temporary Docker container"
-                sh "docker rm -f ${API_CONTAINER} 2>/dev/null || true"
-                /*docker run -d -p ${API_PORT}:8080 --name ${API_CONTAINER} ${API_IMAGE}*/
-                
-                withCredentials([file(credentialsId: 'appsettings.json', variable: 'APPSETTINGS')]) {
+
                 sh """
-                    docker run -d -p ${API_PORT}:8080 --name ${API_CONTAINER} -v ${APPSETTINGS}:/app/appsettings.json:ro ${API_IMAGE}"""
+                docker rm -f ${API_CONTAINER} 2>/dev/null || true
+                """
+
+                withCredentials([file(credentialsId: 'appsettings.json', variable: 'APPSETTINGS_FILE')]) {
+                    sh '''
+                    echo "Running container with mounted appsettings.json"
+                    docker run -d -p '"${API_PORT}"':8080 \
+                        --name '"${API_CONTAINER}"' \
+                        -v "$APPSETTINGS_FILE":/app/appsettings.json:ro \
+                        '"${API_IMAGE}"'
+                    '''
                 }
+
                 echo "Running integration tests against API"
-                // Example: health check or Postman/Newman
                 sh "curl -f http://localhost:${API_PORT}/health || exit 1"
 
                 echo "Stop and remove temporary container"
                 sh "docker rm -f ${API_CONTAINER}"
             }
         }
+
 
         // ======================
         stage('Code Quality') {
