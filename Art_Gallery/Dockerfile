@@ -6,32 +6,34 @@ EXPOSE 8080
 FROM mcr.microsoft.com/dotnet/sdk:9.0 AS build
 WORKDIR /src
 
-# Copy project files
+# Copy project files and restore
 COPY *.csproj ./
-COPY appsettings.json /app/appsettings.json
 RUN dotnet restore
 
-# Copy the rest of the source code
+# Copy everything else
 COPY . ./
 
-# Build and publish the project
-RUN dotnet publish -c Release -o /app
+# Publish app (this will include appsettings.json if marked CopyToOutputDirectory)
+RUN dotnet publish -c Release -o /out
 
 # Stage 2: Runtime
 FROM mcr.microsoft.com/dotnet/aspnet:9.0
 WORKDIR /app
 
-# Copy the published app from the build stage
+# Copy published output
 COPY --from=build /app .
 
-# Install Node.js & npm
+# Ensure appsettings.json is copied (if your csproj isn’t configured properly)
+COPY appsettings.json /app/appsettings.json
+
+
+# Install Node.js & newman
 RUN apt-get update && apt-get install -y curl \
     && curl -fsSL https://deb.nodesource.com/setup_20.x | bash - \
     && apt-get install -y nodejs \
     && npm install -g newman
 
-# Expose API port
 EXPOSE 7291
-
-# Run the API
 ENTRYPOINT ["dotnet", "ArtGallery.dll"]
+
+
