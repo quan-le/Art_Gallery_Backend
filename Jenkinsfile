@@ -7,6 +7,7 @@ pipeline {
         API_IMAGE = "art-gallery-api:latest"
         API_CONTAINER = "artgallery-api"
         API_PORT = "5000"
+        ArtGalleryDb = credentials('')
     }
 
     stages {
@@ -41,17 +42,19 @@ pipeline {
         stage('Test') {
             steps {
                 echo "Running API in temporary Docker container"
+                sh "docker rm -f ${API_CONTAINER} 2>/dev/null || true"
+                /*docker run -d -p ${API_PORT}:8080 --name ${API_CONTAINER} ${API_IMAGE}*/
+                
+                withCredentials([file(credentialsId: 'appsettings.json', variable: 'APPSETTINGS')]) {
                 sh """
-                docker rm -f ${API_CONTAINER} 2>/dev/null || true
-                docker run -d -p ${API_PORT}:8080 --name ${API_CONTAINER} -v "C:\Users\windows\OneDrive - VietNam National University - HCM INTERNATIONAL UNIVERSITY\Desktop\Programming\C#\Art_Gallery_Backend\Art_Gallery\appsettings.json:'app/appsettings.json:ro" ${API_IMAGE}
-                """
+                    docker run -d -p ${API_PORT}:8080 --name ${API_CONTAINER} -v ${APPSETTINGS}:/app/appsettings.json:ro ${API_IMAGE}"""
+                }
+                echo "Running integration tests against API"
+                // Example: health check or Postman/Newman
+                sh "curl -f http://localhost:${API_PORT}/health || exit 1"
 
-                    echo "Running integration tests against API"
-                    // Example: health check or Postman/Newman
-                    sh "curl -f http://localhost:${API_PORT}/health || exit 1"
-
-                    echo "Stop and remove temporary container"
-                    sh "docker rm -f ${API_CONTAINER}"
+                echo "Stop and remove temporary container"
+                sh "docker rm -f ${API_CONTAINER}"
             }
         }
 
