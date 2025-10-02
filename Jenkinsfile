@@ -55,10 +55,11 @@ pipeline {
 
                 // Run newman test
                 echo "Running Postman collection tests..."
-                sh "newman run '/app/5.2HD_ArtGallery.postman_collection.json' --reporters cli,html --reporter-html-export 'postman-report.html'"
+                sh "docker exec ${API_CONTAINER} npx newman run /app/5.2HD_ArtGallery.postman_collection.json --reporters cli,html --reporter-html-export /app/postman-report.html"
 
-                // Optional: display the HTML report path in console
-                echo "Postman test report generated: postman-report.html"
+                // Optional: copy the HTML report back to Jenkins workspace
+                sh "docker cp ${API_CONTAINER}:/app/postman-report.html ${WORKSPACE}/postman-report.html"
+
                 // Optional: stop and remove the container after tests
                 /*
                 echo "Stopping and removing temporary container"
