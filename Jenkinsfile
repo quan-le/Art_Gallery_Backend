@@ -55,7 +55,7 @@ pipeline {
 
                 // Run newman test
                 echo "Running Postman collection tests..."
-                sh "newman run '5.2HD ArtGallery.postman_collection.json' --reporters cli,html --reporter-html-export 'postman-report.html'"
+                sh "newman run '5.2HD_ArtGallery.postman_collection.json' --reporters cli,html --reporter-html-export 'postman-report.html'"
 
                 // Optional: display the HTML report path in console
                 echo "Postman test report generated: postman-report.html"
