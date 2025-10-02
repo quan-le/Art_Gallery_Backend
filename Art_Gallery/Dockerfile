@@ -14,7 +14,7 @@ RUN dotnet restore
 COPY . ./
 
 # Publish app (this will include appsettings.json if marked CopyToOutputDirectory)
-RUN dotnet publish -c Release -o /out
+RUN dotnet publish -c Release -o /app
 
 # Stage 2: Runtime
 FROM mcr.microsoft.com/dotnet/aspnet:9.0
