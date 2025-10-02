@@ -7,7 +7,6 @@ pipeline {
         API_IMAGE = "art-gallery-api:latest"
         API_CONTAINER = "artgallery-api"
         API_PORT = "5000"
-        ArtGalleryDb = credentials('')
     }
 
     stages {
@@ -104,8 +103,10 @@ pipeline {
             echo "Pipeline failed. Check the logs."
         }
         always {
-            echo "Cleaning up workspace..."
-            cleanWs()
+            script{
+                echo "Cleaning up workspace..."
+                cleanWs()
+            }
         }
     }
 }
