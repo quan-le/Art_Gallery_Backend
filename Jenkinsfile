@@ -58,7 +58,10 @@ pipeline {
                     $IMAGE
                     '''
                 }
-
+                echo "Waiting 30 seconds for API to initialize..."
+                sh "sleep 30"
+                echo "You can now check the API manually at http://localhost:${API_PORT}"
+                
                 echo "Running integration tests against API"
                 sh "curl -f http://localhost:${API_PORT}/health || exit 1"
 
