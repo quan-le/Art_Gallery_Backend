@@ -24,6 +24,12 @@ WORKDIR /app
 # Copy the published app from the build stage
 COPY --from=build /app .
 
+# Install Node.js & npm
+RUN apt-get update && apt-get install -y curl \
+    && curl -fsSL https://deb.nodesource.com/setup_20.x | bash - \
+    && apt-get install -y nodejs \
+    && npm install -g newman
+
 # Expose API port
 EXPOSE 7291
 

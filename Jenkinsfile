@@ -48,11 +48,6 @@ pipeline {
                 // Run container using the baked-in appsettings.json
                 sh "docker run -d -p ${API_PORT}:8080 --name ${API_CONTAINER} ${API_IMAGE}"
 
-                // Wait for the API to initialize
-                echo "Waiting 30 seconds for API to initialize..."
-                sh "sleep 30"
-                echo "You can now check the API manually at http://localhost:5000"
-
                 // Run newman test
                 echo "Running Postman collection tests..."
                 sh "docker exec ${API_CONTAINER} npx newman run /app/5.2HD_ArtGallery.postman_collection.json --reporters cli,html --reporter-html-export /app/postman-report.html"
