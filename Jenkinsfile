@@ -45,7 +45,7 @@ pipeline {
                 sh "docker rm -f ${API_CONTAINER} 2>/dev/null || true"
                 /*docker run -d -p ${API_PORT}:8080 --name ${API_CONTAINER} ${API_IMAGE}*/
                 
-                withCredentials([file(credentialsId: 'appsettings.json', variable: 'APPSETTINGS')]) {
+                withCredentials([file(credentialsId: 'appsettings', variable: 'APPSETTINGS')]) {
                 sh """
                     docker run -d -p ${API_PORT}:8080 --name ${API_CONTAINER} -v ${APPSETTINGS}:/app/appsettings.json:ro ${API_IMAGE}"""
                 }
