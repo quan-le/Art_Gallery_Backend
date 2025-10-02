@@ -20,7 +20,7 @@ pipeline {
             steps {
                 script {
                     echo "Building Docker image for the API"
-                    sh "docker build -t ${API_IMAGE} ."
+                    sh "docker build -t ${API_IMAGE} -f Art_Gallery/Dockerfile Art_Gallery
 
                     echo "Publishing dotnet artifacts (optional)"
                     sh "dotnet restore"
