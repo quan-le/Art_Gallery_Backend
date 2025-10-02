@@ -44,12 +44,12 @@
 						"method": "GET",
 						"header": [],
 						"url": {
-							"raw": "https://localhost:5000/api/artifacts",
+							"raw": "https://localhost:{{port}}/api/artifacts",
 							"protocol": "https",
 							"host": [
 								"localhost"
 							],
-							"port": "5000",
+							"port": "{{port}}",
 							"path": [
 								"api",
 								"artifacts"
@@ -91,12 +91,12 @@
 						"method": "GET",
 						"header": [],
 						"url": {
-							"raw": "https://localhost:5000/api/artifacts/f6809a24-84a3-42cb-b6ac-2342f574918f",
+							"raw": "https://localhost:{{port}}/api/artifacts/f6809a24-84a3-42cb-b6ac-2342f574918f",
 							"protocol": "https",
 							"host": [
 								"localhost"
 							],
-							"port": "5000",
+							"port": "{{port}}",
 							"path": [
 								"api",
 								"artifacts",
@@ -149,12 +149,12 @@
 							}
 						},
 						"url": {
-							"raw": "https://localhost:5000/api/artifacts",
+							"raw": "https://localhost:{{port}}/api/artifacts",
 							"protocol": "https",
 							"host": [
 								"localhost"
 							],
-							"port": "5000",
+							"port": "{{port}}",
 							"path": [
 								"api",
 								"artifacts"
@@ -205,12 +205,12 @@
 							}
 						},
 						"url": {
-							"raw": "https://localhost:5000/api/artifacts/04be8986-8321-4fe3-b3ff-d1c7d887244f",
+							"raw": "https://localhost:{{port}}/api/artifacts/04be8986-8321-4fe3-b3ff-d1c7d887244f",
 							"protocol": "https",
 							"host": [
 								"localhost"
 							],
-							"port": "5000",
+							"port": "{{port}}",
 							"path": [
 								"api",
 								"artifacts",
@@ -265,12 +265,12 @@
 							}
 						},
 						"url": {
-							"raw": "https://localhost:5000/api/artifacts/88328128-a171-4d90-bd65-de9b38b718f5",
+							"raw": "https://localhost:{{port}}/api/artifacts/88328128-a171-4d90-bd65-de9b38b718f5",
 							"protocol": "https",
 							"host": [
 								"localhost"
 							],
-							"port": "5000",
+							"port": "{{port}}",
 							"path": [
 								"api",
 								"artifacts",
@@ -318,12 +318,12 @@
 						"method": "GET",
 						"header": [],
 						"url": {
-							"raw": "https://localhost:5000/api/artists",
+							"raw": "https://localhost:{{port}}/api/artists",
 							"protocol": "https",
 							"host": [
 								"localhost"
 							],
-							"port": "5000",
+							"port": "{{port}}",
 							"path": [
 								"api",
 								"artists"
@@ -365,12 +365,12 @@
 						"method": "GET",
 						"header": [],
 						"url": {
-							"raw": "https://localhost:5000/api/artists/fd7e79bf-ee80-490d-be79-f5405935dd9c",
+							"raw": "https://localhost:{{port}}/api/artists/fd7e79bf-ee80-490d-be79-f5405935dd9c",
 							"protocol": "https",
 							"host": [
 								"localhost"
 							],
-							"port": "5000",
+							"port": "{{port}}",
 							"path": [
 								"api",
 								"artists",
@@ -422,12 +422,12 @@
 							}
 						},
 						"url": {
-							"raw": "https://localhost:5000/api/artists",
+							"raw": "https://localhost:{{port}}/api/artists",
 							"protocol": "https",
 							"host": [
 								"localhost"
 							],
-							"port": "5000",
+							"port": "{{port}}",
 							"path": [
 								"api",
 								"artists"
@@ -478,12 +478,12 @@
 							}
 						},
 						"url": {
-							"raw": "https://localhost:5000/api/artists/4e0ff904-6d68-40ce-a9e3-34330fe44563",
+							"raw": "https://localhost:{{port}}/api/artists/4e0ff904-6d68-40ce-a9e3-34330fe44563",
 							"protocol": "https",
 							"host": [
 								"localhost"
 							],
-							"port": "5000",
+							"port": "{{port}}",
 							"path": [
 								"api",
 								"artists",
@@ -535,12 +535,12 @@
 							}
 						},
 						"url": {
-							"raw": "https://localhost:5000/api/artists/7541700c-e501-474a-b18e-f42e6d5f72fe",
+							"raw": "https://localhost:{{port}}/api/artists/7541700c-e501-474a-b18e-f42e6d5f72fe",
 							"protocol": "https",
 							"host": [
 								"localhost"
 							],
-							"port": "5000",
+							"port": "{{port}}",
 							"path": [
 								"api",
 								"artists",
@@ -588,12 +588,12 @@
 						"method": "GET",
 						"header": [],
 						"url": {
-							"raw": "https://localhost:5000/api/tags",
+							"raw": "https://localhost:{{port}}/api/tags",
 							"protocol": "https",
 							"host": [
 								"localhost"
 							],
-							"port": "5000",
+							"port": "{{port}}",
 							"path": [
 								"api",
 								"tags"
@@ -635,12 +635,12 @@
 						"method": "GET",
 						"header": [],
 						"url": {
-							"raw": "https://localhost:5000/api/tags/0f6fa17a-d38a-4918-a332-35a1d60a48be",
+							"raw": "https://localhost:{{port}}/api/tags/0f6fa17a-d38a-4918-a332-35a1d60a48be",
 							"protocol": "https",
 							"host": [
 								"localhost"
 							],
-							"port": "5000",
+							"port": "{{port}}",
 							"path": [
 								"api",
 								"tags",
@@ -692,12 +692,12 @@
 							}
 						},
 						"url": {
-							"raw": "https://localhost:5000/api/tags",
+							"raw": "https://localhost:{{port}}/api/tags",
 							"protocol": "https",
 							"host": [
 								"localhost"
 							],
-							"port": "5000",
+							"port": "{{port}}",
 							"path": [
 								"api",
 								"tags"
@@ -748,12 +748,12 @@
 							}
 						},
 						"url": {
-							"raw": "https://localhost:5000/api/tags/193e04ca-8848-4b9d-920d-8404daa8c455",
+							"raw": "https://localhost:{{port}}/api/tags/193e04ca-8848-4b9d-920d-8404daa8c455",
 							"protocol": "https",
 							"host": [
 								"localhost"
 							],
-							"port": "5000",
+							"port": "{{port}}",
 							"path": [
 								"api",
 								"tags",
@@ -805,12 +805,12 @@
 							}
 						},
 						"url": {
-							"raw": "https://localhost:5000/api/tags/35c3f59d-ca01-48d8-a927-f28d2b48979d",
+							"raw": "https://localhost:{{port}}/api/tags/35c3f59d-ca01-48d8-a927-f28d2b48979d",
 							"protocol": "https",
 							"host": [
 								"localhost"
 							],
-							"port": "5000",
+							"port": "{{port}}",
 							"path": [
 								"api",
 								"tags",
