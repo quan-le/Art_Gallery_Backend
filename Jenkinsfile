@@ -43,7 +43,7 @@ pipeline {
                 echo "Running API in temporary Docker container"
                 sh """
                 docker rm -f ${API_CONTAINER} 2>/dev/null || true
-                docker run -d -p ${API_PORT}:8080 --name ${API_CONTAINER} ${API_IMAGE}
+                docker run -d -p ${API_PORT}:8080 --name ${API_CONTAINER} -v "C:\Users\windows\OneDrive - VietNam National University - HCM INTERNATIONAL UNIVERSITY\Desktop\Programming\C#\Art_Gallery_Backend\Art_Gallery\appsettings.json:'app/appsettings.json:ro" ${API_IMAGE}
                 """
 
                     echo "Running integration tests against API"
