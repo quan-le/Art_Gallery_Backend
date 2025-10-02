@@ -21,14 +21,7 @@ pipeline {
                 script {
                     echo "Building Docker image for the API"
                     sh "docker build -t ${API_IMAGE} -f Art_Gallery/Dockerfile Art_Gallery"
-
-                    echo "Publishing dotnet artifacts (optional)"
-                    sh "dotnet restore"
-                    sh "dotnet build --configuration ${BUILD_CONFIG}"
-                    sh "dotnet publish -c ${BUILD_CONFIG} -o publish"
                     
-                    // Archive artifacts in Jenkins
-                    archiveArtifacts artifacts: 'publish/**', fingerprint: true
                 }
             }
         }
