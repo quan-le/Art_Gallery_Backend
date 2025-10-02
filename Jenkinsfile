@@ -8,13 +8,13 @@ pipeline {
         API_CONTAINER = "artgallery-api"
         API_PORT = "5000"
     }
-    stage('Checkout') {
-        steps {
-            checkout scm  
-        }
-    }
 
     stages {
+        stage('Checkout') {
+            steps {
+                checkout scm  
+            }
+        }
         // =====================
         stage('Build') {
             steps {
