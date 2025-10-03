@@ -44,12 +44,12 @@
 						"method": "GET",
 						"header": [],
 						"url": {
-							"raw": "https://localhost:{{port}}/api/artifacts",
-							"protocol": "https",
+							"raw": "http://localhost:80/api/artifacts",
+							"protocol": "http",
 							"host": [
 								"localhost"
 							],
-							"port": "{{port}}",
+							"port": "80",
 							"path": [
 								"api",
 								"artifacts"
@@ -91,12 +91,12 @@
 						"method": "GET",
 						"header": [],
 						"url": {
-							"raw": "https://localhost:{{port}}/api/artifacts/f6809a24-84a3-42cb-b6ac-2342f574918f",
-							"protocol": "https",
+							"raw": "http://localhost:80/api/artifacts/f6809a24-84a3-42cb-b6ac-2342f574918f",
+							"protocol": "http",
 							"host": [
 								"localhost"
 							],
-							"port": "{{port}}",
+							"port": "80",
 							"path": [
 								"api",
 								"artifacts",
@@ -149,12 +149,12 @@
 							}
 						},
 						"url": {
-							"raw": "https://localhost:{{port}}/api/artifacts",
-							"protocol": "https",
+							"raw": "http://localhost:80/api/artifacts",
+							"protocol": "http",
 							"host": [
 								"localhost"
 							],
-							"port": "{{port}}",
+							"port": "80",
 							"path": [
 								"api",
 								"artifacts"
@@ -205,12 +205,12 @@
 							}
 						},
 						"url": {
-							"raw": "https://localhost:{{port}}/api/artifacts/04be8986-8321-4fe3-b3ff-d1c7d887244f",
-							"protocol": "https",
+							"raw": "http://localhost:80/api/artifacts/04be8986-8321-4fe3-b3ff-d1c7d887244f",
+							"protocol": "http",
 							"host": [
 								"localhost"
 							],
-							"port": "{{port}}",
+							"port": "80",
 							"path": [
 								"api",
 								"artifacts",
@@ -265,12 +265,12 @@
 							}
 						},
 						"url": {
-							"raw": "https://localhost:{{port}}/api/artifacts/88328128-a171-4d90-bd65-de9b38b718f5",
-							"protocol": "https",
+							"raw": "http://localhost:80/api/artifacts/88328128-a171-4d90-bd65-de9b38b718f5",
+							"protocol": "http",
 							"host": [
 								"localhost"
 							],
-							"port": "{{port}}",
+							"port": "80",
 							"path": [
 								"api",
 								"artifacts",
@@ -318,12 +318,12 @@
 						"method": "GET",
 						"header": [],
 						"url": {
-							"raw": "https://localhost:{{port}}/api/artists",
-							"protocol": "https",
+							"raw": "http://localhost:80/api/artists",
+							"protocol": "http",
 							"host": [
 								"localhost"
 							],
-							"port": "{{port}}",
+							"port": "80",
 							"path": [
 								"api",
 								"artists"
@@ -365,12 +365,12 @@
 						"method": "GET",
 						"header": [],
 						"url": {
-							"raw": "https://localhost:{{port}}/api/artists/fd7e79bf-ee80-490d-be79-f5405935dd9c",
-							"protocol": "https",
+							"raw": "http://localhost:80/api/artists/fd7e79bf-ee80-490d-be79-f5405935dd9c",
+							"protocol": "http",
 							"host": [
 								"localhost"
 							],
-							"port": "{{port}}",
+							"port": "80",
 							"path": [
 								"api",
 								"artists",
@@ -422,12 +422,12 @@
 							}
 						},
 						"url": {
-							"raw": "https://localhost:{{port}}/api/artists",
-							"protocol": "https",
+							"raw": "http://localhost:80/api/artists",
+							"protocol": "http",
 							"host": [
 								"localhost"
 							],
-							"port": "{{port}}",
+							"port": "80",
 							"path": [
 								"api",
 								"artists"
@@ -478,12 +478,12 @@
 							}
 						},
 						"url": {
-							"raw": "https://localhost:{{port}}/api/artists/4e0ff904-6d68-40ce-a9e3-34330fe44563",
-							"protocol": "https",
+							"raw": "http://localhost:80/api/artists/4e0ff904-6d68-40ce-a9e3-34330fe44563",
+							"protocol": "http",
 							"host": [
 								"localhost"
 							],
-							"port": "{{port}}",
+							"port": "80",
 							"path": [
 								"api",
 								"artists",
@@ -535,12 +535,12 @@
 							}
 						},
 						"url": {
-							"raw": "https://localhost:{{port}}/api/artists/7541700c-e501-474a-b18e-f42e6d5f72fe",
-							"protocol": "https",
+							"raw": "http://localhost:80/api/artists/7541700c-e501-474a-b18e-f42e6d5f72fe",
+							"protocol": "http",
 							"host": [
 								"localhost"
 							],
-							"port": "{{port}}",
+							"port": "80",
 							"path": [
 								"api",
 								"artists",
@@ -588,12 +588,12 @@
 						"method": "GET",
 						"header": [],
 						"url": {
-							"raw": "https://localhost:{{port}}/api/tags",
-							"protocol": "https",
+							"raw": "http://localhost:80/api/tags",
+							"protocol": "http",
 							"host": [
 								"localhost"
 							],
-							"port": "{{port}}",
+							"port": "80",
 							"path": [
 								"api",
 								"tags"
@@ -635,12 +635,12 @@
 						"method": "GET",
 						"header": [],
 						"url": {
-							"raw": "https://localhost:{{port}}/api/tags/0f6fa17a-d38a-4918-a332-35a1d60a48be",
-							"protocol": "https",
+							"raw": "http://localhost:80/api/tags/0f6fa17a-d38a-4918-a332-35a1d60a48be",
+							"protocol": "http",
 							"host": [
 								"localhost"
 							],
-							"port": "{{port}}",
+							"port": "80",
 							"path": [
 								"api",
 								"tags",
@@ -658,8 +658,8 @@
 							"listen": "test",
 							"script": {
 								"exec": [
-									"pm.test(\"Status code is 200\", function () {",
-									"    pm.response.to.have.status(200);",
+									"pm.test(\"Status code is 201\", function () {",
+									"    pm.response.to.have.status(201);",
 									"});"
 								],
 								"type": "text/javascript",
@@ -692,12 +692,12 @@
 							}
 						},
 						"url": {
-							"raw": "https://localhost:{{port}}/api/tags",
-							"protocol": "https",
+							"raw": "http://localhost:80/api/tags",
+							"protocol": "http",
 							"host": [
 								"localhost"
 							],
-							"port": "{{port}}",
+							"port": "80",
 							"path": [
 								"api",
 								"tags"
@@ -748,12 +748,12 @@
 							}
 						},
 						"url": {
-							"raw": "https://localhost:{{port}}/api/tags/193e04ca-8848-4b9d-920d-8404daa8c455",
-							"protocol": "https",
+							"raw": "http://localhost:80/api/tags/193e04ca-8848-4b9d-920d-8404daa8c455",
+							"protocol": "http",
 							"host": [
 								"localhost"
 							],
-							"port": "{{port}}",
+							"port": "80",
 							"path": [
 								"api",
 								"tags",
@@ -805,12 +805,12 @@
 							}
 						},
 						"url": {
-							"raw": "https://localhost:{{port}}/api/tags/35c3f59d-ca01-48d8-a927-f28d2b48979d",
-							"protocol": "https",
+							"raw": "http://localhost:80/api/tags/35c3f59d-ca01-48d8-a927-f28d2b48979d",
+							"protocol": "http",
 							"host": [
 								"localhost"
 							],
-							"port": "{{port}}",
+							"port": "80",
 							"path": [
 								"api",
 								"tags",
@@ -827,6 +827,16 @@
 	"auth": {
 		"type": "oauth2",
 		"oauth2": [
+			{
+				"key": "tokenType",
+				"value": "Bearer",
+				"type": "string"
+			},
+			{
+				"key": "accessToken",
+				"value": "eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6IlNkakpYSzR5M0pZcWFkNEcyUll0aiJ9.eyJpc3MiOiJodHRwczovL2Rldi0yaDAzb2VmdHNlcTZtcXJyLnVzLmF1dGgwLmNvbS8iLCJzdWIiOiJhdXRoMHw2ODMxODJmYWJlMmM5MzMzNjYxNTJmNmYiLCJhdWQiOiJodHRwczovL2xvY2FsaG9zdCIsImlhdCI6MTc1OTQ0MzY2OSwiZXhwIjoxNzU5NTMwMDY5LCJhenAiOiI3dG1mOWhKeFdXejlaUFN6cm9qNVhGQzdkZDdKWXgxMSIsInBlcm1pc3Npb25zIjpbInJlYWQiLCJyZWFkOmFydGlmYWN0cyIsInJlYWQ6YXJ0aXN0cyIsInJlYWQ6cm9sZXMiLCJyZWFkOnRhZ3MiLCJyZWFkOnVzZXJzIiwid3JpdGUiLCJ3cml0ZTphcnRpZmFjdHMiLCJ3cml0ZTphcnRpc3RzIiwid3JpdGU6cm9sZXMiLCJ3cml0ZTp0YWdzIiwid3JpdGU6dXNlcnMiXX0.gNkLIbW-ZCFWvSev7PPAOQ34siMzUdno0p4n4KTFyO1D8qxYbjH9S0_XRQ2E--xY3uefzgbIs_6lUa5WRT6WYSfFe3mXVnE8d0M27OfGG76ckptBazf9ElG5sIX01-PECKfGTj9rDaaOWvHC7yDepDlJ7itoNPgmfZiH5YpqQE28YKkDg6M-z-y6KAhltv9onA6xQg5Od68r-dSrNNn7t_0Wb_1xt7f5J-cpmdqUonwbh6P3Yn9oF4_T9tTl2dihVqPD-Xu_xbKXp9lkFF4VWhfGvQYv0XxdsBrSnB5y1ictTMavComPjXkFkGc_vbxYajYetJMK53g3MNIIg4_heA",
+				"type": "string"
+			},
 			{
 				"key": "scope",
 				"value": "",
@@ -902,16 +912,6 @@
 				"type": "boolean"
 			},
 			{
-				"key": "tokenType",
-				"value": "Bearer",
-				"type": "string"
-			},
-			{
-				"key": "accessToken",
-				"value": "eyJhbGciOiJkaXIiLCJlbmMiOiJBMjU2R0NNIiwiaXNzIjoiaHR0cHM6Ly9kZXYtMmgwM29lZnRzZXE2bXFyci51cy5hdXRoMC5jb20vIn0..SR88XiqjG5-YHwlB.rXDcJg2jPoJRXOibbkHVIHa8JyEQmW0vE-E8rF7yn-zEol9p1VwGWDko64-VMZymMytbVdixg8JKAxp7cfjmtHngJXjQpj2HGDeS7gwL6qPhSmYjaB8Iynf4S9fa8l8tmCz0UwVAhzgS544Nf4ciGNjHYJjM4eVSLXIyMfEUgIGaCv5gRBhqa6A8_CwBWCCOqLpBDwcxu9gQgrArnAOfnJE61cPo0DsVquom8in2IUD7PmJlwXAMLQH3sfooBGZvesX5TOOQX7eXsuLpPjDQe2P8KjToqOlaqyzySQJ1UdXq.XRh7gwfEvEDj2xd_fLqL9w",
-				"type": "string"
-			},
-			{
 				"key": "password",
 				"value": "281120031837Q12n",
 				"type": "string"
@@ -943,6 +943,7 @@
 			"listen": "prerequest",
 			"script": {
 				"type": "text/javascript",
+				"requests": {},
 				"exec": [
 					""
 				]
@@ -952,6 +953,7 @@
 			"listen": "test",
 			"script": {
 				"type": "text/javascript",
+				"requests": {},
 				"exec": [
 					""
 				]
