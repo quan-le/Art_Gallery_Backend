@@ -33,7 +33,8 @@ RUN apt-get update && apt-get install -y curl \
     && apt-get install -y nodejs \
     && npm install -g newman
 
-EXPOSE 7291
+#EXPOSE 7291
+EXPOSE 8080
 ENTRYPOINT ["dotnet", "ArtGallery.dll"]
 
 

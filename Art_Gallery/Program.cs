@@ -66,8 +66,7 @@ builder.Services.AddDbContext<GalleryDBContext>(options => options.UseSqlServer(
 
 var app = builder.Build();
 
-app.UseHttpsRedirection();
-//app.UseHttp();
+//app.UseHttpsRedirection();
 app.UseRouting();
 
 app.UseAuthentication();

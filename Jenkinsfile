@@ -6,7 +6,8 @@ pipeline {
         BUILD_CONFIG = "Release"
         API_IMAGE = "art-gallery-api:latest"
         API_CONTAINER = "artgallery-api"
-        API_PORT = "5000"
+        //API_PORT = "5000"
+        API_PORT = "80"
     }
 
     stages {
