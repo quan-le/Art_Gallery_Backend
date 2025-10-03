@@ -47,7 +47,7 @@ pipeline {
                 sh "docker rm -f artgallery-api 2>/dev/null || true"
 
                 // Run container using the baked-in appsettings.json
-                sh "docker run -d -p ${API_PORT}:8080 --name ${API_CONTAINER} ${API_IMAGE}"
+                sh "docker run -d -p ${API_PORT}:8080 --name ${API_CONTAINER} --add-host "host.docker.internal:host-gateway" ${API_IMAGE}"
 
                 // Run newman test
                 echo "Running Postman collection tests..."
