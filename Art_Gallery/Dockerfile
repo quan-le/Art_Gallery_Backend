@@ -9,13 +9,14 @@ WORKDIR /src
 # Copy project files and restore
 COPY *.csproj ./
 COPY *.sln ./
-RUN dotnet restore
+RUN dotnet restore ./ArtGallery.csproj
 
 # Copy everything else
 COPY . ./
 
 # Publish app
-RUN dotnet publish -c Release -o /app
+#RUN dotnet publish -c Release -o /app
+RUN dotnet publish ArtGallery.csproj -c Release -o /app --no-restore
 
 # Stage 2: Runtime
 FROM mcr.microsoft.com/dotnet/aspnet:9.0
