@@ -96,7 +96,11 @@ pipeline {
         stage('Security') {
             steps {
                 echo "Security stage"
-                
+                dependencyCheck additionalArguments: '''
+                    --scan Art_Gallery
+                    --format "ALL"
+                    --out dependency-check-report
+                ''', odcInstallation: 'DependencyCheck'
             }
         }
 
