@@ -8,12 +8,13 @@ WORKDIR /src
 
 # Copy project files and restore
 COPY *.csproj ./
+COPY *.sln ./
 RUN dotnet restore
 
 # Copy everything else
 COPY . ./
 
-# Publish app (this will include appsettings.json if marked CopyToOutputDirectory)
+# Publish app
 RUN dotnet publish -c Release -o /app
 
 # Stage 2: Runtime
@@ -23,7 +24,7 @@ WORKDIR /app
 # Copy published output
 COPY --from=build /app .
 
-# Ensure appsettings.json is copied (if your csproj isn’t configured properly)
+# Copy appsettings.json
 COPY appsettings.json /app/appsettings.json
 
 
