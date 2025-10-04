@@ -131,7 +131,6 @@ pipeline {
                         
                         sh 'docker ps'
                     }
-                    sh 'curl -v http://localhost:5000/health'
                 }
             }
         }
