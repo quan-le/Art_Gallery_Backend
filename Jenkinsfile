@@ -99,7 +99,7 @@ pipeline {
                 sh 'mkdir -p dependency-check-report'
 
                 dependencyCheck additionalArguments: '''
-                    --scan app
+                    --scan Art_Gallery
                     --format "ALL"
                     --out dependency-check-report
                 ''', odcInstallation: 'DependencyCheck'
