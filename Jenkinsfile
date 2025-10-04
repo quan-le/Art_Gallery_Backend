@@ -51,7 +51,7 @@ pipeline {
 
                 // Run newman test
                 echo "Running Postman collection tests..."
-                sh "docker exec ${API_CONTAINER} npx newman run /app/5.2HD_ArtGallery.postman_collection.json --reporters cli"
+                sh "docker exec ${API_CONTAINER} npx newman run /app/5.2HD_ArtGallery.postman_collection.json --reporters cli -k --verbose"
 
                 // Optional: stop and remove the container after tests
                 /*
