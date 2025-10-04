@@ -11,6 +11,7 @@ pipeline {
         SONAR_TOKEN = credentials('Sonar_token')
         SONAR_ORG = "quan-le"
         SONAR_PROJECT_kEY = "quan-le_Art_Gallery_Backend"
+        NVD_API_KEY = credentials('NVD_API_KEY')
     }
 
     stages {
@@ -102,6 +103,7 @@ pipeline {
                     --scan Art_Gallery
                     --format "ALL"
                     --out dependency-check-report
+                    --nvdApiKey ${env.NVD_API_KEY}
                 ''', odcInstallation: 'DependencyCheck'
             }
             post {
