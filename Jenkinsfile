@@ -102,6 +102,15 @@ pipeline {
                     --out dependency-check-report
                 ''', odcInstallation: 'DependencyCheck'
             }
+            post {
+                always {
+                    echo "Publishing Dependency-Check Reports:"
+                    dependencyCheckPublisher pattern: '**/dependency-check-report/*.xml'
+                }
+                failure {
+                    echo "Security vulnerabilities detected. Review report in Jenkins or HTML output."
+                }
+            }
         }
 
         // ======================
