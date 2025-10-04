@@ -121,6 +121,17 @@ pipeline {
         stage('Deploy') {
             steps {
                 echo "Deploy stage"
+                script {
+                    echo "Deploying API to staging environment using Docker Compose"
+                    dir('Art_Gallery') {
+                        sh 'docker-compose -f docker-compose.staging.yml down || true'
+
+                        sh 'docker-compose -f docker-compose.staging.yml up -d'
+                        
+                        sh 'docker ps'
+                    }
+                    sh 'curl -v http://localhost:5000/health'
+                }
             }
         }
 
