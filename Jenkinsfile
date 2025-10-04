@@ -8,6 +8,9 @@ pipeline {
         API_CONTAINER = "artgallery-api"
         //API_PORT = "5000"
         API_PORT = "80"
+        SONAR_TOKEN = credentials('Sonar_token')
+        SONAR_ORG = "quan-le"
+        SONAR_PROJECT_kEY = "quan-le_Art_Gallery_Backend"
     }
 
     stages {
@@ -63,10 +66,29 @@ pipeline {
         }
 
         // ======================
-        stage('Code Quality') {
+        stage('Code Quality Analysis') {
             steps {
-                echo "Code Quality stage"
-                
+                script{
+                    echo "Code Quality stage"
+                    withSonarQubeEnv('SonarCloud') {
+                        dir('Art_Gallery') {
+                            // Start analysis
+                            sh """
+                                dotnet tool install --global dotnet-sonarscanner || true
+                                export PATH="$PATH:/root/.dotnet/tools"
+                                dotnet sonarscanner begin \
+                                    /k:"${SONAR_PROJECT_KEY}" \
+                                    /o:"${SONAR_ORG}" \
+                                    /d:sonar.login="${SONAR_TOKEN}" \
+                                    /d:sonar.host.url="https://sonarcloud.io"
+                                
+                                dotnet build --configuration ${BUILD_CONFIG}
+                                
+                                dotnet sonarscanner end /d:sonar.login="${SONAR_TOKEN}"
+                            """
+                        }
+                    }
+                }     
             }
         }
 
