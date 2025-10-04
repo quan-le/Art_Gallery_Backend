@@ -124,7 +124,8 @@ pipeline {
                 script {
                     echo "Deploying API to staging environment using Docker Compose"
                     dir('Art_Gallery') {
-                        sh 'docker-compose -f docker-compose.staging.yml down || true'
+                        sh 'docker rm -f artgallery-api-deploy 2>/dev/null || true'
+                        sh 'docker-compose -f docker-compose.staging.yml down -v || true'
 
                         sh 'docker-compose -f docker-compose.staging.yml up -d'
                         

@@ -3,7 +3,7 @@ version: '3.9'
 services:
   art-gallery-api:
     image: art-gallery-api:latest
-    container_name: artgallery-api
+    container_name: artgallery-api-deploy
     ports:
       - "5000:8080" 
     environment:
