@@ -428,12 +428,12 @@
 		"oauth2": [
 			{
 				"key": "tokenType",
-				"value": "Bearer",
+				"value": "",
 				"type": "string"
 			},
 			{
 				"key": "accessToken",
-				"value": "eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6IlNkakpYSzR5M0pZcWFkNEcyUll0aiJ9.eyJpc3MiOiJodHRwczovL2Rldi0yaDAzb2VmdHNlcTZtcXJyLnVzLmF1dGgwLmNvbS8iLCJzdWIiOiJhdXRoMHw2ODMxODJmYWJlMmM5MzMzNjYxNTJmNmYiLCJhdWQiOiJodHRwczovL2xvY2FsaG9zdCIsImlhdCI6MTc1OTUzMjQyOCwiZXhwIjoxNzU5NjE4ODI4LCJhenAiOiI3dG1mOWhKeFdXejlaUFN6cm9qNVhGQzdkZDdKWXgxMSIsInBlcm1pc3Npb25zIjpbInJlYWQiLCJyZWFkOmFydGlmYWN0cyIsInJlYWQ6YXJ0aXN0cyIsInJlYWQ6cm9sZXMiLCJyZWFkOnRhZ3MiLCJyZWFkOnVzZXJzIiwid3JpdGUiLCJ3cml0ZTphcnRpZmFjdHMiLCJ3cml0ZTphcnRpc3RzIiwid3JpdGU6cm9sZXMiLCJ3cml0ZTp0YWdzIiwid3JpdGU6dXNlcnMiXX0.gz7haWHCkZtB0RM3-QGOAod3jP74ZosL9-OTa4pRoBXyXt3bAyDJhM9NcvC4Dl9cDCTh6FildxyQY6aUYLrk7km-lg7BIo7VT1Zx83Eyj-qDfw-rpE1DXcF3vL-RoAZLnws9k8xE4oWgGXqcu9vWUmRIXDfksaQN3pY7Obpvxg8qLay8k3BHwrMw9XrVJs92YhdtxbGcw9ebCWdSEHIarKT4ARSPGd-8u0irHZszeoFU7MS91vjTUejP20QBCYKY1tcrWlqfkMcNEMiriUJ8gZk5MQtD1g2Y0yhAAOP985LipNc6_HwgAMhnPrQZ4Owl800wKBegm4kWVLUf5s2ceg",
+				"value": "",
 				"type": "string"
 			},
 			{
