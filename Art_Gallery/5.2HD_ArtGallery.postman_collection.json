@@ -3,7 +3,7 @@
 		"_postman_id": "142310e1-75fd-4e2b-993e-78999f731045",
 		"name": "5.2HD ArtGallery Copy 4",
 		"description": "# 🚀 Get started here\n\nThis template guides you through CRUD operations (GET, POST, PUT, DELETE), variables, and tests.\n\n## 🔖 **How to use this template**\n\n#### **Step 1: Send requests**\n\nRESTful APIs allow you to perform CRUD operations using the POST, GET, PUT, and DELETE HTTP methods.\n\nThis collection contains each of these [request](https://learning.postman.com/docs/sending-requests/requests/) types. Open each request and click \"Send\" to see what happens.\n\n#### **Step 2: View responses**\n\nObserve the response tab for status code (200 OK), response time, and size.\n\n#### **Step 3: Send new Body data**\n\nUpdate or add new data in \"Body\" in the POST request. Typically, Body data is also used in PUT request.\n\n```\n{\n    \"name\": \"Add your name in the body\"\n}\n\n ```\n\n#### **Step 4: Update the variable**\n\nVariables enable you to store and reuse values in Postman. We have created a [variable](https://learning.postman.com/docs/sending-requests/variables/) called `base_url` with the sample request [https://postman-api-learner.glitch.me](https://postman-api-learner.glitch.me). Replace it with your API endpoint to customize this collection.\n\n#### **Step 5: Add tests in the \"Scripts\" tab**\n\nAdding tests to your requests can help you confirm that your API is working as expected. You can write test scripts in JavaScript and view the output in the \"Test Results\" tab.\n\n<img src=\"https://content.pstmn.io/fa30ea0a-373d-4545-a668-e7b283cca343/aW1hZ2UucG5n\" alt=\"\" height=\"1530\" width=\"2162\">\n\n## 💪 Pro tips\n\n- Use folders to group related requests and organize the collection.\n    \n- Add more [scripts](https://learning.postman.com/docs/writing-scripts/intro-to-scripts/) to verify if the API works as expected and execute workflows.\n    \n\n## 💡Related templates\n\n[API testing basics](https://go.postman.co/redirect/workspace?type=personal&collectionTemplateId=e9a37a28-055b-49cd-8c7e-97494a21eb54&sourceTemplateId=ddb19591-3097-41cf-82af-c84273e56719)  \n[API documentation](https://go.postman.co/redirect/workspace?type=personal&collectionTemplateId=e9c28f47-1253-44af-a2f3-20dce4da1f18&sourceTemplateId=ddb19591-3097-41cf-82af-c84273e56719)  \n[Authorization methods](https://go.postman.co/redirect/workspace?type=personal&collectionTemplateId=31a9a6ed-4cdf-4ced-984c-d12c9aec1c27&sourceTemplateId=ddb19591-3097-41cf-82af-c84273e56719)",
-		"schema": "https://schema.getpostman.com/json/collection/v2.0.0/collection.json",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
 		"_exporter_id": "43308051",
 		"_collection_link": "https://universal-station-132913.postman.co/workspace/Team-Workspace~3e41e886-9f0a-4de8-8a66-c73d6b540005/collection/43308051-142310e1-75fd-4e2b-993e-78999f731045?action=share&source=collection_link&creator=43308051"
 	},
@@ -43,7 +43,18 @@
 					"request": {
 						"method": "GET",
 						"header": [],
-						"url": "http://localhost:8080/api/artifacts",
+						"url": {
+							"raw": "http://localhost:8080/api/artifacts",
+							"protocol": "http",
+							"host": [
+								"localhost"
+							],
+							"port": "8080",
+							"path": [
+								"api",
+								"artifacts"
+							]
+						},
 						"description": "This is a GET request and it is used to \"get\" data from an endpoint. There is no request body for a GET request, but you can use query parameters to help specify the resource you want data on (e.g., in this request, we have `id=1`).\n\nA successful GET response will have a `200 OK` status, and should include some kind of response body - for example, HTML web content or JSON data."
 					},
 					"response": []
@@ -79,7 +90,19 @@
 					"request": {
 						"method": "GET",
 						"header": [],
-						"url": "http://localhost:8080/api/artifacts/f6809a24-84a3-42cb-b6ac-2342f574918f",
+						"url": {
+							"raw": "http://localhost:8080/api/artifacts/f6809a24-84a3-42cb-b6ac-2342f574918f",
+							"protocol": "http",
+							"host": [
+								"localhost"
+							],
+							"port": "8080",
+							"path": [
+								"api",
+								"artifacts",
+								"f6809a24-84a3-42cb-b6ac-2342f574918f"
+							]
+						},
 						"description": "This is a GET request and it is used to \"get\" data from an endpoint. There is no request body for a GET request, but you can use query parameters to help specify the resource you want data on (e.g., in this request, we have `id=1`).\n\nA successful GET response will have a `200 OK` status, and should include some kind of response body - for example, HTML web content or JSON data."
 					},
 					"response": []
@@ -125,7 +148,18 @@
 								}
 							}
 						},
-						"url": "http://localhost:8080/api/artifacts",
+						"url": {
+							"raw": "http://localhost:8080/api/artifacts",
+							"protocol": "http",
+							"host": [
+								"localhost"
+							],
+							"port": "8080",
+							"path": [
+								"api",
+								"artifacts"
+							]
+						},
 						"description": "This is a GET request and it is used to \"get\" data from an endpoint. There is no request body for a GET request, but you can use query parameters to help specify the resource you want data on (e.g., in this request, we have `id=1`).\n\nA successful GET response will have a `200 OK` status, and should include some kind of response body - for example, HTML web content or JSON data."
 					},
 					"response": []
@@ -166,7 +200,18 @@
 					"request": {
 						"method": "GET",
 						"header": [],
-						"url": "http://localhost:8080/api/artists",
+						"url": {
+							"raw": "http://localhost:8080/api/artists",
+							"protocol": "http",
+							"host": [
+								"localhost"
+							],
+							"port": "8080",
+							"path": [
+								"api",
+								"artists"
+							]
+						},
 						"description": "This is a GET request and it is used to \"get\" data from an endpoint. There is no request body for a GET request, but you can use query parameters to help specify the resource you want data on (e.g., in this request, we have `id=1`).\n\nA successful GET response will have a `200 OK` status, and should include some kind of response body - for example, HTML web content or JSON data."
 					},
 					"response": []
@@ -202,7 +247,19 @@
 					"request": {
 						"method": "GET",
 						"header": [],
-						"url": "http://localhost:8080/api/artists/fd7e79bf-ee80-490d-be79-f5405935dd9c",
+						"url": {
+							"raw": "http://localhost:8080/api/artists/fd7e79bf-ee80-490d-be79-f5405935dd9c",
+							"protocol": "http",
+							"host": [
+								"localhost"
+							],
+							"port": "8080",
+							"path": [
+								"api",
+								"artists",
+								"fd7e79bf-ee80-490d-be79-f5405935dd9c"
+							]
+						},
 						"description": "This is a GET request and it is used to \"get\" data from an endpoint. There is no request body for a GET request, but you can use query parameters to help specify the resource you want data on (e.g., in this request, we have `id=1`).\n\nA successful GET response will have a `200 OK` status, and should include some kind of response body - for example, HTML web content or JSON data."
 					},
 					"response": []
@@ -247,7 +304,18 @@
 								}
 							}
 						},
-						"url": "http://localhost:8080/api/artists",
+						"url": {
+							"raw": "http://localhost:8080/api/artists",
+							"protocol": "http",
+							"host": [
+								"localhost"
+							],
+							"port": "8080",
+							"path": [
+								"api",
+								"artists"
+							]
+						},
 						"description": "This is a GET request and it is used to \"get\" data from an endpoint. There is no request body for a GET request, but you can use query parameters to help specify the resource you want data on (e.g., in this request, we have `id=1`).\n\nA successful GET response will have a `200 OK` status, and should include some kind of response body - for example, HTML web content or JSON data."
 					},
 					"response": []
@@ -288,7 +356,18 @@
 					"request": {
 						"method": "GET",
 						"header": [],
-						"url": "http://localhost:8080/api/tags",
+						"url": {
+							"raw": "http://localhost:8080/api/tags",
+							"protocol": "http",
+							"host": [
+								"localhost"
+							],
+							"port": "8080",
+							"path": [
+								"api",
+								"tags"
+							]
+						},
 						"description": "This is a GET request and it is used to \"get\" data from an endpoint. There is no request body for a GET request, but you can use query parameters to help specify the resource you want data on (e.g., in this request, we have `id=1`).\n\nA successful GET response will have a `200 OK` status, and should include some kind of response body - for example, HTML web content or JSON data."
 					},
 					"response": []
@@ -324,7 +403,19 @@
 					"request": {
 						"method": "GET",
 						"header": [],
-						"url": "http://localhost:8080/api/tags/0f6fa17a-d38a-4918-a332-35a1d60a48be",
+						"url": {
+							"raw": "http://localhost:8080/api/tags/0f6fa17a-d38a-4918-a332-35a1d60a48be",
+							"protocol": "http",
+							"host": [
+								"localhost"
+							],
+							"port": "8080",
+							"path": [
+								"api",
+								"tags",
+								"0f6fa17a-d38a-4918-a332-35a1d60a48be"
+							]
+						},
 						"description": "This is a GET request and it is used to \"get\" data from an endpoint. There is no request body for a GET request, but you can use query parameters to help specify the resource you want data on (e.g., in this request, we have `id=1`).\n\nA successful GET response will have a `200 OK` status, and should include some kind of response body - for example, HTML web content or JSON data."
 					},
 					"response": []
@@ -334,41 +425,117 @@
 	],
 	"auth": {
 		"type": "oauth2",
-		"oauth2": {
-			"clientSecret": "7fjvgsiWicvtL2LR8m9gkOLHqDCNLqcCVTIREBrwNGh-mS0xDZP4-3sYPn5zq5G9",
-			"clientId": "7tmf9hJxWWz9ZPSzroj5XFC7dd7JYx11",
-			"redirect_uri": "https://localhost:7291/swagger",
-			"useBrowser": false,
-			"tokenType": "Bearer",
-			"accessToken": "eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6IlNkakpYSzR5M0pZcWFkNEcyUll0aiJ9.eyJpc3MiOiJodHRwczovL2Rldi0yaDAzb2VmdHNlcTZtcXJyLnVzLmF1dGgwLmNvbS8iLCJzdWIiOiJhdXRoMHw2ODMxODJmYWJlMmM5MzMzNjYxNTJmNmYiLCJhdWQiOiJodHRwczovL2xvY2FsaG9zdCIsImlhdCI6MTc1OTUzMjQyOCwiZXhwIjoxNzU5NjE4ODI4LCJhenAiOiI3dG1mOWhKeFdXejlaUFN6cm9qNVhGQzdkZDdKWXgxMSIsInBlcm1pc3Npb25zIjpbInJlYWQiLCJyZWFkOmFydGlmYWN0cyIsInJlYWQ6YXJ0aXN0cyIsInJlYWQ6cm9sZXMiLCJyZWFkOnRhZ3MiLCJyZWFkOnVzZXJzIiwid3JpdGUiLCJ3cml0ZTphcnRpZmFjdHMiLCJ3cml0ZTphcnRpc3RzIiwid3JpdGU6cm9sZXMiLCJ3cml0ZTp0YWdzIiwid3JpdGU6dXNlcnMiXX0.gz7haWHCkZtB0RM3-QGOAod3jP74ZosL9-OTa4pRoBXyXt3bAyDJhM9NcvC4Dl9cDCTh6FildxyQY6aUYLrk7km-lg7BIo7VT1Zx83Eyj-qDfw-rpE1DXcF3vL-RoAZLnws9k8xE4oWgGXqcu9vWUmRIXDfksaQN3pY7Obpvxg8qLay8k3BHwrMw9XrVJs92YhdtxbGcw9ebCWdSEHIarKT4ARSPGd-8u0irHZszeoFU7MS91vjTUejP20QBCYKY1tcrWlqfkMcNEMiriUJ8gZk5MQtD1g2Y0yhAAOP985LipNc6_HwgAMhnPrQZ4Owl800wKBegm4kWVLUf5s2ceg",
-			"scope": "",
-			"authRequestParams": [
-				{
-					"key": "audience",
-					"value": "https://localhost",
-					"enabled": true,
-					"send_as": "request_url"
-				}
-			],
-			"grant_type": "authorization_code",
-			"tokenName": "new",
-			"tokenRequestParams": [
-				{
-					"key": "audience",
-					"value": "https://localhost",
-					"enabled": true,
-					"send_as": "request_body"
-				}
-			],
-			"accessTokenUrl": "https://dev-2h03oeftseq6mqrr.us.auth0.com/oauth/token",
-			"client_authentication": "header",
-			"addTokenTo": "header",
-			"password": "281120031837Q12n",
-			"username": "admin@email.com",
-			"authUrl": "https://dev-2h03oeftseq6mqrr.us.auth0.com/authorize",
-			"refreshRequestParams": [],
-			"challengeAlgorithm": "S256"
-		}
+		"oauth2": [
+			{
+				"key": "useBrowser",
+				"value": false,
+				"type": "boolean"
+			},
+			{
+				"key": "clientSecret",
+				"value": "7fjvgsiWicvtL2LR8m9gkOLHqDCNLqcCVTIREBrwNGh-mS0xDZP4-3sYPn5zq5G9",
+				"type": "string"
+			},
+			{
+				"key": "clientId",
+				"value": "7tmf9hJxWWz9ZPSzroj5XFC7dd7JYx11",
+				"type": "string"
+			},
+			{
+				"key": "redirect_uri",
+				"value": "https://localhost:7291/swagger",
+				"type": "string"
+			},
+			{
+				"key": "tokenType",
+				"value": "Bearer",
+				"type": "string"
+			},
+			{
+				"key": "accessToken",
+				"value": "eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6IlNkakpYSzR5M0pZcWFkNEcyUll0aiJ9.eyJpc3MiOiJodHRwczovL2Rldi0yaDAzb2VmdHNlcTZtcXJyLnVzLmF1dGgwLmNvbS8iLCJzdWIiOiJhdXRoMHw2ODMxODJmYWJlMmM5MzMzNjYxNTJmNmYiLCJhdWQiOiJodHRwczovL2xvY2FsaG9zdCIsImlhdCI6MTc1OTUzMjQyOCwiZXhwIjoxNzU5NjE4ODI4LCJhenAiOiI3dG1mOWhKeFdXejlaUFN6cm9qNVhGQzdkZDdKWXgxMSIsInBlcm1pc3Npb25zIjpbInJlYWQiLCJyZWFkOmFydGlmYWN0cyIsInJlYWQ6YXJ0aXN0cyIsInJlYWQ6cm9sZXMiLCJyZWFkOnRhZ3MiLCJyZWFkOnVzZXJzIiwid3JpdGUiLCJ3cml0ZTphcnRpZmFjdHMiLCJ3cml0ZTphcnRpc3RzIiwid3JpdGU6cm9sZXMiLCJ3cml0ZTp0YWdzIiwid3JpdGU6dXNlcnMiXX0.gz7haWHCkZtB0RM3-QGOAod3jP74ZosL9-OTa4pRoBXyXt3bAyDJhM9NcvC4Dl9cDCTh6FildxyQY6aUYLrk7km-lg7BIo7VT1Zx83Eyj-qDfw-rpE1DXcF3vL-RoAZLnws9k8xE4oWgGXqcu9vWUmRIXDfksaQN3pY7Obpvxg8qLay8k3BHwrMw9XrVJs92YhdtxbGcw9ebCWdSEHIarKT4ARSPGd-8u0irHZszeoFU7MS91vjTUejP20QBCYKY1tcrWlqfkMcNEMiriUJ8gZk5MQtD1g2Y0yhAAOP985LipNc6_HwgAMhnPrQZ4Owl800wKBegm4kWVLUf5s2ceg",
+				"type": "string"
+			},
+			{
+				"key": "scope",
+				"value": "",
+				"type": "string"
+			},
+			{
+				"key": "authRequestParams",
+				"value": [
+					{
+						"key": "audience",
+						"value": "https://localhost",
+						"enabled": true,
+						"send_as": "request_url"
+					}
+				],
+				"type": "any"
+			},
+			{
+				"key": "grant_type",
+				"value": "authorization_code",
+				"type": "string"
+			},
+			{
+				"key": "tokenName",
+				"value": "new",
+				"type": "string"
+			},
+			{
+				"key": "tokenRequestParams",
+				"value": [
+					{
+						"key": "audience",
+						"value": "https://localhost",
+						"enabled": true,
+						"send_as": "request_body"
+					}
+				],
+				"type": "any"
+			},
+			{
+				"key": "accessTokenUrl",
+				"value": "https://dev-2h03oeftseq6mqrr.us.auth0.com/oauth/token",
+				"type": "string"
+			},
+			{
+				"key": "client_authentication",
+				"value": "header",
+				"type": "string"
+			},
+			{
+				"key": "addTokenTo",
+				"value": "header",
+				"type": "string"
+			},
+			{
+				"key": "password",
+				"value": "281120031837Q12n",
+				"type": "string"
+			},
+			{
+				"key": "username",
+				"value": "admin@email.com",
+				"type": "string"
+			},
+			{
+				"key": "authUrl",
+				"value": "https://dev-2h03oeftseq6mqrr.us.auth0.com/authorize",
+				"type": "string"
+			},
+			{
+				"key": "refreshRequestParams",
+				"value": [],
+				"type": "any"
+			},
+			{
+				"key": "challengeAlgorithm",
+				"value": "S256",
+				"type": "string"
+			}
+		]
 	},
 	"event": [
 		{
