@@ -67,7 +67,7 @@ pipeline {
                 */
             }
         }
-
+        
         // ======================
         stage('Code Quality Analysis') {
             steps {
@@ -136,7 +136,7 @@ pipeline {
                 }
             }
         }
-
+        /*
         // ======================
         stage('Release') {
             steps {
@@ -173,6 +173,7 @@ pipeline {
                 echo "Monitoring stage"
             }
         }
+        */
     }
 
     post {
