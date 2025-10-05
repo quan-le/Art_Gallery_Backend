@@ -12,6 +12,8 @@ pipeline {
         SONAR_ORG = "quan-le"
         SONAR_PROJECT_kEY = "quan-le_Art_Gallery_Backend"
         NVD_API_KEY = credentials('NVD_API_KEY')
+        OCTOPUS_URL = 'https://quanle.octopus.app'
+        OCTOPUS_API_KEY = credentials('OCTOPUS_API_KEY')
     }
 
     stages {
@@ -139,6 +141,29 @@ pipeline {
         stage('Release') {
             steps {
                 echo "Release stage"
+                echo "Pushing Docker Image to Docker HUb for release"
+                script {
+                    sh """
+                        docker tag ${API_IMAGE} quanle/art-gallery-api:${BUILD_NUMBER}
+                        docker tag ${API_IMAGE} quanle/art-gallery-api:latest
+                        docker push quanle/art-gallery-api:${BUILD_NUMBER}
+                        docker push quanle/art-gallery-api:latest
+                    """
+                    echo "Triggering Octopus Deplpoy release"
+                    def version = "${BUILD_NUMBER}"
+                    def projectName = "Art Gallery API"
+                    sh """
+                    curl -X POST ${OCTOPUS_URL}/api/releases \
+                        -H "X-Octopus-ApiKey: ${OCTOPUS_API_KEY}" \
+                        -H "Content-Type: application/json" \
+                        -d '{
+                            "Version": "${version}",
+                            "ReleaseNotes": "Automated release from Jenkins build #${BUILD_NUMBER}"
+                        }'
+                    """
+                    
+                    echo "Octopus Release triggered successfully."
+                }
             }
         }
 
