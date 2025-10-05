@@ -427,14 +427,14 @@
 		"type": "oauth2",
 		"oauth2": [
 			{
+				"key": "redirect_uri",
+				"value": "https://localhost:7291/swagger",
+				"type": "string"
+			},
+			{
 				"key": "useBrowser",
 				"value": false,
 				"type": "boolean"
-			},
-			{
-				"key": "redirect_uri",
-				"value": "https://localhost:7291/scalar",
-				"type": "string"
 			},
 			{
 				"key": "tokenType",
