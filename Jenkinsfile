@@ -27,7 +27,7 @@ pipeline {
             steps {
                 script {
                     echo "Building Docker image for the API"
-                    sh "docker build --no-cache -t ${API_IMAGE} -f Art_Gallery/Dockerfile Art_Gallery"
+                    sh "docker build -t ${API_IMAGE} -f Art_Gallery/Dockerfile Art_Gallery"
                     /*
                     echo "Publishing dotnet artifacts"
                     dir('Art_Gallery') {
@@ -105,7 +105,7 @@ pipeline {
                     --scan Art_Gallery
                     --format "ALL"
                     --out dependency-check-report
-                    --nvdApiKey ${env.NVD_API_KEY}
+                    --nvdApiKey a7ed2a3f-41ff-45eb-a682-3cda27de56cb
                 ''', odcInstallation: 'DependencyCheck'
             }
             post {
