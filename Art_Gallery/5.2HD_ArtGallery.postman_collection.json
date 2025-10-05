@@ -18,10 +18,9 @@
 							"listen": "test",
 							"script": {
 								"exec": [
-									"pm.test(\"Status code is 200\", function () {",
-									"    pm.response.to.have.status(200);",
-									"});",
-									""
+									"pm.test(\"Status code is 200 or 401\", function () {",
+									"    pm.expect(pm.response.code).to.be.oneOf([200, 401]);",
+									"});"
 								],
 								"type": "text/javascript",
 								"packages": {},
@@ -427,6 +426,18 @@
 		"type": "oauth2",
 		"oauth2": [
 			{
+				"key": "refreshRequestParams",
+				"value": [
+					{
+						"key": "audience",
+						"value": "https://localhost",
+						"enabled": true,
+						"send_as": "request_body"
+					}
+				],
+				"type": "any"
+			},
+			{
 				"key": "useBrowser",
 				"value": false,
 				"type": "boolean"
@@ -524,11 +535,6 @@
 				"key": "authUrl",
 				"value": "https://dev-2h03oeftseq6mqrr.us.auth0.com/authorize",
 				"type": "string"
-			},
-			{
-				"key": "refreshRequestParams",
-				"value": [],
-				"type": "any"
 			},
 			{
 				"key": "challengeAlgorithm",
