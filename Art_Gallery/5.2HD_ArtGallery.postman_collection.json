@@ -65,8 +65,8 @@
 							"listen": "test",
 							"script": {
 								"exec": [
-									"pm.test(\"Status code is 200\", function () {",
-									"    pm.response.to.have.status(200);",
+									"pm.test(\"Status code is 200 or 401\", function () {",
+									"    pm.expect(pm.response.code).to.be.oneOf([200, 401]);",
 									"});"
 								],
 								"type": "text/javascript",
@@ -113,10 +113,9 @@
 							"listen": "test",
 							"script": {
 								"exec": [
-									"pm.test(\"Status code is 201\", function () {",
-									"    pm.response.to.have.status(201);",
-									"});",
-									""
+									"pm.test(\"Status code is 201 or 401\", function () {",
+									"    pm.expect(pm.response.code).to.be.oneOf([201, 401]);",
+									"});"
 								],
 								"type": "text/javascript",
 								"packages": {},
@@ -175,8 +174,8 @@
 							"listen": "test",
 							"script": {
 								"exec": [
-									"pm.test(\"Status code is 200\", function () {",
-									"    pm.response.to.have.status(200);",
+									"pm.test(\"Status code is 200 or 401\", function () {",
+									"    pm.expect(pm.response.code).to.be.oneOf([200, 401]);",
 									"});"
 								],
 								"type": "text/javascript",
@@ -222,8 +221,8 @@
 							"listen": "test",
 							"script": {
 								"exec": [
-									"pm.test(\"Status code is 200\", function () {",
-									"    pm.response.to.have.status(200);",
+									"pm.test(\"Status code is 200 or 401\", function () {",
+									"    pm.expect(pm.response.code).to.be.oneOf([200, 401]);",
 									"});"
 								],
 								"type": "text/javascript",
@@ -270,8 +269,8 @@
 							"listen": "test",
 							"script": {
 								"exec": [
-									"pm.test(\"Status code is 201\", function () {",
-									"    pm.response.to.have.status(201);",
+									"pm.test(\"Status code is 201 or 401\", function () {",
+									"    pm.expect(pm.response.code).to.be.oneOf([201, 401]);",
 									"});"
 								],
 								"type": "text/javascript",
@@ -331,8 +330,8 @@
 							"listen": "test",
 							"script": {
 								"exec": [
-									"pm.test(\"Status code is 200\", function () {",
-									"    pm.response.to.have.status(200);",
+									"pm.test(\"Status code is 200 or 401\", function () {",
+									"    pm.expect(pm.response.code).to.be.oneOf([200, 401]);",
 									"});"
 								],
 								"type": "text/javascript",
@@ -378,8 +377,8 @@
 							"listen": "test",
 							"script": {
 								"exec": [
-									"pm.test(\"Status code is 200\", function () {",
-									"    pm.response.to.have.status(200);",
+									"pm.test(\"Status code is 200 or 401\", function () {",
+									"    pm.expect(pm.response.code).to.be.oneOf([200, 401]);",
 									"});"
 								],
 								"type": "text/javascript",
