@@ -427,6 +427,16 @@
 		"type": "oauth2",
 		"oauth2": [
 			{
+				"key": "useBrowser",
+				"value": false,
+				"type": "boolean"
+			},
+			{
+				"key": "redirect_uri",
+				"value": "https://localhost:7291/scalar",
+				"type": "string"
+			},
+			{
 				"key": "tokenType",
 				"value": "Bearer",
 				"type": "string"
@@ -469,11 +479,6 @@
 				"type": "string"
 			},
 			{
-				"key": "redirect_uri",
-				"value": "https://localhost:7291/swagger",
-				"type": "string"
-			},
-			{
 				"key": "tokenName",
 				"value": "new",
 				"type": "string"
@@ -504,11 +509,6 @@
 				"key": "addTokenTo",
 				"value": "header",
 				"type": "string"
-			},
-			{
-				"key": "useBrowser",
-				"value": false,
-				"type": "boolean"
 			},
 			{
 				"key": "password",
