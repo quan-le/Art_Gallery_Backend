@@ -112,6 +112,14 @@ pipeline {
                 always {
                     echo "Publishing Dependency-Check Reports:"
                     dependencyCheckPublisher pattern: '**/dependency-check-report/*.xml'
+                    echo "Dependency-Check HTML Report Output:"
+                    sh '''
+                        if [ -f dependency-check-report/dependency-check-report.html ]; then
+                            cat dependency-check-report/dependency-check-report.html
+                        else
+                            echo "No HTML report found."
+                        fi
+                    '''
                 }
                 failure {
                     echo "Security vulnerabilities detected. Review report in Jenkins or HTML output."
