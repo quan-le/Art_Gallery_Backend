@@ -8,6 +8,7 @@ namespace ArtGallery.Controllers
 {
     [ApiController]
     [Route("api/artifacts")]
+    [AllowAnonymous]
 
     public class ArtifactController : ControllerBase
     {

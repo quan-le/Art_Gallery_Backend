@@ -7,6 +7,8 @@ using Microsoft.AspNetCore.Authorization;
 namespace ArtGallery.Controllers
 {
     [ApiController]
+    [AllowAnonymous]
+
     [Route("api/artists")]
     public class ArtistController : ControllerBase
     {
