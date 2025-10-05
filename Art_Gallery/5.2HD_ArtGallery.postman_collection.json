@@ -427,6 +427,16 @@
 		"type": "oauth2",
 		"oauth2": [
 			{
+				"key": "clientSecret",
+				"value": "7fjvgsiWicvtL2LR8m9gkOLHqDCNLqcCVTIREBrwNGh-mS0xDZP4-3sYPn5zq5G9",
+				"type": "string"
+			},
+			{
+				"key": "clientId",
+				"value": "7tmf9hJxWWz9ZPSzroj5XFC7dd7JYx11",
+				"type": "string"
+			},
+			{
 				"key": "redirect_uri",
 				"value": "https://localhost:7291/swagger",
 				"type": "string"
@@ -466,16 +476,6 @@
 			{
 				"key": "grant_type",
 				"value": "authorization_code",
-				"type": "string"
-			},
-			{
-				"key": "clientSecret",
-				"value": "7fjvgsiWicvtL2LR8m9gkOLHqDCNLqcCVTIREBrwNGh-mS0xDZP4-3sYPn5zq5G9",
-				"type": "string"
-			},
-			{
-				"key": "clientId",
-				"value": "7tmf9hJxWWz9ZPSzroj5XFC7dd7JYx11",
 				"type": "string"
 			},
 			{
