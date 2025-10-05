@@ -112,13 +112,12 @@ pipeline {
                 always {
                     echo "Publishing Dependency-Check Reports:"
                     dependencyCheckPublisher pattern: '**/dependency-check-report/*.xml'
-                    echo "Dependency-Check HTML Report Output:"
+                     echo "Copying Dependency-Check reports to persistent folder..."
                     sh '''
-                        if [ -f dependency-check-report/dependency-check-report.html ]; then
-                            cat dependency-check-report/dependency-check-report.html
-                        else
-                            echo "No HTML report found."
-                        fi
+                        TARGET_DIR="/var/jenkins_home/dependency-reports/${BUILD_NUMBER}"
+                        mkdir -p "$TARGET_DIR"
+                        cp -r dependency-check-report/* "$TARGET_DIR/"
+                        echo "Reports copied to $TARGET_DIR"
                     '''
                 }
                 failure {
